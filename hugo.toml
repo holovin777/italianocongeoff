@@ -10,5 +10,9 @@ title = 'Italiano con Geoff'
 [menu]
   [[menu.main]]
     name = "Lessons"
-    url = "/lessons/"
+    url = "/docs/lessons/"
+    weight = 1
+  [[menu.main]]
+    name = "Exercises"
+    url = "/docs/exercises/"
     weight = 2

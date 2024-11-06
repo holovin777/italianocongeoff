@@ -64,3 +64,14 @@ If you’re unsure whether to use “Ciao” or “Buongiorno,” you can say **
 
 Try practicing these phrases out loud! Next time you meet someone, see if you can start with a friendly “Ciao!” or “Buongiorno!” – and remember, a little enthusiasm goes a long way.
 
+---
+
+## Ready to Practice?
+
+Now that you’ve learned the basics, it’s time to put your skills to the test! Head over to the exercises to practice what you’ve learned:
+
+- [Go to Exercise 1: Basic Greetings Practice](../exercise1/)
+
+---
+
+Good luck, and don’t worry if it takes a few tries to get the hang of it. Practice makes perfect – or as we say in Italian, “La pratica rende perfetti!”
