@@ -6,7 +6,7 @@ description: "Start your Italian journey with essential greetings and learn how 
 
 # Lesson 1: Basic Greetings
 
-![Home](/images/lessons/lesson1.webp)
+![Lesson1](/images/lessons/lesson1/lesson1.webp)
 
 Benvenuto! In this first lesson, we’ll dive into some basic Italian greetings. Knowing how to greet people is the first step to sounding friendly (and maybe even a little Italian). So, let’s get started!
 
