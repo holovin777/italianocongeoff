@@ -3,7 +3,7 @@ title: "Italiano con Geoff"
 description: "Welcome to Italiano con Geoff – the website where you and I learn Italian together! Join me for simple lessons, everyday phrases, and a touch of humor to make the journey fun."
 ---
 
-# Welcome to Italiano con Geoff!
+# Welcome to "Italiano con Geoff"!
 
 ![Home](/images/29bf9fa2-b3fc-4e3f-98d8-00634b25f939.webp)
 
