@@ -1,8 +1,6 @@
 ---
 title: "Irregular verbs"
-date: 2024-11-06
-tags: ["Irregular", "Verb"]
-width: 30
+width: 1
 ---
 
 # Irregular verbs
