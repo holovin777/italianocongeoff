@@ -5,6 +5,9 @@ description: "Welcome to Italiano con Geoff – the website where you and I lear
 
 # Welcome to Italiano con Geoff!
 
+![Home](/images/29bf9fa2-b3fc-4e3f-98d8-00634b25f939.webp)
+
+
 Hello, and welcome to **Italiano con Geoff**! I’m Geoff – a fellow learner of Italian, navigating the language with a bit of determination, a lot of curiosity, and, yes, a sense of humor. Whether you're a beginner like me or just here to brush up on your Italian, let's explore the language together!
 
 ### What’s Here?
