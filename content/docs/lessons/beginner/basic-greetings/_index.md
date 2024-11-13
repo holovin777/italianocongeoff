@@ -17,11 +17,11 @@ Here’s what you’ll find:
 - **Formal Greetings**: Polished phrases for when you want to impress (or meet your future Italian in-laws).
 - **Farewells**: How to say goodbye in style – yes, Italians have multiple ways!
 
-### Ready to Start Lesson 1?
+### Ready to Start Lesson 1.1?
 
 Jump into your first lesson on basic greetings and start practicing your *Ciao!* and *Buongiorno!* here:
 
-- [Go to Lesson 1: Basic Greetings](../basic-greetings/lesson1/)
+- [Go to Lesson 1.1: Basic Greetings](../basic-greetings/lesson1.1/)
 
 ---
 
