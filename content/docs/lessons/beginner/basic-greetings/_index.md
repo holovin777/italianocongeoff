@@ -6,6 +6,8 @@ description: "Learn how to greet people and make a friendly first impression in 
 
 # Basic Greetings – Say Hello the Italian Way! 👋
 
+![Basic Greetings](/images/beginner-level/basic-greetings/b2587f28-0d43-4ff6-985a-1f66758db6fc.webp/)
+
 Benvenuto! (That’s Italian for “Welcome!”) You’re about to take your first steps into Italian greetings, where a simple *Ciao!* can open doors and a *Buongiorno!* can bring smiles. Here in the **Basic Greetings** section, we’re all about those first impressions – Italian style. 🇮🇹
 
 ### What’s in Store?

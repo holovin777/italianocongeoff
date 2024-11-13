@@ -6,6 +6,8 @@ description: "Learn how to introduce yourself in Italian with confidence. From s
 
 # Introducing Yourself – Make a Great First Impression! 👋
 
+![Introducing Yourself](static/images/beginner-level/introducing-yourself/introducing-yourself.webp/)
+
 Benvenuto! Now that you know the basics of greeting people, it’s time to introduce yourself. Italians love a good conversation, and knowing how to introduce yourself is a fantastic way to connect with others. In this section, you’ll learn the essential phrases to say your name, ask for someone else’s, and even share where you’re from.
 
 ### What You'll Learn
