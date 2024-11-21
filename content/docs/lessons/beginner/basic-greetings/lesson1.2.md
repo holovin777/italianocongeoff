@@ -1,6 +1,6 @@
 ---
 title: "Lesson 1.2: Saying Goodbye Like a Pro"
-weight: 2
+weight: 4
 description: "Master the art of Italian farewells and leave every conversation with style and grace."
 ---
 
