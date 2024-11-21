@@ -19,9 +19,9 @@
 &lt;li>&lt;strong>New Friend&lt;/strong>: Mi chiamo Sofia. &lt;strong>_____&lt;/strong> (Nice to meet you!), Giovanni!&lt;/li>
 &lt;li>&lt;strong>You&lt;/strong>: &lt;strong>_____&lt;/strong> (The pleasure is mine!), Sofia! &lt;strong>_____&lt;/strong> (I’m from) Firenze.&lt;/li>
 &lt;/ol>
-&lt;details >
- &lt;summary>Answers&lt;/summary>
- &lt;h3 id="answers">
+&lt;details >&lt;summary>Answers&lt;/summary>
+ &lt;div class="markdown-inner">
+&lt;h3 id="answers">
  Answers:
  &lt;a class="anchor" href="#answers">#&lt;/a>
 &lt;/h3>
@@ -31,6 +31,7 @@
 &lt;li>&lt;strong>Piacere!&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>Il piacere è mio! Sono di&lt;/strong>&lt;/li>
 &lt;/ol>
+ &lt;/div>
 &lt;/details>
 &lt;hr>
 &lt;h3 id="2-multiple-choice--choose-the-right-response">
