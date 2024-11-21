@@ -10,39 +10,51 @@ Ready to practice introducing yourself? This exercise will help you reinforce th
 
 ---
 
-### 1. Fill in the Blanks – Complete the Conversation
+### 1. Fill in the Blanks – Complete the Conversation  
 
 Use the correct Italian phrases to complete each sentence.
 
-1. **You**: Ciao! **_____** (My name is) Giovanni.
-   
+1. **You**: Ciao! **_____** (My name is) Giovanni.  
 2. **You**: **_____** (What’s your name?)  
+3. **New Friend**: Mi chiamo Sofia. **_____** (Nice to meet you!), Giovanni!  
+4. **You**: **_____** (The pleasure is mine!), Sofia! **_____** (I’m from) Firenze.  
 
-3. **New Friend**: Mi chiamo Sofia. **_____** (Nice to meet you!), Giovanni!
-
-4. **You**: **_____** (The pleasure is mine!), Sofia! **_____** (I’m from) Firenze.
+{{% details title="Answers" open=false %}}
+### Answers:
+1. **Mi chiamo**  
+2. **Come ti chiami?**  
+3. **Piacere!**  
+4. **Il piacere è mio! Sono di**  
+{{% /details %}}
 
 ---
 
-### 2. Multiple Choice – Choose the Right Response
+### 2. Multiple Choice – Choose the Right Response  
 
 Pick the correct response for each situation.
 
-1. You’re meeting someone new in a professional setting. Which greeting would you use?
-   - A) Come ti chiami?
-   - B) Come si chiama?
+1. You’re meeting someone new in a professional setting. Which greeting would you use?  
+   - A) Come ti chiami?  
+   - B) Come si chiama?  
 
-2. You want to tell someone where you’re from. Which phrase should you use?
-   - A) Sono di [City]
-   - B) Mi chiamo [City]
+2. You want to tell someone where you’re from. Which phrase should you use?  
+   - A) Sono di [City]  
+   - B) Mi chiamo [City]  
 
-3. Someone introduces themselves and says, “Mi chiamo Luca.” How do you respond?
-   - A) Buongiorno!
-   - B) Piacere!
+3. Someone introduces themselves and says, “Mi chiamo Luca.” How do you respond?  
+   - A) Buongiorno!  
+   - B) Piacere!  
+
+{{% details title="Answers" open=false %}}
+### Answers:
+1. **B) Come si chiama?**  
+2. **A) Sono di [City]**  
+3. **B) Piacere!**  
+{{% /details %}}
 
 ---
 
-### 3. Match the Phrases – Who Says What?
+### 3. Match the Phrases – Who Says What?  
 
 Match each Italian phrase to its correct meaning. Write the letter next to the correct answer.
 
@@ -50,43 +62,66 @@ Match each Italian phrase to its correct meaning. Write the letter next to the c
 2. **Come ti chiami?**  
 3. **Sono di Milano**  
 4. **Piacere!**  
-5. **Il piacere è mio!**
+5. **Il piacere è mio!**  
 
 A) What’s your name? (informal)  
 B) Nice to meet you!  
 C) I’m from Milan  
 D) My name is Carlo  
-E) The pleasure is mine
+E) The pleasure is mine  
+
+{{% details title="Answers" open=false %}}
+### Answers:
+1. **D) My name is Carlo**  
+2. **A) What’s your name? (informal)**  
+3. **C) I’m from Milan**  
+4. **B) Nice to meet you!**  
+5. **E) The pleasure is mine**  
+{{% /details %}}
 
 ---
 
-### 4. Situational Practice – Choose the Right Phrase
+### 4. Situational Practice – Choose the Right Phrase  
 
 Imagine you’re in each of these situations. Write down what you would say using the correct Italian phrase.
 
-1. **Situation**: You’re at a party, and you want to introduce yourself to a new friend.
-   - Response: ___________________________
+1. **Situation**: You’re at a party, and you want to introduce yourself to a new friend.  
+   - **Response**: ___________________________  
 
-2. **Situation**: You’re meeting someone older or in a formal setting and want to ask their name politely.
-   - Response: ___________________________
+2. **Situation**: You’re meeting someone older or in a formal setting and want to ask their name politely.  
+   - **Response**: ___________________________  
 
-3. **Situation**: Someone tells you, “Sono di Roma.” How do you respond to show you’re happy to meet them?
-   - Response: ___________________________
+3. **Situation**: Someone tells you, “Sono di Roma.” How do you respond to show you’re happy to meet them?  
+   - **Response**: ___________________________  
+
+{{% details title="Suggested Answers" open=false %}}
+### Suggested Answers:
+1. **Ciao! Mi chiamo [Your Name].**  
+2. **Come si chiama?**  
+3. **Piacere!**  
+{{% /details %}}
 
 ---
 
-### 5. Creative Dialogue – Put It All Together
+### 5. Creative Dialogue – Put It All Together  
 
-Imagine meeting a new friend in Italy. Write a short dialogue using at least two phrases from this lesson. Here’s an example to get you started:
+Imagine meeting a new friend in Italy. Write a short dialogue using at least two phrases from this lesson.  
 
-**Example**:
-- **You**: Ciao! Mi chiamo Andrea. Come ti chiami?
-- **New Friend**: Ciao Andrea! Mi chiamo Sara.
-- **You**: Piacere, Sara! Sei di qui?
-- **New Friend**: No, sono di Napoli. E tu?
-- **You**: Sono di Roma. Il piacere è mio!
+**Example**:  
+- **You**: Ciao! Mi chiamo Andrea. Come ti chiami?  
+- **New Friend**: Ciao Andrea! Mi chiamo Sara.  
+- **You**: Piacere, Sara! Sei di qui?  
+- **New Friend**: No, sono di Napoli. E tu?  
+- **You**: Sono di Roma. Il piacere è mio!  
 
-Now it’s your turn! Write your own version below:
+{{% details title="Example Dialogue" open=false %}}
+### Example Dialogue:
+- **You**: Ciao! Mi chiamo Andrea. Come ti chiami?  
+- **New Friend**: Ciao Andrea! Mi chiamo Sara.  
+- **You**: Piacere, Sara! Sei di qui?  
+- **New Friend**: No, sono di Napoli. E tu?  
+- **You**: Sono di Roma. Il piacere è mio!  
+{{% /details %}}
 
 ---
 

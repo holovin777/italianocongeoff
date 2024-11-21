@@ -16,3 +16,6 @@ title = 'Italiano con Geoff'
     name = "Exercises"
     url = "/docs/exercises/"
     weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true
