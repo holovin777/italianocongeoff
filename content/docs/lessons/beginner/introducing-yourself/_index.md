@@ -1,6 +1,6 @@
 ---
-title: "Introducing Yourself"
-weight: 1
+title: "2. Introducing Yourself"
+weight: 2
 description: "Learn how to introduce yourself in Italian with confidence. From sharing your name to saying where you're from, make a great first impression!"
 ---
 
