@@ -6,7 +6,7 @@ Welcome to **Italiano con Geoff**! Here’s a full learning journey that covers 
 
 1. [**Basic Greetings**](../lessons/beginner/basic-greetings/) – Simple greetings like “Ciao” and “Buongiorno.”
 2. [**Introducing Yourself**](../lessons/beginner/introducing-yourself/) – How to introduce yourself and ask for someone’s name.
-3. [**Ordering at a Café**](../lessons/beginner/ordering-at-cafe/) – Essential phrases for ordering food and drinks.
+3. [**Ordering at a Café**](../lessons/beginner/ordering-at-a-cafe/) – Essential phrases for ordering food and drinks.
 4. [**Asking for Directions**](../lessons/beginner/asking-for-directions/) – Learn to ask and understand directions.
 5. [**Shopping Essentials**](../lessons/beginner/shopping-essentials/) – How to ask prices, sizes, and common phrases for shopping.
 6. [**Numbers and Counting**](../lessons/beginner/numbers-counting/) – From 1 to 100, plus tips on dates and times.
