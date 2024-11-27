@@ -1,12 +1,12 @@
 ---
 title: "Exercise 2.2: Talking About Your Hobbies and Interests"
 weight: 6
-description: "Practice talking about hobbies, interests, and jobs in Italian with fun and engaging exercises."
+description: "Practice talking about hobbies, interests, and even genealogy in Italian with fun and engaging exercises."
 ---
 
-# Exercise 2.2: Talking About Your Hobbies and Interests 🎸🎨
+# Exercise 2.2: Talking About Your Hobbies and Interests 🎸🎨  
 
-Are you ready to wow Italians with your ability to talk about how much you love reading and watching movies? (Even if your actual hobby is binge-watching cat videos on YouTube.) Let’s dive into some exercises to practice sharing hobbies, asking about others’ interests, and maybe even sneaking in your job title.
+Are you ready to wow Italians with your ability to talk about how much you love reading, watching movies, or digging into your family history? (Even if your hobby is secretly binge-watching cat videos.) Let’s dive into some exercises to practice sharing hobbies, asking about others’ interests, and even sneaking in genealogy.
 
 ---
 
@@ -15,18 +15,18 @@ Are you ready to wow Italians with your ability to talk about how much you love 
 Use the correct form of **piacere** to complete each sentence.
 
 1. **Mi _____ leggere.** (I like reading.)  
-2. **Mi _____ i viaggi.** (I like traveling.)  
+2. **Mi _____ i viaggi.** (I like trips.)  
 3. **A te cosa _____ fare?** (What do you like to do?)  
 4. **Mi _____ ascoltare musica e cucinare.** (I like listening to music and cooking.)  
 
-> **Hint**: Remember, singular activities use **piace**, and plural things use **piacciono.**  
+**Hint**: Use **piace** for singular activities or infinitive verbs (e.g., *guardare film*, *leggere libri*). Use **piacciono** for plural nouns (e.g., *i viaggi*, *i libri*). Even if the object is plural, when focusing on an activity involving it (e.g., *guardare film*), use **piace**.
 
 {{% details title="Answers" open=false %}}
-### Answers:
-1. **piace**  
-2. **piacciono**  
-3. **piace**  
-4. **piace**  
+### Answers:  
+1. **Mi piace leggere.**  
+2. **Mi piacciono i viaggi.**  
+3. **A te cosa piace fare?**  
+4. **Mi piace ascoltare musica e cucinare.**  
 {{% /details %}}
 
 ---
@@ -39,21 +39,25 @@ Match the Italian sentence to its English translation. Write the letter next to 
 2. **Mi piacciono i libri.**  
 3. **Mi piace fare sport.**  
 4. **Mi piace cucinare.**  
-5. **Mi piacciono i viaggi.**  
+5. **Mi piacciono i viaggi.**
 
-A) I like reading books.  
-B) I like cooking.  
+**Options**:  
+A) I like cooking.  
+B) I like reading books.  
 C) I like watching movies.  
 D) I like playing sports.  
-E) I like traveling.  
+E) I like trips.  
 
 {{% details title="Answers" open=false %}}
-### Answers:
+### Answers:  
 1. **C) I like watching movies.**  
-2. **A) I like reading books.**  
+   - Even though "movies" is plural, the focus is on the activity "watching," so **piace** is used.  
+2. **B) I like reading books.**  
+   - Italians often imply the action of reading when talking about books.  
 3. **D) I like playing sports.**  
-4. **B) I like cooking.**  
-5. **E) I like traveling.**  
+4. **A) I like cooking.**  
+5. **E) I like trips.**  
+   - "Viaggi" is plural, so **piacciono** is used.  
 {{% /details %}}
 
 ---
@@ -81,50 +85,55 @@ Pick the correct Italian phrase to complete the conversation.
    - C) Mi piacciono i film.  
 
 {{% details title="Answers" open=false %}}
-### Answers:
+### Answers:  
 1. **A) Mi piacciono i cani.**  
+   - Even though "dogs" is plural, it’s an acceptable response as Italians interpret this question broadly.  
 2. **B) Mi piace leggere e ascoltare musica.**  
 3. **B) Lavoro come cuoco.**  
+   - The response focuses on sharing one’s profession.  
 {{% /details %}}
 
 ---
 
-### 4. Situational Practice – Pick the Right Phrase  
+### 4. Situational Responses – What Would You Say?  
 
-Write down what you would say in each situation. Feel free to sprinkle in a little personality. Italians love that.
+Imagine yourself in each of these situations. Write down what you would say using the correct Italian phrase.
 
-1. **Situation**: You’re meeting a new friend, and they ask you, “Cosa ti piace fare?” How would you respond?  
-   - **Your Response**: __________________________________________  
+1. **Situation**: You’re at a park, and someone asks, “Cosa ti piace fare?” How do you respond?  
+   - **Your Response**: ___________________________  
 
-2. **Situation**: You’re at a party, and someone says, “Mi piace viaggiare. E tu?” What do you say back?  
-   - **Your Response**: __________________________________________  
+2. **Situation**: You’re chatting with a new friend, and they say, “Mi piacciono i viaggi. E a te?” How do you reply?  
+   - **Your Response**: ___________________________  
 
-3. **Situation**: Your new Italian friend asks, “Cosa fai nella vita?” (What do you do for work?) How do you answer?  
-   - **Your Response**: __________________________________________  
+3. **Situation**: Someone asks, “Cosa fai nella vita?” How do you answer?  
+   - **Your Response**: ___________________________  
 
 {{% details title="Suggested Answers" open=false %}}
-### Suggested Answers:
+### Suggested Answers:  
 1. **Mi piace leggere e ascoltare musica.**  
-2. **Mi piace cucinare.**  
-3. **Sono insegnante.**  
+2. **Mi piacciono i libri e cucinare.**  
+3. **Lavoro come insegnante.**  
 {{% /details %}}
 
 ---
 
-### 5. Creative Dialogue – Let’s Get Chatty  
+### 5. Creative Dialogue – Exploring Genealogy  
 
-Write a short dialogue with a new friend. Use at least two hobbies and a job title.  
+Write a short dialogue with a friend about your family history. Here’s an example to inspire you:
 
-**Example**:  
-- **You**: Mi piace ascoltare musica e viaggiare. E a te?  
-- **Friend**: Mi piace cucinare. Lavoro come cuoco. E tu?  
-- **You**: Lavoro come insegnante. Mi piace guardare film.  
+{{% details title="Example Dialogue with Translation" open=false %}}
+### Example Dialogue with English Humor Translation:  
 
-{{% details title="Example Dialogue" open=false %}}
-### Example Dialogue:
-- **You**: Mi piace ascoltare musica e viaggiare. E a te?  
-- **Friend**: Mi piace cucinare. Lavoro come cuoco. E tu?  
-- **You**: Lavoro come insegnante. Mi piace guardare film.  
+- **You**: Mi piace esplorare la genealogia. E a te?  
+  (*I like exploring genealogy. And you?*)  
+- **Friend**: Anch’io! Mi piace scoprire storie della mia famiglia. Da dove viene la tua famiglia?  
+  (*Me too! I like discovering stories about my family. Where is your family from?*)  
+- **You**: La mia famiglia è di Australia. Sì, proprio i canguri e tutto il resto!  
+  (*My family is from Australia. Yes, the kangaroos and everything!*)  
+- **Friend**: Interessante! Hai scoperto qualcosa di sorprendente?  
+  (*Interesting! Have you discovered anything surprising?*)  
+- **You**: Sì, un mio antenato era un pastore di pecore! Pare che le pecore abbiano più documenti di me.  
+  (*Yes, one of my ancestors was a shepherd! It seems the sheep have more records than I do.*)  
 {{% /details %}}
 
 ---
@@ -133,11 +142,11 @@ Write a short dialogue with a new friend. Use at least two hobbies and a job tit
 
 Imagine someone asks you, “Cosa ti piace fare?” Surprise them with a fun or unusual hobby. Write it out in Italian.  
 
-**Example**:  
-- **Mi piace fare il karaoke in italiano.** (I like singing karaoke in Italian.)  
-
-What’s your quirky hobby? Write it here: ________________________________________  
+{{% details title="Suggested Answer" open=false %}}
+**Your Hobby**: Mi piace disegnare mappe immaginarie di città italiane.  
+(*I like drawing imaginary maps of Italian cities.*)  
+{{% /details %}}
 
 ---
 
-That’s it for Exercise 2.2! If you accidentally wrote "Mi piace lavorare troppo" (I like working too much), please reconsider your life choices. Otherwise, check your answers above. Buona fortuna! 🎉
+Congratulations! You’ve just completed Exercise 2.2. Whether you're exploring genealogy or surprising someone with a quirky hobby, you’re now ready to impress Italians with your interests. Buona fortuna! 🎉
