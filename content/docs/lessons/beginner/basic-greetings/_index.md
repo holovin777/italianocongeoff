@@ -1,5 +1,5 @@
 ---
-title: "Basic Greetings"
+title: "1. Basic Greetings"
 weight: 1
 description: "Learn how to greet people and make a friendly first impression in Italian. Say hello like a true Italian!"
 ---

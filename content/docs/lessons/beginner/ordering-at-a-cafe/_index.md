@@ -1,6 +1,6 @@
 ---
-title: "Ordering at a Café"
-weight: 1
+title: "3. Ordering at a Café"
+weight: 3
 description: "Master the art of ordering coffee, croissants, and maybe even impress the barista at an Italian café!"
 ---
 
