@@ -54,15 +54,19 @@ Ordering coffee in Italy is quick, efficient, and often done standing up. Here�
 
 ---
 
-## Example Dialogue
+## Example Dialogue  
 
 **Scenario**: You walk into an Italian café at 9 AM, craving a cappuccino.
 
 - **You**: Buongiorno! Un cappuccino, per favore.  
-- **Barista**: Buongiorno! Certo. (Good morning! Of course.)  
-*(The barista expertly crafts your cappuccino while you admire their coffee artistry.)*  
+  *(Good morning! A cappuccino, please.)*  
+- **Barista**: Buongiorno! Certo.  
+  *(Good morning! Of course.)*  
+- *(The barista expertly crafts your cappuccino while you admire their coffee artistry.)*  
 - **You**: Grazie!  
-- **Barista**: Prego.
+  *(Thank you!)*  
+- **Barista**: Prego.  
+  *(You’re welcome.)*
 
 ---
 
