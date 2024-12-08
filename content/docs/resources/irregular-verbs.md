@@ -5,6 +5,8 @@ width: 1
 
 # Irregular verbs
 
+## Verbi irregolari
+
 ### 1. Essere (to be)
 
 | Pronoun  | Present | Past (Passato Prossimo) | Future |
