@@ -4,9 +4,9 @@ description: "Learn how to ask for and understand directions in Italian like a l
 weight: 4
 ---
 
-![Asking for Directions](/images/beginner-level/asking-for-directions/asking-for-directions.webp)
-
 # Asking for Directions – Lost in Translation No More! 🗺️
+
+![Asking for Directions](/images/beginner-level/asking-for-directions/asking-for-directions.webp)
 
 Welcome to **Lesson 4.1**, where we take on the ultimate Italian travel challenge: asking for directions without getting completely lost! By the end of this lesson, you’ll be navigating cobblestone streets and charming piazzas with the confidence of a seasoned local.
 

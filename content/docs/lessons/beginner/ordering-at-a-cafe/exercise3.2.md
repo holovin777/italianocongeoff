@@ -107,13 +107,6 @@ Imagine yourself in these scenarios. Write down what you would say in Italian.
 
 Write a short dialogue between you and a barista. Include at least one order, a polite response, and a funny moment.  
 
-**Example**:  
-- **You**: Buongiorno! Un cappuccino e un cornetto, per favore.  
-- **Barista**: Certo.  
-*(Hands you your order)*  
-- **You**: Grazie! Sai, cappuccino di pomeriggio mi fa sentire ribelle!  
-- **Barista**: (Laughs) Sei sicuramente un turista!  
-
 {{% details title="Example Dialogue" open=false %}}
 ### Example Dialogue:
 - **You**: Buongiorno! Un cappuccino e un cornetto, per favore.  
@@ -128,9 +121,6 @@ Write a short dialogue between you and a barista. Include at least one order, a 
 ### Bonus Challenge – What’s Your Style?  
 
 Write down your *ideal* coffee order and how you would say it in Italian. Be creative!  
-
-**Example**:  
-- Un marocchino e una fetta di torta, per favore.  
 
 {{% details title="Suggested Answer" open=false %}}
 **Your Order**: Un marocchino e una fetta di torta, per favore.  

@@ -4,8 +4,6 @@ description: "Never get lost in Italy again! Learn how to ask for and understand
 weight: 2
 ---
 
-![Asking for Directions](/images/beginner-level/asking-for-directions/asking-for-directions.webp)
-
 # Lesson 4.1: Asking for Directions – Navigating Like a Pro 🗺️
 
 Picture this: You’re wandering the winding streets of Rome, desperately searching for the Colosseum. You check your phone, but your GPS insists you’re in the middle of the Tiber River. Fear not! With this lesson, you’ll learn how to ask for directions, decode Italian responses, and even charm the locals along the way.
