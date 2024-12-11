@@ -1,3 +1,8 @@
+---
+title: "Italian Alphabet"
+weight: 1
+---
+
 # Italian Alphabet
 
 The Italian alphabet has 21 letters. Here's a breakdown with pronunciation examples and notes:

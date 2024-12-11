@@ -23,7 +23,7 @@ Ah, Italian markets—a whirlwind of vibrant colors, enticing smells, and vendor
 1. **Quanto costa?** *(How much does it cost?)*  
    - The bread-and-butter phrase for every market transaction.  
 
-2. **Ne prendo due chili.** *(I’ll take two kilos.)*  
+2. **[Ne](../../../../resources/ne) prendo due chili.** *(I’ll take two kilos.)*  
    - Master this phrase to avoid accidentally ending up with two tomatoes instead of two kilos of tomatoes.  
 
 3. **Avete qualcosa di più fresco?** *(Do you have something fresher?)*  
