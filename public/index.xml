@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Italiano con Geoff</title><link>http://192.168.1.106:1313/</link><description>Recent content on Italiano con Geoff</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://192.168.1.106:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Italian Alphabet</title><link>http://192.168.1.106:1313/docs/resources/italian-alphabet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.106:1313/docs/resources/italian-alphabet/</guid><description>&lt;h1 id="italian-alphabet">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Italiano con Geoff on Italiano con Geoff</title><link>http://192.168.1.106:1313/</link><description>Recent content in Welcome to Italiano con Geoff on Italiano con Geoff</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://192.168.1.106:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Italian Alphabet</title><link>http://192.168.1.106:1313/docs/resources/italian-alphabet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.106:1313/docs/resources/italian-alphabet/</guid><description>&lt;h1 id="italian-alphabet">
  Italian Alphabet
  &lt;a class="anchor" href="#italian-alphabet">#&lt;/a>
 &lt;/h1>
-&lt;p>The Italian alphabet has 21 letters. Here&amp;rsquo;s a breakdown with pronunciation examples and notes:&lt;/p>
+&lt;p>The Italian alphabet has 21 letters. Here&amp;rsquo;s a breakdown with pronunciation examples, notes, and phonetic pronunciations:&lt;/p>
 &lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th>Letter&lt;/th>
  &lt;th>Pronunciation Example&lt;/th>
+ &lt;th>Pronunciation&lt;/th>
  &lt;th>Notes&lt;/th>
  &lt;/tr>
  &lt;/thead>
@@ -15,115 +16,137 @@
  &lt;tr>
  &lt;td>A&lt;/td>
  &lt;td>as in &lt;em>amore&lt;/em>&lt;/td>
+ &lt;td>/a/&lt;/td>
  &lt;td>Love&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>B&lt;/td>
  &lt;td>as in &lt;em>bello&lt;/em>&lt;/td>
+ &lt;td>/b/&lt;/td>
  &lt;td>Beautiful&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>C&lt;/td>
  &lt;td>as in &lt;em>cane&lt;/em> (dog) or &lt;em>ciao&lt;/em> (hello)&lt;/td>
+ &lt;td>/k/ (hard), /tʃ/ (soft)&lt;/td>
  &lt;td>Hard before A, O, U; soft before E, I&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>D&lt;/td>
  &lt;td>as in &lt;em>donna&lt;/em>&lt;/td>
+ &lt;td>/d/&lt;/td>
  &lt;td>Woman&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>E&lt;/td>
  &lt;td>as in &lt;em>elefante&lt;/em>&lt;/td>
- &lt;td>Elephant&lt;/td>
+ &lt;td>/e/ or /ɛ/&lt;/td>
+ &lt;td>Elephant; &lt;strong>closed E&lt;/strong> in stressed syllables (e.g., &lt;em>perché&lt;/em>), &lt;strong>open E&lt;/strong> in unstressed ones (e.g., &lt;em>bene&lt;/em>)&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>F&lt;/td>
  &lt;td>as in &lt;em>fatto&lt;/em>&lt;/td>
+ &lt;td>/f/&lt;/td>
  &lt;td>Done&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>G&lt;/td>
  &lt;td>as in &lt;em>gatto&lt;/em> (cat) or &lt;em>gioco&lt;/em> (game)&lt;/td>
+ &lt;td>/g/ (hard), /dʒ/ (soft)&lt;/td>
  &lt;td>Hard before A, O, U; soft before E, I&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>H&lt;/td>
  &lt;td>Silent in Italian&lt;/td>
- &lt;td>Used in &lt;em>hotel&lt;/em>, etc.&lt;/td>
+ &lt;td>Silent&lt;/td>
+ &lt;td>Used in borrowed words like &lt;em>hotel&lt;/em>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>I&lt;/td>
  &lt;td>as in &lt;em>isola&lt;/em>&lt;/td>
+ &lt;td>/i/&lt;/td>
  &lt;td>Island&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>L&lt;/td>
  &lt;td>as in &lt;em>luna&lt;/em>&lt;/td>
+ &lt;td>/l/&lt;/td>
  &lt;td>Moon&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>M&lt;/td>
  &lt;td>as in &lt;em>mare&lt;/em>&lt;/td>
+ &lt;td>/m/&lt;/td>
  &lt;td>Sea&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>N&lt;/td>
  &lt;td>as in &lt;em>notte&lt;/em>&lt;/td>
+ &lt;td>/n/&lt;/td>
  &lt;td>Night&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>O&lt;/td>
  &lt;td>as in &lt;em>orologio&lt;/em>&lt;/td>
- &lt;td>Clock&lt;/td>
+ &lt;td>/o/ or /ɔ/&lt;/td>
+ &lt;td>Clock; &lt;strong>closed O&lt;/strong> in stressed syllables (e.g., &lt;em>osso&lt;/em>), &lt;strong>open O&lt;/strong> in unstressed ones (e.g., &lt;em>molto&lt;/em>)&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>P&lt;/td>
  &lt;td>as in &lt;em>pane&lt;/em>&lt;/td>
+ &lt;td>/p/&lt;/td>
  &lt;td>Bread&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Q&lt;/td>
  &lt;td>as in &lt;em>quadro&lt;/em>&lt;/td>
+ &lt;td>/kw/&lt;/td>
  &lt;td>Painting&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>R&lt;/td>
  &lt;td>as in &lt;em>rosso&lt;/em>&lt;/td>
- &lt;td>Red, rolled&lt;/td>
+ &lt;td>/r/ (rolled)&lt;/td>
+ &lt;td>Red; rolled pronunciation is typical in Italian&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>S&lt;/td>
  &lt;td>as in &lt;em>sole&lt;/em>&lt;/td>
- &lt;td>Sun&lt;/td>
+ &lt;td>/s/ or /z/&lt;/td>
+ &lt;td>Sun; voiced /z/ sound often occurs between vowels (e.g., &lt;em>casa&lt;/em>)&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>T&lt;/td>
  &lt;td>as in &lt;em>tavolo&lt;/em>&lt;/td>
+ &lt;td>/t/&lt;/td>
  &lt;td>Table&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>U&lt;/td>
  &lt;td>as in &lt;em>uva&lt;/em>&lt;/td>
+ &lt;td>/u/&lt;/td>
  &lt;td>Grapes&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>V&lt;/td>
  &lt;td>as in &lt;em>vino&lt;/em>&lt;/td>
+ &lt;td>/v/&lt;/td>
  &lt;td>Wine&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Z&lt;/td>
  &lt;td>as in &lt;em>zebra&lt;/em>&lt;/td>
- &lt;td>Can sound like &amp;rsquo;ts&amp;rsquo; or &amp;lsquo;dz&amp;rsquo;&lt;/td>
+ &lt;td>/ts/ or /dz/&lt;/td>
+ &lt;td>Can sound like &amp;rsquo;ts&amp;rsquo; in &lt;em>zucchero&lt;/em> or &amp;lsquo;dz&amp;rsquo; in &lt;em>mezzo&lt;/em>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
+&lt;hr>
 &lt;h3 id="foreign-letters">
  Foreign Letters
  &lt;a class="anchor" href="#foreign-letters">#&lt;/a>
 &lt;/h3>
-&lt;p>Letters like &lt;strong>J, K, W, X, Y&lt;/strong> appear in borrowed words (e.g., &lt;em>jeans, kiwi&lt;/em>).&lt;/p></description></item><item><title>Lesson 1.1: Basic Greetings</title><link>http://192.168.1.106:1313/docs/lessons/beginner/basic-greetings/lesson1.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.106:1313/docs/lessons/beginner/basic-greetings/lesson1.1/</guid><description>&lt;h1 id="lesson-11-basic-greetings--say-hello-like-an-italian-">
+&lt;p>These letters appear in borrowed words:&lt;/p></description></item><item><title>Lesson 1.1: Basic Greetings</title><link>http://192.168.1.106:1313/docs/lessons/beginner/basic-greetings/lesson1.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.106:1313/docs/lessons/beginner/basic-greetings/lesson1.1/</guid><description>&lt;h1 id="lesson-11-basic-greetings--say-hello-like-an-italian-">
  Lesson 1.1: Basic Greetings – Say Hello Like an Italian 👋
  &lt;a class="anchor" href="#lesson-11-basic-greetings--say-hello-like-an-italian-">#&lt;/a>
 &lt;/h1>
