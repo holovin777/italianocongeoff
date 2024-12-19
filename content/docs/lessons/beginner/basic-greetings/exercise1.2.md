@@ -1,92 +1,50 @@
 ---
 title: "Exercise 1.2: Practice Farewells"
-weight: 6
 description: "Practice saying goodbye in Italian with different farewells for casual, formal, and time-specific situations."
+weight: 4
 ---
 
-# Exercise 1.2: Practice Farewells – Saying Goodbye in Italian 👋
+# Exercise 1.2: Practice Farewells – Saying Goodbye in Italian 👋  
 
 Ready to test your knowledge of Italian farewells? This exercise will help you practice saying goodbye in different contexts, from casual to formal. Don’t worry if it takes a few tries – Italians appreciate the effort, and so do we!
 
 ---
 
-### 1. Multiple Choice – Choosing the Right Farewell  
+### 1. Fill in the Blanks – Complete the Farewell  
 
-Choose the most appropriate farewell for each situation.
+Complete each sentence with the correct Italian farewell based on the context.  
 
-1. You’re leaving a casual gathering with friends at 2 PM. What do you say?  
-   - A) Arrivederci  
-   - B) Ciao  
-   - C) Buonanotte  
+1. **You**: It’s 11 AM, and you’re leaving your friend Viktor’s workshop. You say, "**_____ giornata!**" *(Have a good day!)*  
 
-2. It’s 9 PM, and you’re parting ways with someone you just met at a formal event. What do you say?  
-   - A) Buona serata  
-   - B) Ciao  
-   - C) Arrivederla  
+2. **You**: It’s late at night, and you’re about to go to bed. You tell your roommate, "**_____!**" *(Good night!)*  
 
-3. You’re leaving a friend’s house after an evening out, and it’s nearly midnight. What’s the best way to say goodbye?  
-   - A) A presto  
-   - B) Buonanotte  
-   - C) Buona giornata  
-
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **B) Ciao**  
-2. **A) Buona serata**  
-3. **B) Buonanotte**  
-{{% /details %}}
+3. **You**: You’re leaving a client meeting in the afternoon. To be polite, you say, "**_____**." *(Goodbye!)*  
 
 ---
 
-### 2. Fill in the Blanks – Complete the Farewell  
+### 2. Match the Farewell – Pair Each Phrase with Its Use  
 
-Complete each sentence with the correct Italian farewell based on the context.
-
-1. **You**: It’s 11 AM, and you’re leaving your friend’s shop. You say, "**_____ giornata!**" (Have a good day!)  
-2. **You**: It’s late at night, and you’re about to go to bed. You tell your roommate, "**_____**!" (Good night!)  
-3. **You**: You’re leaving a client meeting in the afternoon. To be polite, you say, "**_____**." (Goodbye!)  
-
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **Buona giornata**  
-2. **Buonanotte**  
-3. **Arrivederci**  
-{{% /details %}}
-
----
-
-### 3. Match the Farewell – Pair Each Phrase with Its Use  
-
-Match each Italian farewell with its correct use by writing the letter next to the answer.
+Match each Italian farewell with its correct use by writing the letter next to the answer.  
 
 1. **Arrivederci**  
 2. **Buona serata**  
 3. **Ciao**  
 4. **Buonanotte**  
-5. **A dopo**  
+5. **A presto**  
 
 A) Casual goodbye with friends  
-B) See you later  
+B) See you soon  
 C) Good night, heading to bed  
 D) Polite goodbye for formal or informal settings  
 E) Have a good evening  
 
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **D) Polite goodbye for formal or informal settings**  
-2. **E) Have a good evening**  
-3. **A) Casual goodbye with friends**  
-4. **C) Good night, heading to bed**  
-5. **B) See you later**  
-{{% /details %}}
-
 ---
 
-### 4. Situational Responses – Choose Your Farewell  
+### 3. Situational Responses – Choose Your Farewell  
 
-Imagine yourself in each situation. Write down what you would say as a farewell in Italian.
+Imagine yourself in each situation. Write down what you would say as a farewell in Italian.  
 
-1. **Situation**: You’re leaving a café in the evening after a fun outing with friends.  
+1. **Situation**: You’re leaving a café after breakfast and thanking the barista for your coffee.  
    - **Response**: ___________________________  
 
 2. **Situation**: You’re saying goodbye to an older colleague after a work meeting in the morning.  
@@ -95,29 +53,59 @@ Imagine yourself in each situation. Write down what you would say as a farewell 
 3. **Situation**: You’re ending a late phone call with a friend around midnight.  
    - **Response**: ___________________________  
 
-{{% details title="Suggested Answers" open=false %}}
-### Suggested Answers:
-1. **Buona serata!**  
-2. **Arrivederci!**  
-3. **Buonanotte!**  
-{{% /details %}}
-
 ---
 
-### 5. Creative Dialogue – Goodbye for Now!  
+### 4. Creative Dialogue – Goodbye for Now!  
 
-Write a short dialogue using two different Italian farewells. Imagine you’re chatting with a friend as you leave a restaurant.  
+Write a short dialogue using two different Italian farewells. Imagine you’re chatting with a friend as you leave a restaurant. Here’s an example:  
 
-**Example**:  
+**Example Dialogue**:  
 - **You**: È stata una serata fantastica! **Buona serata!**  
 - **Friend**: Sì, ci vediamo presto. **A presto!**  
 
-{{% details title="Example Dialogue" open=false %}}
-### Example Dialogue:
-- **You**: È stata una serata fantastica! **Buona serata!**  
-- **Friend**: Sì, ci vediamo presto. **A presto!**  
-{{% /details %}}
+Now it’s your turn! Write your own short dialogue below:  
 
 ---
 
-Take your time with these exercises, and remember that Italian farewells add a bit of warmth to every goodbye. Keep practicing until each one feels natural. Buona fortuna! 🎉
+### Bonus Challenge – Polite and Casual  
+
+Write two versions of how you’d say goodbye to someone you’ll see tomorrow:  
+1. Formal: ___________________________  
+2. Informal: ___________________________  
+
+---
+
+### Answers  
+
+{{% details title="Answers" open=false %}}  
+
+#### 1. Fill in the Blanks  
+1. *Buona giornata!*  
+2. *Buonanotte!*  
+3. *Arrivederci!*  
+
+#### 2. Match the Farewell  
+1. D  
+2. E  
+3. A  
+4. C  
+5. B  
+
+#### 3. Situational Responses – Sample Answers  
+1. *Arrivederci!* *(Goodbye!)*  
+2. *Arrivederci!* *(Goodbye!)*  
+3. *Buonanotte!* *(Good night!)*  
+
+#### 4. Creative Dialogue – Sample Dialogue  
+- **You**: È stato un piacere vederti oggi! **A presto!**  
+- **Friend**: Grazie! **Buona serata!**  
+
+#### Bonus Challenge – Sample Answers  
+1. Formal: *Arrivederci, ci vediamo domani!* *(Goodbye, see you tomorrow!)*  
+2. Informal: *A domani!* *(See you tomorrow!)*  
+
+{{% /details %}}  
+
+---
+
+✨ **Keep practicing, and soon saying goodbye in Italian will feel as natural as saying hello! Buona fortuna!** 🌟  

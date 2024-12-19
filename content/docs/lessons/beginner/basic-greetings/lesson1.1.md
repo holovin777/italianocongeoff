@@ -1,76 +1,84 @@
 ---
-title: "Lesson 1.1: Basic Greetings"
-description: "Learn how to greet like an Italian with help from Viktor, your friendly Ukrainian-Italian neighbor!"
+title: "Lesson 1.1: Hello and Goodbye – The Essentials"
+description: "Learn the basics of Italian greetings and goodbyes, from casual to formal."
 weight: 1
 ---
 
-# Lesson 1.1: Basic Greetings – Say Hello Like an Italian 👋
+# Lesson 1.1: Hello and Goodbye – The Essentials 👋🇮🇹  
 
-Welcome to your first lesson, where you'll learn how to greet people like a true Italian. By the end of this lesson, you’ll master *ciao*, *buongiorno*, and more—all under the patient guidance of Viktor, your Ukrainian-Italian neighbor. Whether he’s sharing tips over morning espresso or helping you decode Italian hand gestures, Viktor is here to make sure Geoff survives (and thrives) in Italy.
+Greetings are the cornerstone of Italian culture. Whether you’re saying *ciao* to a friend or *buongiorno* to Signora Rossi, this lesson will prepare you to make every interaction smooth and charming.  
 
 ---
 
 ## What You’ll Learn  
 
-- **Essential Greetings**: Master the art of Italian hellos for every situation.  
-- **Cultural Etiquette**: Understand why Italians greet even their pets with warmth and enthusiasm.  
-- **Practical Tips**: Impress Viktor by greeting him correctly, even if your vocabulary is limited to *pizza* and *gelato*.  
+In this lesson, you’ll master:  
+- Common Italian greetings and goodbyes for every time of day.  
+- When to use informal versus formal language.  
+- Key phrases to impress Italians with your politeness.  
 
 ---
 
-## The Core Italian Greetings  
+## Italian Greetings – Starting Conversations  
 
-| Greeting      | Meaning         | When to Use It                                    |
-|---------------|-----------------|--------------------------------------------------|
-| **Ciao**      | Hi/Bye          | Informal. Use it with friends, family, and Viktor when he’s in a relaxed neighborly mood. |
-| **Buongiorno**| Good morning    | Formal or polite. Use it before 4 PM, especially when Viktor is on his way to work. |
-| **Buonasera** | Good evening    | Formal or polite. Use it after 4 PM—or earlier if Viktor invites you for aperitivo. |
-| **Buonanotte**| Good night      | For saying goodbye at bedtime. Viktor once teased Geoff for using this after breakfast. |
+### Informal Greetings  
 
----
+- **Ciao** *(Hi/Bye)*: The universal casual greeting. Use it with friends, family, and people you’re on a first-name basis with.  
+- **Ehi** *(Hey)*: For super casual and relaxed conversations.  
 
-## Dialogue with Viktor and Geoff  
-
-**Scenario**: Geoff meets Viktor outside their apartment building in the morning to practice Italian greetings.  
-
-- **Geoff**: Buongiorno, Viktor! *(Good morning, Viktor!)*  
-- **Viktor**: Buongiorno, Geoff! Come stai? *(Good morning, Geoff! How are you?)*  
-- **Geoff**: Bene, grazie! E tu? *(Good, thank you! And you?)*  
-- **Viktor**: Tutto bene, grazie. Hai provato a salutare il barista oggi? *(All good, thanks. Did you try greeting the barista today?)*  
-- **Geoff**: Sì! Ho detto buongiorno, e lui ha sorriso! *(Yes! I said good morning, and he smiled!)*  
-- **Viktor**: Bravo, Geoff. Ora sembri quasi italiano! *(Well done, Geoff. Now you almost seem Italian!)*  
-
-*(Viktor chuckles, proud of Geoff’s progress.)*
+**Example Dialogue with Viktor**  
+- **Geoff**: *Ciao, Viktor! Come va?* *(Hi, Viktor! How’s it going?)*  
+- **Viktor**: *Ciao, Geoff! Tutto bene, e tu?* *(Hi, Geoff! All good, and you?)*  
 
 ---
 
-## Cultural Tips  
+### Formal Greetings  
 
-1. **Always Greet First**: Italians love greetings, so start every interaction with a warm *ciao* or *buongiorno*. Viktor will remind you if you forget.  
-2. **Match the Formality**: Use *ciao* for informal situations and *buongiorno* or *buonasera* for formal ones. Viktor switches effortlessly, depending on whether he’s chatting with Geoff or addressing his landlord.  
-3. **Timing Matters**: Don’t mix up *buonanotte* with *buonasera*. Viktor still laughs about the time Geoff said *buonanotte* at 2 PM.  
+- **Buongiorno** *(Good morning)*: Use it until about 2 PM.  
+- **Buonasera** *(Good evening)*: From 2 PM onward.  
+- **Salve** *(Hello)*: A polite greeting suitable for any time of day.  
 
----
-
-## Practice Time  
-
-Try these greetings out loud. Imagine Viktor smiling proudly as you practice:  
-
-1. **Ciao, come stai?** *(Hi, how are you?)*  
-2. **Buongiorno, mi chiamo Geoff.** *(Good morning, my name is Geoff.)*  
-3. **Buonasera, piacere di conoscerti.** *(Good evening, nice to meet you.)*  
+**Example Dialogue with Signora Rossi**  
+- **Geoff**: *Buongiorno, Signora Rossi. Come sta?* *(Good morning, Mrs. Rossi. How are you?)*  
+- **Signora Rossi**: *Buongiorno, Geoff. Sto bene, grazie. Lei?* *(Good morning, Geoff. I’m fine, thank you. And you?)*  
 
 ---
 
-## Fun Fact  
+## Saying Goodbye – Ending Conversations  
 
-Viktor says Italians are masters of **non-verbal greetings**. A wave, a smile, or a quick nod can replace words entirely. But for now, Geoff’s sticking to the words—and Viktor is here to guide him.
+### Informal Goodbyes  
+
+- **Ciao** *(Hi/Bye)*: Works both as a greeting and a goodbye.  
+- **A presto** *(See you soon)*: Use when you know you’ll meet again.  
+
+**Example Dialogue with Viktor**  
+- **Geoff**: *A presto, Viktor!* *(See you soon, Viktor!)*  
+- **Viktor**: *A presto, Geoff! Buona giornata!* *(See you soon, Geoff! Have a good day!)*  
+
+---
+
+### Formal Goodbyes  
+
+- **Arrivederci** *(Goodbye)*: A standard, polite way to say goodbye.  
+- **Buona giornata** *(Have a good day)*: Use during the day.  
+- **Buona serata** *(Have a good evening)*: Perfect for evening or nighttime goodbyes.  
+
+**Example Dialogue with Signor Bianchi**  
+- **Geoff**: *Arrivederci, Signor Bianchi. Grazie per il caffè!* *(Goodbye, Mr. Bianchi. Thank you for the coffee!)*  
+- **Signor Bianchi**: *Arrivederci, Geoff. Alla prossima!* *(Goodbye, Geoff. Until next time!)*  
+
+---
+
+## Quick Tips  
+
+- Use **formal greetings** with strangers, older people, or in professional settings.  
+- Stick with **informal greetings** for friends, family, and casual situations.  
+- Don’t be afraid to smile—Italians love warmth in conversations.  
 
 ---
 
 ## Next Steps  
 
-Once you’ve mastered these greetings, test your skills in **Exercise 1.1**, featuring fun scenarios with Viktor and Geoff:  
-- [Exercise 1.1: Basic Greetings Practice](../exercise1.1/)  
+Test your knowledge with [Exercise 1.1: Hello and Goodbye – The Essentials](../exercise1.1/), then move on to [Lesson 1.2: How to Say Farewell Without Sounding Rude](../lesson1.2/).  
 
-✨ **With Viktor guiding you, you’re already ahead of the game. Buona fortuna!** 🎉
+✨ **Buona fortuna!** 🌟  
