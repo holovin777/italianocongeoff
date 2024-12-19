@@ -1,137 +1,94 @@
 ---
-title: "Exercise 1.1: Basic Greetings Practice"
-weight: 3
-description: "Practice your Italian greetings with this exercise for Lesson 1.1"
+title: "Exercise 1.1: Hello and Goodbye – The Essentials"
+description: "Practice your Italian greetings and goodbyes with fun, real-world scenarios."
+weight: 2
 ---
 
-# Exercise 1.1: Basic Greetings Practice
+# Exercise 1.1: Hello and Goodbye – The Essentials 👋🇮🇹  
 
-Welcome to your first exercise! It’s time to put those Italian greetings to the test. Don’t worry if you get some wrong – remember, even Italians sometimes mix up their greetings after an extra espresso! ☕ So, let’s dive in and have some fun.
-
----
-
-### 1. Multiple Choice – What Would You Say?
-
-Choose the correct Italian greeting for each scenario.  
-
-1. You bump into a friend at 9 AM, and they look like they’re still half asleep. What do you say?  
-   - A) Buonasera  
-   - B) Ciao  
-   - C) Buonanotte  
-
-2. It’s 8 PM, and you’re trying to impress someone with your politeness. What do you say?  
-   - A) Buongiorno  
-   - B) Salve  
-   - C) Buonasera  
-
-3. You’re ready to hit the pillow and call it a night. How do you say "Goodnight" in Italian (without singing a lullaby)?  
-   - A) Buonanotte  
-   - B) Ciao  
-   - C) Buongiorno  
-
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **B) Ciao**  
-2. **C) Buonasera**  
-3. **A) Buonanotte**  
-{{% /details %}}
+It’s time to put your Italian greetings and goodbyes into practice! This exercise will help you master saying hello and goodbye in both formal and informal contexts. Ready to dive in? Let’s go!  
 
 ---
 
-### 2. Fill in the Blanks – Be the Italian Greeting Expert  
+### 1. Fill in the Blanks – Complete the Dialogue  
 
-Complete each sentence with the correct Italian greeting.  
+Fill in the blanks with the correct Italian greeting or goodbye.  
 
-1. It’s 10 AM, and you see your neighbor in the hallway. You say, "**_____**."  
-2. You’re leaving a group of friends after an epic evening of pizza and laughs. You say, "**_____**."  
-3. You’re meeting someone for the first time, and you’re not quite sure if a handshake or a hug is coming. You play it safe and say, "**_____**."
+1. Geoff meets Viktor in the morning:  
+   - **Geoff**: *_____*, Viktor! *(Hi, Viktor!)*  
+   - **Viktor**: *Ciao, Geoff! Come va?* *(Hi, Geoff! How’s it going?)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **Buongiorno**  
-2. **Ciao**  
-3. **Salve**  
-{{% /details %}}
+2. Geoff is leaving Signora Rossi’s house after borrowing sugar:  
+   - **Geoff**: *_____, Signora Rossi!* *(Goodbye, Mrs. Rossi!)*  
+   - **Signora Rossi**: *Arrivederci, Geoff! Buona giornata!* *(Goodbye, Geoff! Have a good day!)*  
 
----
-
-### 3. Practice Dialogue – Time for Some Fun Italian Role-Play!  
-
-Complete the dialogue below using the correct greetings.  
-
-**Scenario**: You’re at an Italian café early in the morning, about to order a cappuccino.
-
-- **You**: (say hello politely, because it’s early and caffeine hasn’t hit yet)  
-- **Barista**: Buongiorno! Desidera un caffè?  
-- **You**: Certo, grazie! (end the conversation with a friendly goodbye)
-
-{{% details title="Answers" open=false %}}
-### Suggested Answers:
-- **You**: Buongiorno!  
-- **You**: Arrivederci!  
-{{% /details %}}
+3. Geoff orders coffee at Signor Bianchi’s café and prepares to leave:  
+   - **Geoff**: *_____, Signor Bianchi! Grazie per il caffè!* *(Goodbye, Mr. Bianchi! Thank you for the coffee!)*  
 
 ---
 
-### 4. Match the Greetings – Who Says What?  
+### 2. Match the Greetings – Who Says What?  
 
-Match each Italian greeting to its best use case.  
+Match the Italian greeting or goodbye to the correct context.  
 
-1. **Buongiorno**  
-2. **Buonasera**  
-3. **Buonanotte**  
-4. **Ciao**  
-5. **Salve**  
+1. **Ciao**  
+2. **Buongiorno**  
+3. **Buonasera**  
+4. **Arrivederci**  
+5. **A presto**  
 
-**Options**:  
-A) When you’re ready to say goodnight, without a lullaby.  
-B) The all-purpose, casual “hello” for friends (and maybe pets).  
-C) For greeting someone politely in the morning or afternoon.  
-D) A polite hello when you’re not quite sure if a handshake or a hug is coming.  
-E) The go-to greeting in the evening when you’re feeling a bit fancy.
-
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **C) For greeting someone politely in the morning or afternoon.**  
-2. **E) The go-to greeting in the evening when you’re feeling a bit fancy.**  
-3. **A) When you’re ready to say goodnight, without a lullaby.**  
-4. **B) The all-purpose, casual “hello” for friends (and maybe pets).**  
-5. **D) A polite hello when you’re not quite sure if a handshake or a hug is coming.**  
-{{% /details %}}
+A) When leaving a café after ordering coffee in the morning.  
+B) A casual hello to a friend.  
+C) A polite greeting for a formal meeting in the evening.  
+D) Saying goodbye in a polite or formal setting.  
+E) See you soon, to a friend.  
 
 ---
 
-### 5. Situational Humor – How Would You Greet?  
+### 3. Multiple Choice – Choose the Right Phrase  
 
-Imagine yourself in each of these situations and decide what you’d say.
+Select the most appropriate Italian phrase for each situation.  
 
-1. **Situation**: You’re meeting your friend’s grandma for the first time, and she’s giving you the *look* (you know the one). What’s your greeting?  
-   - Response: ___________________________  
+1. Geoff meets Signora Rossi in the hallway at 10 AM. What should he say?  
+   - **A)** Ciao  
+   - **B)** Buongiorno  
+   - **C)** Buonasera  
 
-2. **Situation**: It’s midnight, and you’re finally ready to leave the party. You realize you’ve already said goodbye three times, but Italians love a grand exit. What’s your final word?  
-   - Response: ___________________________  
+2. Geoff is leaving Viktor’s apartment after dinner. What should he say?  
+   - **A)** Arrivederci  
+   - **B)** Ciao  
+   - **C)** Buona giornata  
 
-3. **Situation**: You’re ordering coffee, and the barista looks like he’s had one too many espresso shots. He greets you with a big *Buongiorno!* – what’s your reply?  
-   - Response: ___________________________  
-
-{{% details title="Suggested Answers" open=false %}}
-### Suggested Answers:
-1. "Buongiorno!" or "Salve!"  
-2. "Buonanotte!"  
-3. "Buongiorno!"  
-{{% /details %}}
-
----
-
-### 6. Creative Exercise – Write Your Own Hilarious Dialogue  
-
-Imagine meeting an Italian friend in the afternoon and having a quick chat. Write your own dialogue using at least two greetings.
-
-**Example**:  
-- **You**: Ciao, amico mio! Quanta pizza hai mangiato oggi?  
-- **Friend**: Ciao! Solo una… o due… o tre fette! E tu?  
-- **You**: Buonasera, allora! Sembra che sia ora di una pausa pizza!
+3. Geoff says goodbye to Signor Bianchi at 8 PM. What should he say?  
+   - **A)** Buongiorno  
+   - **B)** Buona serata  
+   - **C)** A presto  
 
 ---
 
-Enjoy these exercises and don’t stress – if you make a mistake, just say *oops* in Italian (hint: it’s still *oops*) and move on. Buona fortuna e buon divertimento! 🎉
+### Answers  
+
+{{% details title="Answers" open=false %}}  
+
+#### 1. Fill in the Blanks  
+1. *Ciao*  
+2. *Arrivederci*  
+3. *Arrivederci*  
+
+#### 2. Match the Greetings  
+1. B  
+2. A  
+3. C  
+4. D  
+5. E  
+
+#### 3. Multiple Choice  
+1. **B)** Buongiorno  
+2. **B)** Ciao  
+3. **B)** Buona serata  
+
+{{% /details %}}  
+
+---
+
+✨ **Great job! Now that you’ve nailed the basics, move on to [Lesson 1.2: How to Say Farewell Without Sounding Rude](../lesson1.2/).** 🌟  
