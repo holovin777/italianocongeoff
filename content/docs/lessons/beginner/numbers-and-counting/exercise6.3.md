@@ -1,105 +1,105 @@
 ---
-title: "Exercise 6.3: Practical Time and Date Practice"
-description: "Put your time-telling and date skills to the test with real-world scenarios featuring Viktor and Geoff."
+title: "Exercise 6.3: Dates and Times Practice"
+description: "Learn to use Italian numbers in dates, times, and real-world scenarios with Viktor and Geoff."
 weight: 6
 ---
 
-# Exercise 6.3: Practical Time and Date Practice – Beat the Clock! 🕒📅  
+# Exercise 6.3: Dates and Times Practice – Tick-Tock Italiano ⏰  
 
-Time to put your Italian skills to work! In this exercise, you’ll practice telling time and talking about dates with fun scenarios featuring Viktor and Geoff. Whether it’s scheduling a meetup or figuring out when Geoff’s birthday is, you’ll be ready to handle it all.
+Time to turn numbers into practical tools for daily life! In this exercise, you’ll practice Italian dates, times, and schedules with Geoff and Viktor as they navigate markets, appointments, and coffee breaks. Let’s make sure Geoff shows up on time (and doesn’t confuse *dieci* with *dodici* again)!
 
 ---
 
-### 1. Fill in the Blanks – Complete the Time  
+### 1. Completa le Frasi – Scrivi l’Ora o la Data  
 
-Write the correct Italian phrase for the given times.  
+Scrivi l’ora o la data corretta in italiano:  
 
-1. Geoff is meeting Viktor for coffee at **3:15 PM**. Write:  
-   - **Sono le ___ e un quarto.**  
+1. Viktor dice: *La riunione inizia alle ___ del mattino.* *(9:30 AM)*  
+2. Geoff guarda il calendario e nota: *Oggi è il ___ ottobre.* *(15th)*  
+3. Geoff chiede: *A che ora chiude il mercato?* Viktor risponde: *Chiude alle ___ di sera.* *(7:00 PM)*  
 
-2. Viktor finishes work at **6:30 PM**. Write:  
-   - **Sono le ___ e mezza.**  
-
-3. Geoff plans to call Viktor at **7:45 AM**. Write:  
-   - **Sono le ___ meno un quarto.**  
-
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **Sono le tre e un quarto.**  
-2. **Sono le sei e mezza.**  
-3. **Sono le otto meno un quarto.**  
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. Nove e mezza *(9:30)*  
+2. Quindici ottobre *(15th October)*  
+3. Diciannove *(7:00 PM)*  
 {{% /details %}}
 
 ---
 
-### 2. Match the Dates – Who Did What?  
+### 2. Associa la Situazione all’Ora o alla Data  
 
-Match the Italian date to the event. Write the letter next to the date.  
+Abbina l’ora o la data alla situazione corretta.  
 
-1. **Il 15 agosto**  
-2. **Il 25 dicembre**  
-3. **Il 6 gennaio**  
+1. **10:00 AM**  
+2. **1° gennaio** *(1st January)*  
+3. **6:45 PM**  
 
-**Events**:  
-A) Geoff celebrates Christmas with Viktor’s family.  
-B) Italians celebrate Ferragosto, a national holiday.  
-C) Viktor enjoys La Befana (Epiphany), where kids get sweets or coal.  
+**Situazioni**:  
+A) Viktor festeggia il Capodanno con un brindisi.  
+B) Geoff arriva al mercato in orario perfetto per l’apertura.  
+C) Viktor prepara l’ultima cassa di verdure prima di chiudere.  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **B) Il 15 agosto – Ferragosto**  
-2. **A) Il 25 dicembre – Christmas**  
-3. **C) Il 6 gennaio – La Befana**  
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. **B) 10:00 AM**  
+2. **A) 1° gennaio**  
+3. **C) 6:45 PM**  
 {{% /details %}}
 
 ---
 
-### 3. Multiple Choice – Choose the Right Phrase  
+### 3. Scelta Multipla – Scegli la Risposta Corretta  
 
-1. Viktor says: *Ci vediamo alle otto e mezza.* *(We’ll meet at 8:30.)* Geoff replies:  
-   - **A)** Perfetto, alle otto e mezza! *(Perfect, at 8:30!)*  
-   - **B)** Sono in ritardo! *(I’m late!)*  
-   - **C)** È troppo presto! *(It’s too early!)*  
+1. Viktor dice: *Domani è il diciassette ottobre. Qual è la data di oggi?*  
+   - **A)** Sedici ottobre *(16th October)*  
+   - **B)** Quindici ottobre *(15th October)*  
+   - **C)** Diciotto ottobre *(18th October)*  
 
-2. Geoff asks: *Quando è il tuo compleanno, Viktor?* *(When is your birthday, Viktor?)* Viktor replies:  
-   - **A)** È il primo gennaio. *(It’s January 1st.)*  
-   - **B)** È il ventinove febbraio. *(It’s February 29th.)*  
-   - **C)** È il quindici ottobre. *(It’s October 15th.)*  
+2. Geoff chiede: *A che ora devo arrivare per il caffè delle tre con Viktor?* Viktor risponde:  
+   - **A)** Alle due. *(At 2:00.)*  
+   - **B)** Alle tre. *(At 3:00.)*  
+   - **C)** Alle quattro. *(At 4:00.)*  
 
-3. Viktor tells Geoff: *Andiamo al mercato il sette aprile.* *(We’re going to the market on April 7th.)* Geoff says:  
-   - **A)** Perché non il sei aprile? *(Why not April 6th?)*  
-   - **B)** Perfetto, a che ora? *(Perfect, what time?)*  
-   - **C)** Settembre, vero? *(September, right?)*  
+3. Geoff vede che il mercato chiude alle otto di sera. Arriva alle 7:50 PM. Viktor gli dice:  
+   - **A)** Sei in anticipo! *(You’re early!)*  
+   - **B)** Sei in orario! *(You’re on time!)*  
+   - **C)** Sei in ritardo! *(You’re late!)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **A) Perfetto, alle otto e mezza!**  
-2. **C) È il quindici ottobre.**  
-3. **B) Perfetto, a che ora?**  
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. **A) Sedici ottobre**  
+   - Se domani è il 17, oggi è il 16!  
+2. **B) Alle tre.**  
+   - Viktor ha detto esattamente quando prendere il caffè.  
+3. **B) Sei in orario!**  
+   - Arrivare alle 7:50 quando il mercato chiude alle 8:00 è perfetto.  
 {{% /details %}}
 
 ---
 
-### 4. Creative Writing – Set a Schedule  
+### 4. Risposte Aperte – Scrivi in Italiano  
 
-Write an Italian sentence for each scenario using correct time or date phrases:  
+Rispondi alle seguenti situazioni usando numeri e parole:  
 
-1. You want to meet Viktor at 5:15 PM. Write:  
-   - **Your Answer**: ________________________________________  
+1. Geoff vuole sapere la data di oggi: *Scrivi la risposta in italiano.* *(Today’s date: October 20th)*  
+   - **Risposta**: ________________________________________  
 
-2. You’re telling Viktor your birthday is on August 24th. Write:  
-   - **Your Answer**: ________________________________________  
+2. Viktor chiede a Geoff: *A che ora inizia la tua lezione?* Geoff risponde con l’ora esatta. *(Lesson starts at 5:15 PM)*  
+   - **Risposta**: ________________________________________  
 
-3. You suggest a morning hike at 7:00 AM. Write:  
-   - **Your Answer**: ________________________________________  
+3. Viktor dice: *Domani è venerdì 21 ottobre. Qual è la data di ieri?* *(What’s yesterday’s date?)*  
+   - **Risposta**: ________________________________________  
 
-{{% details title="Answers" open=false %}}
-### Suggested Answers:  
-1. **Ci vediamo alle cinque e un quarto.** *(Let’s meet at 5:15 PM.)*  
-2. **Il mio compleanno è il ventiquattro agosto.** *(My birthday is on August 24th.)*  
-3. **Andiamo a fare una passeggiata alle sette di mattina.** *(Let’s go for a walk at 7:00 AM.)*  
+{{% details title="Risposte" open=false %}}
+### Risposte Suggerite:  
+1. Venti ottobre *(October 20th)*  
+2. Diciassette e quindici *(5:15 PM)*  
+3. Venti ottobre *(October 20th)*  
 {{% /details %}}
 
 ---
 
-✨ **Great job!** You’ve tackled times and dates like a true Italian. Viktor says your scheduling skills are ready for prime time—just don’t be late! Buona fortuna! 🎉
+✨ **Bravo!** Hai completato l’Esercizio 6.3 e sei pronto a gestire orari e appuntamenti in italiano. Continua a esercitarti con altre lezioni e diventa un esperto del tempo e delle date!  
+
+🎉 **Ottimo lavoro! Geoff sta diventando sempre più puntuale, e Viktor è soddisfatto.**

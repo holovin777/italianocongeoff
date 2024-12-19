@@ -1,103 +1,108 @@
 ---
 title: "Exercise 6.1: Numbers 0–20 Practice"
-description: "Put your Italian counting skills to the test with numbers from 0 to 20."
+description: "Practice your numbers from 0 to 20 with realistic and fun scenarios involving Viktor and Geoff."
 weight: 2
 ---
 
-# Exercise 6.1: Numbers 0–20 Practice – Count Like an Italian 🎉
+# Exercise 6.1: Numbers 0–20 Practice – Counting with Confidence 🔢  
 
-Ready to show off your newfound Italian counting skills? Let’s dive into some fun and practical exercises that will make sure you can handle numbers from 0 to 20 without breaking a sweat. Viktor’s watching, so no pressure (or maybe just a little).
+Ready to practice Italian numbers from 0 to 20? This exercise will take you through realistic situations with Viktor and Geoff at the market. Every question has clear context, so you can focus on learning and laughing—because even Viktor can’t count without looking!
 
 ---
 
-### 1. Fill in the Blanks – Complete the Numbers  
+### 1. Completa le Frasi – Scrivi il Numero  
 
-Write the correct Italian number to complete the sentence:  
+Scrivi il numero corretto in italiano per completare le frasi:  
 
-1. Geoff bought ___ apples (*4*).  
-   - **Hint**: *He didn’t accidentally buy 14 this time!*  
-2. Viktor counted ___ pizzas (*13*).  
-   - **Hint**: *It’s a baker’s dozen... minus the baker.*  
-3. There were ___ cats in the piazza (*19*).  
-   - **Hint**: *Yes, Viktor counted all of them.*  
+1. Geoff compra ___ mele da Viktor per il suo picnic. *(3)*  
+2. Viktor vende ___ arance a una signora anziana che vuole fare una spremuta. *(12)*  
+3. Geoff vede una pila di banane e dice: "Ne prendo ___ per la settimana!" *(7)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. Quattro  
-2. Tredici  
-3. Diciannove  
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. Tre  
+2. Dodici  
+3. Sette  
 {{% /details %}}
 
 ---
 
-### 2. Match the Number – Who Got What?  
+### 2. Associa i Numeri – Indovina Chi ha Fatto Cosa  
 
-Match the Italian number to the scenario by writing the letter next to the correct number.  
+Abbina il numero alla situazione corretta.  
 
-1. **Sei**  
-2. **Ventuno**  
-3. **Dodici**  
+1. **Quindici**  
+2. **Otto**  
+3. **Dieci**  
 
-**Scenarios**:  
-A) Geoff accidentally ordered 12 gelatos because he thought *dodici* meant 2.  
-B) Viktor’s pizza had 6 slices, and Geoff ate 4.  
-C) The barista said Viktor owed €21 for his *triple cappuccino combo*.  
+**Situazioni**:  
+A) Viktor ha contato 8 clienti in fila al mercato.  
+B) Geoff compra 15 pomodori perché vuole fare salsa.  
+C) Il venditore ha una cassa con 10 zucchine pronte per la vendita.  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **B) Sei**  
-2. **C) Ventuno**  
-3. **A) Dodici**  
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. **B) Quindici**  
+2. **A) Otto**  
+3. **C) Dieci**  
 {{% /details %}}
 
 ---
 
-### 3. Multiple Choice – Pick the Correct Response  
+### 3. Scelta Multipla – Scegli la Risposta Corretta  
 
-1. Geoff says: *Quanti biscotti ci sono?* *(How many cookies are there?)*  
-   - **A)** Ci sono dieci biscotti. *(There are ten cookies.)*  
-   - **B)** Ci sono zero biscotti. *(There are zero cookies.)*  
-   - **C)** Ci sono venti biscotti. *(There are twenty cookies.)*  
+1. Viktor conta le pere sul bancone e dice: *Quante pere ci sono?* *(How many pears are there?)* *(9)* 
+   - **A)** Ci sono sei pere. *(There are six pears.)*  
+   - **B)** Ci sono nove pere. *(There are nine pears.)*  
+   - **C)** Ci sono undici pere. *(There are eleven pears.)*  
+   - **Suggerimento**: *Viktor ha contato e ha detto "nove".*  
 
-2. Viktor asks: *Quanti anni hai?* *(How old are you?)*  
-   - **A)** Ho sette anni. *(I’m seven years old.)*  
-   - **B)** Ho diciotto anni. *(I’m eighteen years old.)*  
-   - **C)** Ho dodici anni. *(I’m twelve years old.)*  
+2. Geoff chiede: *Quante mele posso comprare con cinque euro?* Viktor risponde: *(5)*
+   - **A)** Puoi comprarne quattro. *(You can buy four.)*  
+   - **B)** Puoi comprarne cinque. *(You can buy five.)*  
+   - **C)** Puoi comprarne sei. *(You can buy six.)*  
+   - **Suggerimento**: *Ogni mela costa un euro.*  
 
-3. Geoff tells the vendor: *Prendo quattro arance.* *(I’ll take four oranges.)* The vendor replies:  
-   - **A)** Bravo, ne prendo quattordici anch’io! *(Great, I’ll take fourteen too!)*  
-   - **B)** Perfetto, quattro euro. *(Perfect, four euros.)*  
-   - **C)** Mi spiace, abbiamo solo due arance. *(Sorry, we only have two oranges.)*  
+3. Il venditore guarda una cassa con banane e dice: *Sono tutte per Geoff! Sono 13!* Geoff risponde:  
+   - **A)** Tredici?! Sono troppe! *(Thirteen?! That’s too many!)*  
+   - **B)** Perfetto, adoro le banane! *(Perfect, I love bananas!)*  
+   - **C)** Posso averne solo una? *(Can I just take one?)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **A) Ci sono dieci biscotti.**  
-2. **B) Ho diciotto anni.**  
-3. **C) Mi spiace, abbiamo solo due arance.**  
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. **B) Ci sono nove pere.**  
+   - Viktor ha contato e dato la risposta corretta.  
+2. **C) Puoi comprarne cinque.**  
+   - Ogni mela costa un euro, e cinque euro comprano cinque mele.  
+3. **A) Tredici?! Sono troppe!**  
+   - Geoff è sorpreso dal numero alto, ma sa che è corretto.  
 {{% /details %}}
 
 ---
 
-### 4. Bonus Challenge – Creative Counting  
+### 4. Risposte Aperte – Scrivi in Italiano  
 
-Write down the Italian numbers in each of these situations:  
+Rispondi alle seguenti situazioni usando numeri in italiano:  
 
-1. You’re buying *three* books and *five* pens.  
-   - **Your Answer**: ________________________________________  
+1. Geoff ordina 6 kiwi da Viktor. Scrivi il numero in italiano:  
+   - **Risposta**: ________________________________________  
 
-2. Viktor says there are *eight* steps to the café.  
-   - **Your Answer**: ________________________________________  
+2. Viktor ha contato 14 pomodori in una cassa. Scrivi il numero in italiano:  
+   - **Risposta**: ________________________________________  
 
-3. Geoff spots *seven* pigeons near the fountain.  
-   - **Your Answer**: ________________________________________  
+3. Geoff compra 10 fragole per il dessert. Scrivi il numero in italiano:  
+   - **Risposta**: ________________________________________  
 
-{{% details title="Answers" open=false %}}
-### Suggested Answers:  
-1. Tre libri e cinque penne. *(Three books and five pens.)*  
-2. Otto gradini. *(Eight steps.)*  
-3. Sette piccioni. *(Seven pigeons.)*  
+{{% details title="Risposte" open=false %}}
+### Risposte Suggerite:  
+1. Sei *(6)*  
+2. Quattordici *(14)*  
+3. Dieci *(10)*  
 {{% /details %}}
 
 ---
 
-✨ **Congratulations!** You’ve completed Exercise 6.1 and are well on your way to mastering Italian numbers. Keep practicing—you never know when Viktor will quiz you next! 🎉
+✨ **Fantastico lavoro!** Hai completato l’Esercizio 6.1 con successo. Viktor è impressionato, e Geoff ha imparato a contare senza sbagliare! Continua a esercitarti con **Lezione 6.2**:  
+- [Lesson 6.2: Counting to 100 – Double Digits, Double Fun](../lesson6.2/)  
+
+🎉 **Bravo! Continua così!**
