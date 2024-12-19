@@ -1,103 +1,106 @@
 ---
 title: "Exercise 6.2: Counting to 100 Practice"
-description: "Put your counting skills to the test with numbers up to 100 and real-life scenarios with Viktor and Geoff."
+description: "Practice your Italian numbers from 21 to 100 with real-life market scenarios featuring Viktor and Geoff."
 weight: 4
 ---
 
-# Exercise 6.2: Counting to 100 Practice – Master the Double Digits 🔢🎉  
+# Exercise 6.2: Counting to 100 Practice – Level Up Your Numbers 🔢  
 
-Ready to level up your Italian counting game? This exercise will take you through numbers up to 100 with fun, real-life scenarios involving Viktor and Geoff. From café orders to ambitious shopping lists, it’s time to show off your numerical prowess. Viktor’s watching, so no pressure (okay, maybe a little).
+Now that you’ve mastered the basics, it’s time to tackle bigger numbers! Geoff is back at the market, and Viktor is ready to challenge him with numbers up to 100. Let’s count together—without accidentally ordering 80 kilos of melons instead of 18.
 
 ---
 
-### 1. Fill in the Blanks – Complete the Sentence  
+### 1. Completa le Frasi – Scrivi il Numero  
 
-Write the correct Italian number in each blank:  
+Scrivi il numero corretto in italiano:  
 
-1. Geoff bought ___ oranges (*38*).  
-   - **Hint**: *It’s not quattro anymore—it’s more ambitious!*  
-2. Viktor needs ___ chairs for the dinner party (*52*).  
-   - **Hint**: *Let’s hope he doesn’t invite 52 guests.*  
-3. There are ___ pigeons at the piazza (*77*).  
-   - **Hint**: *Yes, Viktor counted every single one.*  
+1. Geoff compra ___ chili di zucchine da Viktor per il pranzo. *(27)*  
+2. Viktor vende ___ arance per una spremuta gigante. *(45)*  
+3. Geoff ordina ___ pomodori per fare la salsa. *(32)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. Trentotto  
-2. Cinquantadue  
-3. Settantasette  
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. Ventisette  
+2. Quarantacinque  
+3. Trentadue  
 {{% /details %}}
 
 ---
 
-### 2. Match the Number – Who Needs What?  
+### 2. Indovina il Numero – Che Numero È?  
 
-Match the Italian number to the correct scenario by writing the letter next to the number.  
+Viktor descrive alcuni numeri al mercato. Indovina quale numero sta dicendo.  
 
-1. **Quarantaquattro**  
-2. **Novantanove**  
-3. **Sessantasei**  
+1. *Questo numero viene dopo trenta, ma prima di quaranta. È doppio di diciotto.*  
+   - **Risposta**: _________________________ *(Hint: 36)*  
 
-**Scenarios**:  
-A) Geoff accidentally ordered 99 gelatos because he misunderstood Viktor’s joke.  
-B) Viktor counted 66 steps on a long hike to the top of a hill.  
-C) The café had 44 empty chairs after Geoff’s friends bailed on brunch.  
+2. *Questo numero è più grande di cinquanta ma più piccolo di sessanta. È anche il numero di minuti in un’ora.*  
+   - **Risposta**: _________________________ *(Hint: 60)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **C) Quarantaquattro**  
-2. **A) Novantanove**  
-3. **B) Sessantasei**  
+3. *Un cliente compra un numero pari tra ottanta e cento. È il numero che si celebra quando raggiungi un secolo meno due.*  
+   - **Risposta**: _________________________ *(Hint: 98)*  
+
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. Trentasei *(36)*  
+2. Sessanta *(60)*  
+3. Novantotto *(98)*  
 {{% /details %}}
 
 ---
 
-### 3. Multiple Choice – Choose the Best Response  
+### 3. Scelta Multipla – Scegli la Risposta Corretta  
 
-1. Viktor says: *Quanti gradini ci sono fino alla chiesa?* *(How many steps are there to the church?)*  
-   - **A)** Ci sono sessantuno gradini. *(There are 61 steps.)*  
-   - **B)** Ci sono ventinove gradini. *(There are 29 steps.)*  
-   - **C)** Ci sono novantadue gradini. *(There are 92 steps.)*  
+1. Geoff chiede: *Quanto costa un chilo di mele?* Viktor risponde: *Tre euro al chilo. E tu ne vuoi 30 chili?*  
+   - **A)** Trenta *(30)*  
+   - **B)** Ventinove *(29)*  
+   - **C)** Cinquantacinque *(55)*  
 
-2. Geoff asks: *Quanto costa questa giacca?* *(How much does this jacket cost?)* The vendor replies:  
-   - **A)** Costa quarantadue euro. *(It costs 42 euros.)*  
-   - **B)** Costa ottanta euro. *(It costs 80 euros.)*  
-   - **C)** Costa sessantotto euro. *(It costs 68 euros.)*  
+2. Viktor ha contato: *Ho cento zucchine. Ne vendute sessantacinque oggi. Quante ne ho ancora in magazzino?*  
+   - **A)** Ottanta *(80)*  
+   - **B)** Sessantacinque *(65)*  
+   - **C)** Quindici *(15)*  
 
-3. Viktor tells Geoff: *Ci vediamo alle settantadue!* *(See you at seventy-two!)* Geoff replies:  
-   - **A)** Dove si trova settantadue? *(Where is seventy-two?)*  
-   - **B)** È uno scherzo, vero? *(This is a joke, right?)*  
-   - **C)** Perfetto, ci vediamo lì! *(Perfect, see you there!)*  
+3. Geoff guarda il listino prezzi e vede che i limoni costano ottantacinque centesimi l’uno. Vuole sapere: *Se compro venti limoni, quanto spendo?*  
+   - **A)** Diciassette euro *(17 euros)*  
+   - **B)** Sedici euro *(16 euros)*  
+   - **C)** Quindici euro *(15 euros)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **A) Ci sono sessantuno gradini.**  
-2. **B) Costa ottanta euro.**  
-3. **B) È uno scherzo, vero?** *(This is a joke, right?)*  
+{{% details title="Risposte" open=false %}}
+### Risposte:  
+1. **A) Trenta**  
+   - Viktor suggerisce 30 chili, e Geoff è d’accordo!  
+2. **C) Quindici**  
+   - Dopo aver venduto sessantacinque zucchine, Viktor ha 15 rimaste.  
+3. **A) Diciassette euro**  
+   - 20 limoni a 85 centesimi ciascuno fanno 17 euro.  
 {{% /details %}}
 
 ---
 
-### 4. Bonus Challenge – Numbers in Real-Life Scenarios  
+### 4. Risposte Aperte – Pratica i Tuoi Numeri  
 
-Imagine these scenarios and write the correct Italian number:  
+Rispondi alle seguenti situazioni con i numeri corretti in italiano:  
 
-1. Geoff is ordering 43 pizzas for a party. Write *43* in Italian:  
-   - **Your Answer**: ________________________________________  
+1. Geoff compra 44 arance da Viktor. Scrivi il numero:  
+   - **Risposta**: ________________________________________  
 
-2. Viktor counted 88 gelatos sold at the café today. Write *88* in Italian:  
-   - **Your Answer**: ________________________________________  
+2. Viktor vende 72 pere in una mattinata. Scrivi il numero:  
+   - **Risposta**: ________________________________________  
 
-3. Geoff wants to buy 59 postcards for his Australian friends. Write *59* in Italian:  
-   - **Your Answer**: ________________________________________  
+3. Geoff ordina 99 pomodori per una festa. Scrivi il numero:  
+   - **Risposta**: ________________________________________  
 
-{{% details title="Answers" open=false %}}
-### Suggested Answers:  
-1. Quarantatre *(43)*  
-2. Ottantotto *(88)*  
-3. Cinquantanove *(59)*  
+{{% details title="Risposte" open=false %}}
+### Risposte Suggerite:  
+1. Quarantaquattro *(44)*  
+2. Settantadue *(72)*  
+3. Novantanove *(99)*  
 {{% /details %}}
 
 ---
 
-✨ **Congratulations!** You’ve conquered numbers up to 100. Whether you’re counting gelatos, euros, or pigeons, you’re now ready to impress Viktor and any Italian vendor you meet. Buona fortuna e buon divertimento! 🎉
+✨ **Bravo!** Hai completato l’Esercizio 6.2 con successo. Viktor ti ha già nominato “campione dei numeri” al mercato. Continua a esercitarti con **Lezione 6.3**:  
+- [Lesson 6.3: Dates and Times – Making Numbers Practical](../lesson6.3/)  
+
+🎉 **Ottimo lavoro! Geoff sta imparando, e Viktor si diverte sempre di più!**
