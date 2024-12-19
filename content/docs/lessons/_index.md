@@ -1,33 +1,43 @@
 ---
 title: "Italian Lessons"
 weight: 1
-description: "Explore our Italian lessons, from beginner basics to advanced conversations. Start speaking Italian today with a dash of humor!"
+description: "Discover practical and humorous Italian lessons tailored for beginners, intermediate learners, and advanced speakers."
 ---
 
-# Italian Lessons – Italiano con Geoff 🇮🇹
+# Italian Lessons – Step into the Language 🇮🇹  
 
-Welcome to **Italiano con Geoff**! Whether you’re just starting out or brushing up on your skills, we’ve got you covered with lessons that make learning Italian easy, fun, and memorable. From essential greetings to advanced conversations, this is your one-stop destination to speaking Italian with confidence!
+Welcome to the heart of **Italiano con Geoff**! This is where your Italian language adventure begins. Whether you’re just starting out or ready to dive into advanced topics, our lessons are designed to make learning Italian practical, engaging, and—most importantly—fun!  
 
-### What You'll Find Here
+---
 
-Each level is designed to guide you step-by-step through the Italian language. We start with the fundamentals for beginners and move into intermediate and advanced topics as you progress. And yes, there’s a little humor sprinkled in to keep things light and enjoyable – learning Italian doesn’t have to be all serious!
+## What You’ll Learn  
 
-### Lessons by Level
+Our lessons are grouped into three levels to guide you on your journey:  
 
-Explore the lessons below and choose your level to get started:
+### Beginner Lessons  
+Perfect for starting your Italian adventure. Learn the essentials like greetings, numbers, and how to order your first espresso without accidentally asking for a *horse* instead of *coffee*.  
 
-- [**Beginner Level**](../lessons/beginner/) – Start with the basics! Learn greetings, introductions, and essential phrases to help you survive (and thrive) in Italy.
-- [**Intermediate Level**](../lessons/intermediate/) – Ready to dive deeper? Practice forming sentences, talking about hobbies, and navigating everyday conversations.
-- [**Advanced Level**](../lessons/advanced/) – Go beyond the basics with complex grammar, idiomatic expressions, and conversational Italian to sound like a local.
+### Intermediate Lessons  
+Take your skills to the next level. Discuss hobbies, navigate Italian transportation, and finally learn the grammar you’ve been avoiding (we promise, it’s painless!).  
 
-### How to Use These Lessons
+### Advanced Lessons  
+Master the art of debating, learn idiomatic expressions, and tackle formal writing. These lessons will help you sound like a true Italian—pizza jokes included.  
 
-1. **Start at Your Level**: Not sure where to begin? The Beginner Level is perfect for newcomers, while the Intermediate and Advanced Levels are great for those with some experience.
-2. **Practice as You Go**: Each lesson includes exercises and examples. Don’t just read – try saying things out loud!
-3. **Enjoy the Journey**: Mistakes are part of the fun. Laugh, learn, and keep going!
+---
 
-### Ready to Begin?
+## How to Use These Lessons  
 
-Choose your level and let’s get started on your Italian adventure. By the end, you’ll be chatting like a pro, ordering coffee with confidence, and maybe even cracking a joke or two in Italian.
+1. **Start at Your Level**: Are you a total beginner? Head to Lesson 1. More advanced? Skip ahead to topics that interest you.  
+2. **Practice with Real-Life Scenarios**: Every lesson includes practical examples to help you apply what you learn immediately.  
+3. **Enjoy the Humor**: Learning is easier when you’re having fun—so expect laughs along the way.  
 
-**Iniziamo!** (Let’s begin!)
+---
+
+## Ready to Begin?  
+
+Explore the lessons:  
+- [Beginner Lessons](./beginner/)  
+- [Intermediate Lessons](./intermediate/)  
+- [Advanced Lessons](./advanced/)  
+
+✨ **Let’s start your Italian journey! Buona fortuna!** 🎉 
