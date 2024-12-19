@@ -5,31 +5,31 @@ weight: 1
 
 # Italian Alphabet
 
-The Italian alphabet has 21 letters. Here's a breakdown with pronunciation examples, notes, and phonetic pronunciations:
+The Italian alphabet has 21 letters. Here's a breakdown with pronunciation examples, Italian-style letter names, and notes:
 
-| Letter | Pronunciation Example | Pronunciation | Notes |
+| Letter | Pronunciation Example | Italian Name  | Notes |
 |--------|------------------------|---------------|-------|
-| A      | as in *amore*         | /a/           | Love  |
-| B      | as in *bello*         | /b/           | Beautiful |
-| C      | as in *cane* (dog) or *ciao* (hello) | /k/ (hard), /tʃ/ (soft) | Hard before A, O, U; soft before E, I |
-| D      | as in *donna*         | /d/           | Woman |
-| E      | as in *elefante*      | /e/ or /ɛ/    | Elephant; **closed E** in stressed syllables (e.g., *perché*), **open E** in unstressed ones (e.g., *bene*) |
-| F      | as in *fatto*         | /f/           | Done  |
-| G      | as in *gatto* (cat) or *gioco* (game) | /g/ (hard), /dʒ/ (soft) | Hard before A, O, U; soft before E, I |
-| H      | Silent in Italian     | Silent        | Used in borrowed words like *hotel* |
-| I      | as in *isola*         | /i/           | Island |
-| L      | as in *luna*          | /l/           | Moon  |
-| M      | as in *mare*          | /m/           | Sea   |
-| N      | as in *notte*         | /n/           | Night |
-| O      | as in *orologio*      | /o/ or /ɔ/    | Clock; **closed O** in stressed syllables (e.g., *osso*), **open O** in unstressed ones (e.g., *molto*) |
-| P      | as in *pane*          | /p/           | Bread |
-| Q      | as in *quadro*        | /kw/          | Painting |
-| R      | as in *rosso*         | /r/ (rolled)  | Red; rolled pronunciation is typical in Italian |
-| S      | as in *sole*          | /s/ or /z/    | Sun; voiced /z/ sound often occurs between vowels (e.g., *casa*) |
-| T      | as in *tavolo*        | /t/           | Table |
-| U      | as in *uva*           | /u/           | Grapes |
-| V      | as in *vino*          | /v/           | Wine  |
-| Z      | as in *zebra*         | /ts/ or /dz/  | Can sound like 'ts' in *zucchero* or 'dz' in *mezzo* |
+| A      | as in *amore*         | *a*           | Love  |
+| B      | as in *bello*         | *bi*          | Beautiful |
+| C      | as in *cane* (dog) or *ciao* (hello) | *ci* | Hard before A, O, U; soft before E, I |
+| D      | as in *donna*         | *di*          | Woman |
+| E      | as in *elefante*      | *e*           | Elephant; **closed E** in stressed syllables (e.g., *perché*), **open E** in unstressed ones (e.g., *bene*) |
+| F      | as in *fatto*         | *effe*        | Done  |
+| G      | as in *gatto* (cat) or *gioco* (game) | *gi* | Hard before A, O, U; soft before E, I |
+| H      | Silent in Italian     | *acca*        | Used in borrowed words like *hotel* |
+| I      | as in *isola*         | *i*           | Island |
+| L      | as in *luna*          | *elle*        | Moon  |
+| M      | as in *mare*          | *emme*        | Sea   |
+| N      | as in *notte*         | *enne*        | Night |
+| O      | as in *orologio*      | *o*           | Clock; **closed O** in stressed syllables (e.g., *osso*), **open O** in unstressed ones (e.g., *molto*) |
+| P      | as in *pane*          | *pi*          | Bread |
+| Q      | as in *quadro*        | *cu*          | Painting |
+| R      | as in *rosso*         | *erre*        | Red; rolled pronunciation is typical in Italian |
+| S      | as in *sole*          | *esse*        | Sun; voiced /z/ sound often occurs between vowels (e.g., *casa*) |
+| T      | as in *tavolo*        | *ti*          | Table |
+| U      | as in *uva*           | *u*           | Grapes |
+| V      | as in *vino*          | *vi/vu*       | Wine; *vi* or *vu* can be used depending on context |
+| Z      | as in *zebra*         | *zeta*        | Can sound like 'ts' in *zucchero* or 'dz' in *mezzo* |
 
 ---
 
@@ -37,20 +37,20 @@ The Italian alphabet has 21 letters. Here's a breakdown with pronunciation examp
 
 These letters appear in borrowed words:  
 
-| Letter | Example Words        | Pronunciation | Notes |
+| Letter | Example Words        | Italian Name  | Notes |
 |--------|----------------------|---------------|-------|
-| J      | *jeans, Juventus*   | /dʒ/          | Rare, typically used in foreign or archaic words. |
-| K      | *kiwi, ketchup*     | /k/           | Found in loanwords. |
-| W      | *whisky, wafer*     | /v/ or /w/    | Pronounced /v/ in some words and /w/ in others, depending on the origin. |
-| X      | *xilofono* (xylophone) | /ks/ or /gz/ | Common in scientific or borrowed terms. |
-| Y      | *yogurt, yacht*     | /j/           | Found in borrowed words. |
+| J      | *jeans, Juventus*   | *i lunga*     | Rare, typically used in foreign or archaic words. |
+| K      | *kiwi, ketchup*     | *kappa*       | Found in loanwords. |
+| W      | *whisky, wafer*     | *vu doppia*   | Pronounced /v/ in some words and /w/ in others, depending on the origin. |
+| X      | *xilofono* (xylophone) | *ics*       | Common in scientific or borrowed terms. |
+| Y      | *yogurt, yacht*     | *ipsilon*     | Found in borrowed words. |
 
 ---
 
-### Pronunciation Tips
+### Pronunciation Tips  
 
 - **Double consonants**: Pronounce both sounds distinctly. For example, *palla* (ball) has a stronger /ll/ than *pala* (shovel).  
 - **Vowels**: Italian vowels are consistent and always pronounced. Compare this to English, where vowels can have multiple sounds.  
-- **R**: Roll it for the classic Italian flair! Practice with words like *rosso* or *arrivederci*.
+- **R**: Roll it for the classic Italian flair! Practice with words like *rosso* or *arrivederci*.  
 
-Enjoy practicing the Italian alphabet, and don’t forget: Viktor and Geoff are rooting for you!
+Enjoy practicing the Italian alphabet, and remember: *a, bi, ci… sei pronto?* (*a, b, c… are you ready?*) 😊
