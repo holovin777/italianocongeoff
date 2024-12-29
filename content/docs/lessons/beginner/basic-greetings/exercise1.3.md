@@ -63,7 +63,7 @@ Write down the most appropriate Italian greeting for each situation.
 Write a short dialogue between you and a friend during a festive occasion. Use at least two greetings from this lesson. Here’s an example to inspire you:  
 
 **Example Dialogue**:  
-- **You**: Buon Natale, Viktor! Ha cucinato qualcosa di speciale?  
+- **You**: Buon Natale, Viktor! Hai cucinato qualcosa di speciale?  
 - **Viktor**: Certo! Un pranzo di cinque portate. Buon Natale anche a te!  
 
 Now it’s your turn!  
