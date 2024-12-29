@@ -4,9 +4,9 @@ description: "Learn how to talk about the days of the week and tell time in Ital
 weight: 7
 ---
 
-![Days of the Week & Time](/images/beginner-level/days-and-time/days-and-time.webp)
-
 # 7. Days of the Week & Time – Keeping Track in Italian ⏰📅  
+
+![Days of the Week & Time](/images/beginner-level/days-and-time/days-and-time.webp)
 
 Ever wondered how Italians always seem to have time for coffee, gelato, and epic dinners? The secret lies in their mastery of the week and clock. In this lesson, you’ll learn how to navigate time like a true Italian (with a side of humor).
 

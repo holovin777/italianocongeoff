@@ -4,9 +4,9 @@ description: "Master the art of Italian coffee culture and learn to order like a
 weight: 3
 ---
 
-![Ordering at a Café](/images/beginner-level/ordering-at-a-cafe/ordering-at-a-cafe.webp)
-
 # 3. Ordering at a Café – Coffee, Croissants, and Confidence ☕  
+
+![Ordering at a Café](/images/beginner-level/ordering-at-a-cafe/ordering-at-a-cafe.webp)
 
 Welcome to the magical world of Italian cafés, where a simple coffee break transforms into an art form. In this lesson, you’ll learn how to order your favorite drinks and snacks with ease, charm, and maybe even impress the locals (or at least Viktor).
 
