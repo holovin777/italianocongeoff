@@ -1,52 +1,50 @@
 ---
-title: "6. Numbers and Counting – From Zero to Hero (and Maybe 100!)"
-description: "Master Italian numbers and learn how to count like a pro—without getting lost after 10."
+title: "6. Numbers and Counting"
+description: "Master Italian numbers and counting with fun scenarios, from markets to time-telling!"
 weight: 6
 ---
 
-![Numbers and Counting](/images/beginner-level/numbers-and-counting/numbers-and-counting.webp)
-
 # 6. Numbers and Counting – From Zero to Hero (and Maybe 100!) 🔢🇮🇹  
 
-Welcome to the magical world of Italian numbers! Whether you’re bargaining at the market, telling Viktor how many espressos you’ve had today, or confidently giving directions in kilometers instead of miles (sorry, Geoff), mastering numbers in Italian is essential.
+![Numbers and Counting](/images/beginner-level/numbers-and-counting/numbers-and-counting.webp)
+
+Numbers are everywhere—markets, restaurants, and even on the train when Geoff realizes he’s sitting in carriage 12 instead of 2. Mastering Italian numbers is more than just math; it’s the key to navigating daily life with confidence (and avoiding accidental over-purchases).
 
 ---
 
 ## What You’ll Learn  
 
-In this lesson, we’ll cover:  
-- The basics: Numbers from 0 to 100 (don’t worry, we’ll count slowly).  
-- Tips for dates, times, and prices—because ordering *quattro* pizzas is different from ordering *quattordici*.  
-- Fun ways to practice, including games and real-world scenarios with Viktor.  
+In this section, you’ll dive into:  
+- The basics: Numbers from 0 to 100.  
+- Practical applications: Dates, times, and prices.  
+- Fun counting games to keep things lively (Viktor’s idea, of course).  
 
 ---
 
 ## Why It’s Important  
 
-Imagine this:  
-- **Geoff**: *Quanto costa questo?* *(How much does this cost?)*  
-- **Vendor**: *Venti euro.* *(Twenty euros.)*  
-- **Geoff**: *Ah, grazie!* *(Ah, thanks!)*  
-(Geoff hands over 50 euros and doesn’t realize he’s owed change. Viktor facepalms in the background.)  
+Picture this:  
+- **Geoff**: *Quanto costano questi pomodori?* *(How much do these tomatoes cost?)*  
+- **Viktor (the vendor)**: *Due euro al chilo.* *(Two euros per kilo.)*  
+- **Geoff**: *Perfetto, prendo dodici chili.* *(Perfect, I’ll take 12 kilos.)*  
+(Viktor stares as Geoff attempts to carry a mountain of tomatoes home.)  
 
-Numbers are everywhere, and learning them can save you money, time, and maybe even embarrassment. Plus, once you master them, you can impress Italians by counting faster than they can pour wine.
+Numbers in Italian will save you from comedic misadventures and help you impress the locals with your precision.
 
 ---
 
-## Viktor’s Advice  
+## Viktor’s Counting Tips  
 
 Viktor says:  
-> **“Counting in Italian is like learning to dance—it’s all about rhythm. Start with uno, due, tre, and before you know it, you’re tangoing your way to cento!”**  
-
-And remember, if you mess up, just laugh it off. Italians love a good chuckle, and so does Viktor.
+> **“Start slow—uno, due, tre. Build confidence, and soon you’ll be counting like an opera singer reaching a high note!”**  
 
 ---
 
 ## What’s Next?  
 
-Ready to jump into the numbers game? Start with **Lesson 6.1** and take your first steps toward numerical mastery:  
-- [Lesson 6.1: Numbers 0–20 – The Foundation of Counting](./lesson6.1/)  
-- [Lesson 6.2: Counting to 100 – Double Digits, Double Fun](./lesson6.2/)  
-- [Lesson 6.3: Dates and Times – Making Numbers Practical](./lesson6.3/)  
+Ready to start your numerical journey? Begin with **Lesson 6.1**, where you’ll learn the foundation:  
+- [Lesson 6.1: Numbers 0–20 – The Building Blocks of Counting](./lesson6.1/)  
+- [Lesson 6.2: Counting to 100 – Double Digits Made Easy](./lesson6.2/)  
+- [Lesson 6.3: Dates and Times – Numbers in Action](./lesson6.3/)  
 
-✨ **Let’s count together! Uno, due, tre... Buona fortuna!** 🎉
+✨ **Let’s count together! Uno, due, tre… Buona fortuna!** 🎉  

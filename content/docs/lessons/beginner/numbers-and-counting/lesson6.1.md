@@ -1,77 +1,104 @@
 ---
 title: "Lesson 6.1: Numbers 0–20 – The Foundation of Counting"
-description: "Start your journey to Italian numerical mastery with the basics: numbers 0 to 20."
+description: "Learn the Italian numbers from 0 to 20 and build a strong foundation for counting in Italian."
 weight: 1
 ---
 
-# Lesson 6.1: Numbers 0–20 – The Foundation of Counting 🔢
+# Lesson 6.1: Numbers 0–20 – The Foundation of Counting 🔢  
 
-Welcome to the wonderful world of Italian numbers! In this lesson, we’ll take you from zero (*zero*) to twenty (*venti*), ensuring you’re ready for any situation where counting is essential—whether it’s ordering *due cappuccini* or telling Viktor how many cats you saw today. (He claims Italy has more cats than people, but that’s unverified.)
+Welcome to the world of Italian numbers! In this lesson, you’ll master the basics and set the stage for navigating everything from ordering one espresso (*un caffè*) to counting how many gelatos Geoff has eaten (spoiler: it’s more than three).  
 
 ---
 
 ## What You’ll Learn  
 
-- Numbers from 0 to 20 (in words and pronunciation).  
-- How to use numbers in everyday situations.  
-- Tips for not confusing *quattro* (four) with *quattordici* (fourteen)—a mistake Geoff made once, with hilarious consequences.  
+By the end of this lesson, you’ll be able to:  
+- Count from 0 to 20 in Italian.  
+- Recognize Italian numbers in everyday situations.  
+- Use numbers to impress your Italian-speaking friends (or Viktor, who loves precision).  
 
 ---
 
-## The Italian Numbers: 0 to 20  
+## Numbers 0–20  
 
-Here’s your guide to the first 20 numbers in Italian:  
-
-| Number | Italian     | Pronunciation         | Fun Fact                         |
-|--------|-------------|-----------------------|-----------------------------------|
-| 0      | zero        | *ZEH-roh*             | Also means "zero" in English—easy win! |
-| 1      | uno         | *OO-noh*              | The start of it all. Think "uno" cards! |
-| 2      | due         | *DOO-eh*              | Useful for ordering espresso shots. |
-| 3      | tre         | *TREH*                | Italians love *tre* scoops of gelato. |
-| 4      | quattro     | *KWA-troh*            | Not to be confused with *quattordici*! |
-| 5      | cinque      | *CHEEN-kweh*          | Pronounced like "cheeky," but with more flair. |
-| 6      | sei         | *SEH-ee*              | Also means "you are"—context is key! |
-| 7      | sette       | *SEH-teh*             | The lucky number! Italians love *sette*. |
-| 8      | otto        | *OHT-toh*             | Looks like a snowman—fun memory hack! |
-| 9      | nove        | *NOH-veh*             | Sounds fancy, like *novel*. |
-| 10     | dieci       | *DYEH-chee*           | Congrats—you’re in double digits! |
-| 11     | undici      | *OON-dee-chee*        | Like *uno* (one) with a twist. |
-| 12     | dodici      | *DOH-dee-chee*        | Double digits just got cooler. |
-| 13     | tredici     | *TREH-dee-chee*       | "Three plus ten"—math checks out. |
-| 14     | quattordici | *KWA-tor-dee-chee*    | The long cousin of *quattro*. |
-| 15     | quindici    | *KWEEN-dee-chee*      | Sounds like "queen"—regal and memorable. |
-| 16     | sedici      | *SEH-dee-chee*        | Almost there! "Six plus ten." |
-| 17     | diciassette | *DEE-chah-SET-teh*    | Italians consider 17 unlucky—be careful! |
-| 18     | diciotto    | *DEE-choh-toh*        | Lucky number 18 is here to brighten your day. |
-| 19     | diciannove  | *DEE-chah-NOH-veh*    | One more to go! Almost at *venti*. |
-| 20     | venti       | *VEN-tee*             | Also means "winds"—perfect for a fresh start! |
+| Number | Italian     | English       | Pronunciation     |  
+|--------|-------------|---------------|-------------------|  
+| 0      | Zero        | Zero          | ZEH-roh           |  
+| 1      | Uno         | One           | OO-noh            |  
+| 2      | Due         | Two           | DOO-eh            |  
+| 3      | Tre         | Three         | TREH              |  
+| 4      | Quattro     | Four          | KWAH-troh         |  
+| 5      | Cinque      | Five          | CHEEN-kweh        |  
+| 6      | Sei         | Six           | SEH-ee            |  
+| 7      | Sette       | Seven         | SEHT-teh          |  
+| 8      | Otto        | Eight         | OHT-toh           |  
+| 9      | Nove        | Nine          | NOH-veh           |  
+| 10     | Dieci       | Ten           | DYAY-chee         |  
+| 11     | Undici      | Eleven        | OON-dee-chee      |  
+| 12     | Dodici      | Twelve        | DOH-dee-chee      |  
+| 13     | Tredici     | Thirteen      | TREH-dee-chee     |  
+| 14     | Quattordici | Fourteen      | KWAHT-tohr-dee-chee |  
+| 15     | Quindici    | Fifteen       | KWEEN-dee-chee    |  
+| 16     | Sedici      | Sixteen       | SEH-dee-chee      |  
+| 17     | Diciassette | Seventeen     | DEE-chah-SEHT-teh |  
+| 18     | Diciotto    | Eighteen      | DEE-CHOHT-toh     |  
+| 19     | Diciannove  | Nineteen      | DEE-chah-NOH-veh  |  
+| 20     | Venti       | Twenty        | VEHN-tee          |  
 
 ---
 
-## Dialogue with Viktor and Geoff  
+## How It Works  
 
-**Scenario**: Geoff visits Viktor for help counting in Italian.  
+1. **Key Patterns**:  
+   - Numbers 11–16 are regular additions: *dieci + uno → undici*.  
+   - Numbers 17–19 contract: *dici + sette → diciassette*.  
 
-- **Geoff**: Viktor, posso contare fino a venti in italiano! *(Viktor, I can count to twenty in Italian!)*  
-- **Viktor**: Davvero? Fammi sentire. *(Really? Let me hear it.)*  
-- **Geoff**: Uno, due, tre... quattordici...  
-- **Viktor**: Aspetta! È *quattro*, non *quattordici*! *(Wait! It’s *four*, not *fourteen*!)  
-- **Geoff**: Ah, scusa! Quattro. *(Ah, sorry! Four.)*  
-- **Viktor**: Bene, ma non fare quell’errore al mercato. Potresti comprare quattordici chili di mele! *(Good, but don’t make that mistake at the market. You might buy fourteen kilos of apples!)*  
+2. **Cultural Note**: Italians love numbers! Whether it’s counting pasta portions or discussing soccer scores, numbers are everywhere.  
 
 ---
 
-## Tips from Viktor  
+## Key Phrases  
 
-1. **Practice Out Loud**: Numbers are easier to remember when you say them aloud. Viktor says counting gelato scoops is the best practice.  
-2. **Focus on Similar Numbers**: Watch out for pairs like *quattro* and *quattordici* or *due* and *dodici*. They sound close but mean very different things!  
-3. **Use Everyday Situations**: Count steps, count espressos, or count the number of times Viktor shakes his head at Geoff’s mistakes.  
+1. **Quanti anni hai?** *(How old are you?)*  
+   - Response: *Ho diciotto anni.* *(I am 18 years old.)*  
+
+2. **Quante pizze vuoi?** *(How many pizzas do you want?)*  
+   - Response: *Ne voglio due.* *(I want two.)*  
+
+3. **Quanto costa?** *(How much does it cost?)*  
+   - Response: *Costa dieci euro.* *(It costs 10 euros.)*  
 
 ---
 
-## Next Steps  
+## Example Dialogue  
 
-Once you’ve mastered numbers 0–20, move on to **Exercise 6.1** and start putting your skills into action:  
-- [Exercise 6.1: Numbers 0–20 Practice](../exercise6.1/)  
+**Scenario**: Geoff and Viktor are at a bakery.  
 
-✨ **Keep counting, keep practicing, and keep making Viktor proud! Buona fortuna!** 🎉
+- **Geoff**: *Quanti biscotti ci sono in questa scatola?* *(How many cookies are in this box?)*  
+- **Viktor**: *Ci sono venti biscotti. Ma penso che ne mancheranno presto!* *(There are 20 cookies. But I think some will be missing soon!)*  
+
+---
+
+## Practice Time  
+
+Try counting out loud and using these numbers in practical situations:  
+
+1. Count from 0 to 20 in Italian.  
+2. Imagine you’re ordering food and ask for *tre panini* (three sandwiches).  
+3. Ask a friend how old they are in Italian.  
+
+---
+
+## Quick Tips  
+
+1. **Repeat Often**: Numbers are easier to remember when you use them daily.  
+2. **Practice with Friends**: Challenge someone to count in Italian with you.  
+3. **Have Fun**: Numbers are the building blocks of your Italian adventure!  
+
+---
+
+## Ready for More?  
+
+Head over to [Exercise 6.1: Counting Practice](../exercise6.1/) to test your skills!  
+
+✨ **Bravo! You’re one step closer to mastering Italian numbers. Buona fortuna!** 🌟  
