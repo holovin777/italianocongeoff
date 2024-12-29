@@ -1,97 +1,112 @@
 ---
 title: "Exercise 5.1: Shopping Essentials Practice"
+description: "Practice essential shopping phrases in Italian with fun scenarios and dialogues."
 weight: 2
-description: "Put your Italian shopping skills to the test and avoid accidentally buying 3 kilos of zucchini!"
 ---
 
-# Exercise 5.1: Shopping Essentials Practice 🛍️  
+# Exercise 5.1: Shopping Essentials Practice 🛍️🗣️  
 
-Ready to put your Italian shopping skills to work? This exercise will test your ability to ask for prices, make polite requests, and navigate common shopping situations without accidentally purchasing 10 kilos of potatoes when you only wanted two.
+It’s time to put your shopping phrases into action! Join Geoff and Viktor in a series of fun, market-inspired scenarios. Can you navigate the bustling Italian marketplace like a pro?
 
 ---
 
-### 1. Fill in the Blanks – Shopping Scenarios  
+### 1. Fill in the Blanks – Complete the Dialogue  
 
-Complete the sentences with the correct Italian word or phrase.
+**Scenario**: Geoff is at the market, and Viktor is (somehow) the vendor.  
 
-1. **You**: Scusi, _____ costa questa borsa? *(Excuse me, how much does this bag cost?)*  
-2. **You**: Posso _____ quella giacca? *(Can I try on that jacket?)*  
-3. **Vendor**: Costa trenta euro.  
-   **You**: _____ pagarla con carta di credito? *(Can I pay for it with a credit card?)*  
+1. **Geoff**: *Buongiorno! Quanto _____ questi pomodori?* *(Good morning! How much do these tomatoes cost?)*  
+   **Viktor**: *Due euro al chilo.* *(Two euros per kilo.)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **Quanto**  
-2. **provarla**  
-3. **Posso**  
-{{% /details %}}
+2. **Geoff**: *Perfetto, ne _____ un chilo, grazie.* *(Perfect, I’ll take one kilo, thank you.)*  
+   **Viktor**: *Altro?* *(Anything else?)*  
+
+3. **Geoff**: *Sì, quanto costa questo formaggio?* *(Yes, how much does this cheese cost?)*  
+   **Viktor**: *Cinque euro per tre etti.* *(Five euros for 300 grams.)*  
+
+4. **Geoff**: *Va bene, _____ tre etti.* *(Alright, I’ll take 300 grams.)*  
 
 ---
 
 ### 2. Match the Phrase – What Does It Mean?  
 
-Match the Italian shopping phrase to its correct meaning in English.
+Match each Italian phrase to its English equivalent. Write the letter next to the number.  
 
-1. **Quanto costa?**  
-2. **Posso vedere quello?**  
-3. **Quanto costano?**  
-4. **Posso provarlo/la?**  
-5. **Ha il resto?**
+1. **Quanto costa questo?**  
+2. **Ne prendo mezzo chilo.**  
+3. **C’è una taglia più grande?**  
+4. **Quanto pago?**  
 
-**Options**:  
-A) How much does it cost?  
-B) Can I try it on?  
-C) How much do they cost?  
-D) Do you have change?  
-E) Can I see that?  
-
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **A) How much does it cost?**  
-2. **E) Can I see that?**  
-3. **C) How much do they cost?**  
-4. **B) Can I try it on?**  
-5. **D) Do you have change?**  
-{{% /details %}}
+A) Is there a bigger size?  
+B) How much does this cost?  
+C) I’ll take half a kilo.  
+D) How much do I pay?  
 
 ---
 
-### 3. Situational Practice – What Would You Say?  
+### 3. Multiple Choice – Choose the Best Response  
 
-Imagine you’re in these situations. Write your response in Italian.
+Choose the most appropriate response for each situation.  
 
-1. **Situation**: You want to know the price of a scarf at a market.  
-   - **Your Response**: __________________________________________  
+1. Geoff asks: *Quanto costano queste mele?* *(How much do these apples cost?)*  
+   **Viktor** replies:  
+   - **A)** *Tre euro al chilo.* *(Three euros per kilo.)*  
+   - **B)** *Ne prendo un chilo.* *(I’ll take one kilo.)*  
+   - **C)** *C’è una taglia più grande?* *(Is there a bigger size?)*  
 
-2. **Situation**: You’re trying on a leather jacket and want to know if the vendor accepts credit cards.  
-   - **Your Response**: __________________________________________  
+2. Viktor says: *C’è una taglia più piccola?* *(Is there a smaller size?)*  
+   Geoff replies:  
+   - **A)** *Va bene, lo prendo.* *(Alright, I’ll take it.)*  
+   - **B)** *È accanto alla piazza.* *(It’s next to the square.)*  
+   - **C)** *Sì, certo, ecco qui.* *(Yes, of course, here it is.)*  
 
-3. **Situation**: The vendor gives you change for a €20 bill, but you realize you need smaller coins. Politely ask if they have change.  
-   - **Your Response**: __________________________________________  
-
-{{% details title="Answers" open=false %}}
-### Suggested Answers:  
-1. **Quanto costa questa sciarpa?** *(How much does this scarf cost?)*  
-2. **Posso pagare con carta di credito?** *(Can I pay with a credit card?)*  
-3. **Ha il resto?** *(Do you have change?)*  
-{{% /details %}}
-
----
-
-### 4. Bonus Challenge – Decoding Vendor Talk  
-
-A vendor at the market gives you these directions in rapid Italian. Can you figure out what they mean? Write your translation in English.
-
-**Vendor’s Directions**:  
-- Costa dieci euro, ma se ne prendi due, sono diciotto euro.  
-- Lo vuoi con la borsa regalo?  
-
-{{% details title="Answers" open=false %}}
-### Translation:  
-1. **It costs ten euros, but if you take two, it’s eighteen euros.**  
-2. **Do you want it with a gift bag?**  
-{{% /details %}}
+3. Geoff wants 300 grams of cheese. What should he say?  
+   - **A)** *Quanto costa questo formaggio?* *(How much does this cheese cost?)*  
+   - **B)** *Ne prendo tre etti.* *(I’ll take 300 grams.)*  
+   - **C)** *Va bene, prendo tutto!* *(Alright, I’ll take it all!)*  
 
 ---
 
-✨ **Congratulations!** You’ve completed Exercise 5.1 and are now one step closer to becoming a shopping pro in Italy. Next time, you’ll confidently ask for prices, try on items, and maybe even charm the vendor with a compliment. Buon shopping! 🎉
+### 4. Create Your Own Dialogue  
+
+Write a short dialogue using at least two phrases from this lesson.  
+
+**Example Dialogue**:  
+- **Geoff**: *Quanto costa questo formaggio?*  
+- **Viktor**: *Cinque euro per tre etti.*  
+- **Geoff**: *Perfetto, ne prendo tre etti.*  
+- **Viktor**: *Grazie mille! Altro?*  
+
+Now it’s your turn!  
+
+---
+
+### Answers  
+
+{{% details title="Answers" open=false %}}  
+
+#### 1. Fill in the Blanks  
+1. *costano*  
+2. *prendo*  
+3. *prendo*  
+
+#### 2. Match the Phrase  
+1. **B)** How much does this cost?  
+2. **C)** I’ll take half a kilo.  
+3. **A)** Is there a bigger size?  
+4. **D)** How much do I pay?  
+
+#### 3. Multiple Choice  
+1. **A)** *Tre euro al chilo.*  
+2. **C)** *Sì, certo, ecco qui.*  
+3. **B)** *Ne prendo tre etti.*  
+
+#### 4. Create Your Own Dialogue – Sample  
+- **Geoff**: *Quanto pago?*  
+- **Viktor**: *Otto euro, grazie!*  
+- **Geoff**: *Perfetto, grazie mille!*  
+
+{{% /details %}}  
+
+---
+
+✨ **Well done! Now you’re ready to conquer any Italian marketplace. Buona fortuna!** 🌟  
