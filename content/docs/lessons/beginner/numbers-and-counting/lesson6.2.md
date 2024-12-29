@@ -1,96 +1,116 @@
 ---
-title: "Lesson 6.2: Counting to 100 – Double Digits, Double Fun"
-description: "Take your Italian counting skills to the next level and learn to navigate numbers up to 100 like a pro!"
+title: "Lesson 6.2: Counting to 100 – Double Digits Made Easy"
+description: "Learn to count from 21 to 100 in Italian and use numbers in real-life scenarios."
 weight: 3
 ---
 
-# Lesson 6.2: Counting to 100 – Double Digits, Double Fun 🔢  
+# Lesson 6.2: Counting to 100 – Double Digits Made Easy 🔢  
 
-Ready to take your Italian counting skills to the next level? In this lesson, we’ll go beyond 20 and learn how to handle numbers all the way up to 100. Whether you’re negotiating prices at the market or trying to keep track of how many espressos Viktor drinks in a week (hint: it’s a lot), this lesson will have you counting like a local in no time.
+Congratulations! You’ve mastered the numbers from 0 to 20. Now it’s time to level up and tackle numbers 21 to 100. Whether you’re counting euros, steps, or gelatos (again, no judgment), double digits are essential.
 
 ---
 
 ## What You’ll Learn  
 
-- Numbers from 21 to 100 in Italian.  
-- How to construct numbers using simple patterns.  
-- Tips for sounding confident, even if you hesitate when saying *ottantotto* (88).  
+By the end of this lesson, you’ll be able to:  
+- Count from 21 to 100 in Italian.  
+- Use numbers for prices, quantities, and other practical applications.  
+- Sound like a pro while chatting about numbers with Viktor.  
 
 ---
 
-## The Italian Numbers: 21 to 100  
+## Numbers from 21 to 29  
 
-Here’s a handy chart to help you master the numbers:
-
-| Tens    | Italian         | Examples with Units       |
-|---------|-----------------|---------------------------|
-| 20      | **venti**       | 21 = **ventuno**, 25 = **venticinque** |
-| 30      | **trenta**      | 32 = **trentadue**, 39 = **trentanove** |
-| 40      | **quaranta**    | 41 = **quarantuno**, 48 = **quarantotto** |
-| 50      | **cinquanta**   | 52 = **cinquantadue**, 57 = **cinquantasette** |
-| 60      | **sessanta**    | 63 = **sessantatre**, 69 = **sessantanove** |
-| 70      | **settanta**    | 74 = **settantquattro**, 79 = **settantanove** |
-| 80      | **ottanta**     | 81 = **ottantuno**, 88 = **ottantotto** |
-| 90      | **novanta**     | 92 = **novantadue**, 99 = **novantanove** |
-| 100     | **cento**       | You’ve made it! 🎉       |
+| Tens | Italian      | English        | Pronunciation     |  
+|------|--------------|----------------|-------------------|  
+| 21   | Ventuno      | Twenty-one     | VEHN-too-no       |  
+| 22   | Ventidue     | Twenty-two     | VEHN-tee-DOO-eh   |  
+| 23   | Ventitre     | Twenty-three   | VEHN-tee-TREH     |  
+| 24   | Ventiquattro | Twenty-four    | VEHN-tee-KWAH-troh|  
+| 25   | Venticinque  | Twenty-five    | VEHN-tee-CHEEN-kweh |  
+| 26   | Ventisei     | Twenty-six     | VEHN-tee-SEH-ee   |  
+| 27   | Ventisette   | Twenty-seven   | VEHN-tee-SEHT-teh |  
+| 28   | Ventotto     | Twenty-eight   | VEHN-TOHT-toh     |  
+| 29   | Ventinove    | Twenty-nine    | VEHN-tee-NOH-veh  |  
 
 ---
 
-### How to Construct Numbers  
+## Tens and Multiples  
 
-Italian numbers follow a simple pattern after 20:  
-
-1. **Tens + Units**: Just combine the tens with the units.  
-   - Example: 23 = **ventitre** (*venti* + *tre*).  
-2. **Drop the Final Vowel Before Uno or Otto**: When adding *uno* (1) or *otto* (8), drop the final vowel of the tens.  
-   - Example: 21 = **ventuno**, 28 = **ventotto**.  
-3. **Watch for Duplicates**: Numbers like 88 (*ottantotto*) are tricky but fun to say!
-
----
-
-## Dialogue with Viktor and Geoff  
-
-**Scenario**: Viktor and Geoff are calculating how many items Geoff needs for his dinner party.  
-
-- **Geoff**: Viktor, devo comprare venticinque panini. *(Viktor, I need to buy 25 sandwiches.)*  
-- **Viktor**: Venticinque? Per quante persone? *(25? For how many people?)*  
-- **Geoff**: Trentadue persone, ma voglio panini extra. *(32 people, but I want extra sandwiches.)*  
-- **Viktor**: E quanti bicchieri? *(And how many glasses?)*  
-- **Geoff**: Novanta! *(Ninety!)*  
-- **Viktor**: Novanta bicchieri? Sei sicuro? *(90 glasses? Are you sure?)*  
-- **Geoff**: Beh, potrebbe servire un brindisi in grande stile! *(Well, we might need a grand toast!)*  
+| Tens       | Italian      | English        | Pronunciation     |  
+|------------|--------------|----------------|-------------------|  
+| 30         | Trenta       | Thirty         | TREHN-tah         |  
+| 40         | Quaranta     | Forty          | KWAHR-ahn-tah     |  
+| 50         | Cinquanta    | Fifty          | CHEEN-kwahn-tah   |  
+| 60         | Sessanta     | Sixty          | SEHS-sahn-tah     |  
+| 70         | Settanta     | Seventy        | SEHT-tahn-tah     |  
+| 80         | Ottanta      | Eighty         | OHT-tahn-tah      |  
+| 90         | Novanta      | Ninety         | NOH-vahn-tah      |  
+| 100        | Cento        | One Hundred    | CHEN-toh          |  
 
 ---
 
-## Tips from Viktor  
+## How It Works  
 
-1. **Practice in Real Life**: Count items you buy at the store or steps you take to Viktor’s house.  
-2. **Focus on Problem Numbers**: Numbers like *ventotto* (28) or *ottantotto* (88) can be tricky—repeat them until they feel natural.  
-3. **Don’t Panic**: Italians appreciate effort, so even if you mess up *quarantasette* (47), just laugh it off and try again. Viktor does it all the time!  
+1. **Combining Numbers**: Italian numbers 21–99 are formed by combining the tens with the units.  
+   - *21 = venti + uno → ventuno*  
+   - *28 = venti + otto → ventotto* (Note: The “i” in *venti* disappears before vowels.)  
+
+2. **Key Patterns**: Once you know the tens, you simply add the units!  
 
 ---
 
-## Fun Fact  
+## Key Phrases  
 
-Italians use numbers all the time in casual conversations, from discussing the weather (*fa trenta gradi oggi!*, It’s 30 degrees today!) to estimating the queue length at the post office (*Ci sono venti persone davanti!*, There are 20 people ahead!). Geoff thinks this is why Italians are so good at math. Viktor isn’t convinced.
+Here are some practical ways to use numbers beyond 20:  
+
+1. **Quanto costa questo?** *(How much does this cost?)*  
+   - Response: *Costa trentacinque euro.* *(It costs 35 euros.)*  
+
+2. **Quanti ne vuoi?** *(How many do you want?)*  
+   - Response: *Ne voglio cinquanta.* *(I want 50.)*  
+
+3. **Quanti anni ha tua zia?** *(How old is your aunt?)*  
+   - Response: *Ha sessantacinque anni.* *(She’s 65 years old.)*  
+
+---
+
+## Example Dialogue  
+
+**Scenario**: Geoff is at a market buying fruits. Viktor is (unsurprisingly) the vendor.  
+
+- **Geoff**: *Buongiorno, quanto costano queste mele?* *(Good morning, how much do these apples cost?)*  
+- **Viktor**: *Costano due euro al chilo. Quanti ne vuole?* *(They cost two euros per kilo. How many do you want?)*  
+- **Geoff**: *Ne prendo cinque chili. Quanto pago?* *(I’ll take 5 kilos. How much do I pay?)*  
+- **Viktor**: *Dieci euro in totale. Grazie mille!* *(Ten euros total. Thank you very much!)*  
 
 ---
 
 ## Practice Time  
 
-Try saying these numbers out loud:  
+Use the numbers you’ve learned in these scenarios:  
 
-1. 22 – **ventidue**  
-2. 37 – **trentasette**  
-3. 49 – **quarantanove**  
-4. 68 – **sessantotto**  
-5. 99 – **novantanove**  
+1. You’re buying 32 oranges. Tell the vendor how many you want.  
+   - *Ne voglio trentadue.*  
+
+2. Ask the price of 50 euros for a pair of shoes.  
+   - *Quanto costano queste scarpe?*  
+
+3. Respond when someone asks how old your cousin is (he’s 28).  
+   - *Ha ventotto anni.*  
 
 ---
 
-## Next Steps  
+## Quick Tips  
 
-Now that you’ve mastered numbers up to 100, put your skills to the test in **Exercise 6.2**:  
-- [Exercise 6.2: Counting to 100 Practice](../exercise6.2/)  
+1. **Practice Counting Aloud**: Say the numbers repeatedly to get comfortable.  
+2. **Remember the Patterns**: Tens + Units is your formula.  
+3. **Have Fun**: Use numbers in everyday situations like ordering food or setting timers.  
 
-✨ **Keep counting, keep practicing, and keep making Viktor proud! Buona fortuna!** 🎉
+---
+
+## Ready for More?  
+
+Head over to [Exercise 6.2: Double Digits Practice](../exercise6.2/) and solidify your knowledge!  
+
+✨ **Bravo! You’re halfway to mastering Italian numbers. Buona fortuna!** 🌟  

@@ -1,105 +1,124 @@
 ---
 title: "Exercise 6.3: Dates and Times Practice"
-description: "Learn to use Italian numbers in dates, times, and real-world scenarios with Viktor and Geoff."
+description: "Practice using Italian dates, days of the week, and telling time with fun scenarios."
 weight: 6
 ---
 
-# Exercise 6.3: Dates and Times Practice – Tick-Tock Italiano ⏰  
+# Exercise 6.3: Dates and Times Practice 🗓️⏰  
 
-Time to turn numbers into practical tools for daily life! In this exercise, you’ll practice Italian dates, times, and schedules with Geoff and Viktor as they navigate markets, appointments, and coffee breaks. Let’s make sure Geoff shows up on time (and doesn’t confuse *dieci* with *dodici* again)!
-
----
-
-### 1. Completa le Frasi – Scrivi l’Ora o la Data  
-
-Scrivi l’ora o la data corretta in italiano:  
-
-1. Viktor dice: *La riunione inizia alle ___ del mattino.* *(9:30 AM)*  
-2. Geoff guarda il calendario e nota: *Oggi è il ___ ottobre.* *(15th)*  
-3. Geoff chiede: *A che ora chiude il mercato?* Viktor risponde: *Chiude alle ___ di sera.* *(7:00 PM)*  
-
-{{% details title="Risposte" open=false %}}
-### Risposte:  
-1. Nove e mezza *(9:30)*  
-2. Quindici ottobre *(15th October)*  
-3. Diciannove *(7:00 PM)*  
-{{% /details %}}
+Let’s put your knowledge of Italian dates and times to the test! In this exercise, you’ll join Geoff and Viktor as they navigate the chaos of planning trips, coffee dates, and museum visits. Let’s see how well you can handle the clock and calendar!
 
 ---
 
-### 2. Associa la Situazione all’Ora o alla Data  
+### 1. Fill in the Blanks – Complete the Date  
 
-Abbina l’ora o la data alla situazione corretta.  
+Write the correct Italian date based on the prompts.  
 
-1. **10:00 AM**  
-2. **1° gennaio** *(1st January)*  
-3. **6:45 PM**  
-
-**Situazioni**:  
-A) Viktor festeggia il Capodanno con un brindisi.  
-B) Geoff arriva al mercato in orario perfetto per l’apertura.  
-C) Viktor prepara l’ultima cassa di verdure prima di chiudere.  
-
-{{% details title="Risposte" open=false %}}
-### Risposte:  
-1. **B) 10:00 AM**  
-2. **A) 1° gennaio**  
-3. **C) 6:45 PM**  
-{{% /details %}}
+1. Today is December 25, 2024. Write the date in Italian: **Il _____ dicembre 2024**.  
+2. Tomorrow is March 1, 2024. Write the date in Italian: **Il _____ marzo 2024**.  
+3. Yesterday was August 15, 2024. Write the date in Italian: **Il _____ agosto 2024**.  
 
 ---
 
-### 3. Scelta Multipla – Scegli la Risposta Corretta  
+### 2. Translate the Time  
 
-1. Viktor dice: *Domani è il diciassette ottobre. Qual è la data di oggi?*  
-   - **A)** Sedici ottobre *(16th October)*  
-   - **B)** Quindici ottobre *(15th October)*  
-   - **C)** Diciotto ottobre *(18th October)*  
+Translate the following times into Italian.  
 
-2. Geoff chiede: *A che ora devo arrivare per il caffè delle tre con Viktor?* Viktor risponde:  
-   - **A)** Alle due. *(At 2:00.)*  
-   - **B)** Alle tre. *(At 3:00.)*  
-   - **C)** Alle quattro. *(At 4:00.)*  
-
-3. Geoff vede che il mercato chiude alle otto di sera. Arriva alle 7:50 PM. Viktor gli dice:  
-   - **A)** Sei in anticipo! *(You’re early!)*  
-   - **B)** Sei in orario! *(You’re on time!)*  
-   - **C)** Sei in ritardo! *(You’re late!)*  
-
-{{% details title="Risposte" open=false %}}
-### Risposte:  
-1. **A) Sedici ottobre**  
-   - Se domani è il 17, oggi è il 16!  
-2. **B) Alle tre.**  
-   - Viktor ha detto esattamente quando prendere il caffè.  
-3. **B) Sei in orario!**  
-   - Arrivare alle 7:50 quando il mercato chiude alle 8:00 è perfetto.  
-{{% /details %}}
+1. 7:30 AM  
+2. 12:00 PM  
+3. 3:15 PM  
+4. 8:45 PM  
+5. 11:59 PM  
 
 ---
 
-### 4. Risposte Aperte – Scrivi in Italiano  
+### 3. Match the Day of the Week  
 
-Rispondi alle seguenti situazioni usando numeri e parole:  
+Match the Italian day to its English equivalent.  
 
-1. Geoff vuole sapere la data di oggi: *Scrivi la risposta in italiano.* *(Today’s date: October 20th)*  
-   - **Risposta**: ________________________________________  
+1. **Martedì**  
+2. **Giovedì**  
+3. **Sabato**  
+4. **Domenica**  
+5. **Mercoledì**  
 
-2. Viktor chiede a Geoff: *A che ora inizia la tua lezione?* Geoff risponde con l’ora esatta. *(Lesson starts at 5:15 PM)*  
-   - **Risposta**: ________________________________________  
-
-3. Viktor dice: *Domani è venerdì 21 ottobre. Qual è la data di ieri?* *(What’s yesterday’s date?)*  
-   - **Risposta**: ________________________________________  
-
-{{% details title="Risposte" open=false %}}
-### Risposte Suggerite:  
-1. Venti ottobre *(October 20th)*  
-2. Diciassette e quindici *(5:15 PM)*  
-3. Venti ottobre *(October 20th)*  
-{{% /details %}}
+A) Wednesday  
+B) Saturday  
+C) Tuesday  
+D) Sunday  
+E) Thursday  
 
 ---
 
-✨ **Bravo!** Hai completato l’Esercizio 6.3 e sei pronto a gestire orari e appuntamenti in italiano. Continua a esercitarti con altre lezioni e diventa un esperto del tempo e delle date!  
+### 4. Multiple Choice – Choose the Correct Response  
 
-🎉 **Ottimo lavoro! Geoff sta diventando sempre più puntuale, e Viktor è soddisfatto.**
+1. Geoff asks Viktor: *A che ora ci vediamo domani?* *(What time are we meeting tomorrow?)*  
+   Viktor replies:  
+   - **A)** Alle otto di sera. *(At 8 PM.)*  
+   - **B)** A mezzogiorno. *(At noon.)*  
+   - **C)** Alle tre di notte. *(At 3 AM.)*  
+
+2. Viktor asks Geoff: *Che giorno è oggi?* *(What day is it today?)*  
+   Geoff responds:  
+   - **A)** È domenica. *(It’s Sunday.)*  
+   - **B)** È venerdì. *(It’s Friday.)*  
+   - **C)** È lunedì. *(It’s Monday.)*  
+
+3. Geoff overhears someone say: *Il museo apre alle dieci e mezza.* *(The museum opens at 10:30.)* What does this mean?  
+   - **A)** The museum opens at 9:30.  
+   - **B)** The museum opens at 10:30.  
+   - **C)** The museum opens at 11:30.  
+
+---
+
+### 5. Create Your Own Dialogue  
+
+Write a short dialogue where you ask someone the time and make plans. Here’s an example:
+
+**Example Dialogue**:  
+- **Geoff**: *Che ora è?* *(What time is it?)*  
+- **Viktor**: *Sono le undici.* *(It’s 11 o’clock.)*  
+- **Geoff**: *Perfetto. Ci vediamo alle dodici per un caffè.* *(Perfect. Let’s meet at 12 for a coffee.)*  
+
+Now it’s your turn!  
+
+---
+
+### Answers  
+
+{{% details title="Answers" open=false %}}  
+
+#### 1. Fill in the Blanks  
+1. **Il 25 dicembre 2024**  
+2. **Il 1 marzo 2024**  
+3. **Il 15 agosto 2024**  
+
+#### 2. Translate the Time  
+1. **Le sette e mezza di mattina** *(7:30 AM)*  
+2. **Mezzogiorno** *(12:00 PM)*  
+3. **Le tre e un quarto di pomeriggio** *(3:15 PM)*  
+4. **Le otto e quarantacinque di sera** *(8:45 PM)*  
+5. **Le undici e cinquantanove di notte** *(11:59 PM)*  
+
+#### 3. Match the Day of the Week  
+1. **C)** Tuesday  
+2. **E)** Thursday  
+3. **B)** Saturday  
+4. **D)** Sunday  
+5. **A)** Wednesday  
+
+#### 4. Multiple Choice  
+1. **A)** Alle otto di sera *(At 8 PM.)*  
+2. **B)** È venerdì *(It’s Friday.)*  
+3. **B)** The museum opens at 10:30.  
+
+#### 5. Create Your Own Dialogue – Sample  
+- **Geoff**: *Che ora è?* *(What time is it?)*  
+- **Viktor**: *Sono le dieci e un quarto.* *(It’s 10:15.)*  
+- **Geoff**: *Perfetto. Andiamo al mercato alle undici.* *(Perfect. Let’s go to the market at 11.)*  
+
+{{% /details %}}  
+
+---
+
+✨ **Bravo! You’re getting the hang of Italian dates and times. Keep practicing!** 🌟  

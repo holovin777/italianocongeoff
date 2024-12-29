@@ -1,106 +1,124 @@
 ---
-title: "Exercise 6.2: Counting to 100 Practice"
-description: "Practice your Italian numbers from 21 to 100 with real-life market scenarios featuring Viktor and Geoff."
+title: "Exercise 6.2: Double Digits Practice"
+description: "Practice Italian numbers from 21 to 100 with fun scenarios and challenges."
 weight: 4
 ---
 
-# Exercise 6.2: Counting to 100 Practice – Level Up Your Numbers 🔢  
+# Exercise 6.2: Double Digits Practice 🔢  
 
-Now that you’ve mastered the basics, it’s time to tackle bigger numbers! Geoff is back at the market, and Viktor is ready to challenge him with numbers up to 100. Let’s count together—without accidentally ordering 80 kilos of melons instead of 18.
-
----
-
-### 1. Completa le Frasi – Scrivi il Numero  
-
-Scrivi il numero corretto in italiano:  
-
-1. Geoff compra ___ chili di zucchine da Viktor per il pranzo. *(27)*  
-2. Viktor vende ___ arance per una spremuta gigante. *(45)*  
-3. Geoff ordina ___ pomodori per fare la salsa. *(32)*  
-
-{{% details title="Risposte" open=false %}}
-### Risposte:  
-1. Ventisette  
-2. Quarantacinque  
-3. Trentadue  
-{{% /details %}}
+It’s time to put your Italian counting skills to the test! In this exercise, Geoff is trying to navigate double digits with Viktor’s help (and occasional laughter). Let’s see how well you can handle these numbers.
 
 ---
 
-### 2. Indovina il Numero – Che Numero È?  
+### 1. Fill in the Blanks – Complete the Numbers  
 
-Viktor descrive alcuni numeri al mercato. Indovina quale numero sta dicendo.  
+Complete the following number sequences in Italian.  
 
-1. *Questo numero viene dopo trenta, ma prima di quaranta. È doppio di diciotto.*  
-   - **Risposta**: _________________________ *(Hint: 36)*  
-
-2. *Questo numero è più grande di cinquanta ma più piccolo di sessanta. È anche il numero di minuti in un’ora.*  
-   - **Risposta**: _________________________ *(Hint: 60)*  
-
-3. *Un cliente compra un numero pari tra ottanta e cento. È il numero che si celebra quando raggiungi un secolo meno due.*  
-   - **Risposta**: _________________________ *(Hint: 98)*  
-
-{{% details title="Risposte" open=false %}}
-### Risposte:  
-1. Trentasei *(36)*  
-2. Sessanta *(60)*  
-3. Novantotto *(98)*  
-{{% /details %}}
+1. Ventuno, Ventidue, Ventitre, _____, Venticinque  
+2. _____, Quarantadue, Quarantatre, Quarantaquattro, _____  
+3. Cinquanta, _____, Cinquantadue, _____, Cinquantaquattro  
+4. _____, Ottantacinque, _____, Ottantasette, Ottantotto  
 
 ---
 
-### 3. Scelta Multipla – Scegli la Risposta Corretta  
+### 2. Translate the Numbers  
 
-1. Geoff chiede: *Quanto costa un chilo di mele?* Viktor risponde: *Tre euro al chilo. E tu ne vuoi 30 chili?*  
-   - **A)** Trenta *(30)*  
-   - **B)** Ventinove *(29)*  
-   - **C)** Cinquantacinque *(55)*  
+Write the Italian words for these English numbers:  
 
-2. Viktor ha contato: *Ho cento zucchine. Ne vendute sessantacinque oggi. Quante ne ho ancora in magazzino?*  
-   - **A)** Ottanta *(80)*  
-   - **B)** Sessantacinque *(65)*  
-   - **C)** Quindici *(15)*  
-
-3. Geoff guarda il listino prezzi e vede che i limoni costano ottantacinque centesimi l’uno. Vuole sapere: *Se compro venti limoni, quanto spendo?*  
-   - **A)** Diciassette euro *(17 euros)*  
-   - **B)** Sedici euro *(16 euros)*  
-   - **C)** Quindici euro *(15 euros)*  
-
-{{% details title="Risposte" open=false %}}
-### Risposte:  
-1. **A) Trenta**  
-   - Viktor suggerisce 30 chili, e Geoff è d’accordo!  
-2. **C) Quindici**  
-   - Dopo aver venduto sessantacinque zucchine, Viktor ha 15 rimaste.  
-3. **A) Diciassette euro**  
-   - 20 limoni a 85 centesimi ciascuno fanno 17 euro.  
-{{% /details %}}
+1. 33  
+2. 48  
+3. 72  
+4. 99  
+5. 100  
 
 ---
 
-### 4. Risposte Aperte – Pratica i Tuoi Numeri  
+### 3. Match the Number – Italian to English  
 
-Rispondi alle seguenti situazioni con i numeri corretti in italiano:  
+Match the Italian number to its English equivalent. Write the letter next to the number.
 
-1. Geoff compra 44 arance da Viktor. Scrivi il numero:  
-   - **Risposta**: ________________________________________  
+1. **Sessantacinque**  
+2. **Ventisette**  
+3. **Novantadue**  
+4. **Trentasei**  
+5. **Ottantaquattro**  
 
-2. Viktor vende 72 pere in una mattinata. Scrivi il numero:  
-   - **Risposta**: ________________________________________  
-
-3. Geoff ordina 99 pomodori per una festa. Scrivi il numero:  
-   - **Risposta**: ________________________________________  
-
-{{% details title="Risposte" open=false %}}
-### Risposte Suggerite:  
-1. Quarantaquattro *(44)*  
-2. Settantadue *(72)*  
-3. Novantanove *(99)*  
-{{% /details %}}
+A) 92  
+B) 65  
+C) 84  
+D) 27  
+E) 36  
 
 ---
 
-✨ **Bravo!** Hai completato l’Esercizio 6.2 con successo. Viktor ti ha già nominato “campione dei numeri” al mercato. Continua a esercitarti con **Lezione 6.3**:  
-- [Lesson 6.3: Dates and Times – Making Numbers Practical](../lesson6.3/)  
+### 4. Multiple Choice – Choose the Correct Response  
 
-🎉 **Ottimo lavoro! Geoff sta imparando, e Viktor si diverte sempre di più!**
+1. Geoff asks Viktor: *Quante persone ci sono alla festa?* *(How many people are at the party?)*  
+   Viktor replies:  
+   - **A)** Trenta  
+   - **B)** Sessantadue  
+   - **C)** Quarantacinque  
+
+2. Viktor asks Geoff: *Quanti libri hai comprato oggi?* *(How many books did you buy today?)*  
+   Geoff responds:  
+   - **A)** Ventidue  
+   - **B)** Ottanta  
+   - **C)** Cinquantanove  
+
+3. You overhear someone say: *Ho settantaquattro euro nel portafoglio.* *(I have 74 euros in my wallet.)* What does this mean?  
+   - **A)** I have 64 euros in my wallet.  
+   - **B)** I have 74 euros in my wallet.  
+   - **C)** I have 84 euros in my wallet.  
+
+---
+
+### 5. Create Your Own Dialogue  
+
+Write a short dialogue using Italian double-digit numbers. Here’s an example:
+
+**Example Dialogue**:  
+- **Geoff**: *Quante pizze hai venduto oggi, Viktor?* *(How many pizzas did you sell today, Viktor?)*  
+- **Viktor**: *Ne ho vendute sessantacinque. È stata una giornata intensa!* *(I sold 65. It was a busy day!)*  
+
+Now it’s your turn!  
+
+---
+
+### Answers  
+
+{{% details title="Answers" open=false %}}  
+
+#### 1. Fill in the Blanks  
+1. Ventiquattro  
+2. Quarantuno, Quarantaquattro  
+3. Cinquantuno, Cinquantatre  
+4. Ottantaquattro, Ottantasei  
+
+#### 2. Translate the Numbers  
+1. Trentatre  
+2. Quarantotto  
+3. Settantadue  
+4. Novantanove  
+5. Cento  
+
+#### 3. Match the Number  
+1. **B)** 65  
+2. **D)** 27  
+3. **A)** 92  
+4. **E)** 36  
+5. **C)** 84  
+
+#### 4. Multiple Choice  
+1. **C)** Quarantacinque  
+2. **A)** Ventidue  
+3. **B)** I have 74 euros in my wallet.  
+
+#### 5. Create Your Own Dialogue – Sample  
+- **Geoff**: *Quante arance hai comprato oggi, Viktor?* *(How many oranges did you buy today, Viktor?)*  
+- **Viktor**: *Ne ho comprate ottantatre. Speriamo che non marciscano!* *(I bought 83. Let’s hope they don’t spoil!)*  
+
+{{% /details %}}  
+
+---
+
+✨ **Great job! You’re getting closer to mastering Italian numbers. Buona fortuna!** 🌟  
