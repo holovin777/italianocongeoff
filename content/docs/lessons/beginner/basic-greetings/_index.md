@@ -6,6 +6,8 @@ weight: 1
 
 # 1. Basic Greetings – Saying Hello Like a Local 👋🇮🇹  
 
+![Basic Greetings](/images/beginner-level/basic-greetings/b2587f28-0d43-4ff6-985a-1f66758db6fc.webp/)
+
 Welcome to your first step in mastering Italian! Greetings are more than just words—they’re the key to making connections, earning smiles, and avoiding awkward silences (especially when meeting someone’s *nonna* for the first time).  
 
 ---
