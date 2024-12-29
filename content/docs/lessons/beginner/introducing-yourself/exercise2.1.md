@@ -1,128 +1,116 @@
 ---
 title: "Exercise 2.1: Introducing Yourself Practice"
-weight: 3
-description: "Practice introducing yourself and asking others' names in Italian with this exercise for Lesson 2.1"
+description: "Practice introducing yourself and asking others' names in Italian with new, realistic exercises."
+weight: 2
 ---
 
-# Exercise 2.1: Introducing Yourself Practice
+# Exercise 2.1: Introducing Yourself Practice – Say Hello, Make Friends 👋  
 
-Ready to practice introducing yourself? This exercise will help you reinforce the phrases you learned in Lesson 2. Remember, even if you make a mistake, Italians love enthusiasm, so keep trying!
-
----
-
-### 1. Fill in the Blanks – Complete the Conversation  
-
-Use the correct Italian phrases to complete each sentence.
-
-1. **You**: Ciao! **_____** (My name is) Giovanni.  
-2. **You**: **_____** (What’s your name?)  
-3. **New Friend**: Mi chiamo Sofia. **_____** (Nice to meet you!), Giovanni!  
-4. **You**: **_____** (The pleasure is mine!), Sofia! **_____** (I’m from) Firenze.  
-
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **Mi chiamo**  
-2. **Come ti chiami?**  
-3. **Piacere!**  
-4. **Il piacere è mio! Sono di**  
-{{% /details %}}
+Let’s put those introduction phrases into practice with fresh scenarios that make sense and help you feel confident in any setting.
 
 ---
 
-### 2. Multiple Choice – Choose the Right Response  
+### 1. Fill in the Blanks – Introduce Yourself  
 
-Pick the correct response for each situation.
+Complete the dialogue by filling in the blanks with the correct Italian phrases.
 
-1. You’re meeting someone new in a professional setting. Which greeting would you use?  
-   - A) Come ti chiami?  
-   - B) Come si chiama?  
+**Scenario**: Geoff is meeting Viktor at a café for the first time.
 
-2. You want to tell someone where you’re from. Which phrase should you use?  
-   - A) Sono di [City]  
-   - B) Mi chiamo [City]  
+1. **Geoff**: Ciao! **_____** (My name is) Geoff. **_____** (What’s your name?)  
+   **Viktor**: Ciao! Mi chiamo Viktor. **_____** (Nice to meet you!), Geoff!  
 
-3. Someone introduces themselves and says, “Mi chiamo Luca.” How do you respond?  
-   - A) Buongiorno!  
-   - B) Piacere!  
-
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **B) Come si chiama?**  
-2. **A) Sono di [City]**  
-3. **B) Piacere!**  
-{{% /details %}}
+2. **Viktor**: Sono di **_____** (I’m from) Vigevano. E tu?  
+   **Geoff**: Io sono di **_____** (I’m from) Padova.  
 
 ---
 
-### 3. Match the Phrases – Who Says What?  
+### 2. Multiple Choice – Choose the Right Greeting  
 
-Match each Italian phrase to its correct meaning. Write the letter next to the correct answer.
+Choose the best Italian phrase for each situation.
 
-1. **Mi chiamo Carlo**  
-2. **Come ti chiami?**  
-3. **Sono di Milano**  
-4. **Piacere!**  
-5. **Il piacere è mio!**  
+1. Geoff is meeting Signora Rossi in a formal setting. What should he say?  
+   - **A)** Come ti chiami?  
+   - **B)** Come si chiama?  
 
-A) What’s your name? (informal)  
-B) Nice to meet you!  
-C) I’m from Milan  
-D) My name is Carlo  
-E) The pleasure is mine  
+2. Viktor introduces himself casually. What phrase would he use?  
+   - **A)** Mi chiamo Viktor.  
+   - **B)** Sono di Vigevano.  
 
-{{% details title="Answers" open=false %}}
-### Answers:
-1. **D) My name is Carlo**  
-2. **A) What’s your name? (informal)**  
-3. **C) I’m from Milan**  
-4. **B) Nice to meet you!**  
-5. **E) The pleasure is mine**  
-{{% /details %}}
+3. Geoff wants to respond politely to Signora Rossi. What phrase should he use?  
+   - **A)** Piacere di conoscerla!  
+   - **B)** Buongiorno!  
 
 ---
 
-### 4. Situational Practice – Choose the Right Phrase  
+### 3. Dialogue Practice – Real-Life Introductions  
 
-Imagine you’re in each of these situations. Write down what you would say using the correct Italian phrase.
+Imagine yourself in these situations and write what you would say.
 
-1. **Situation**: You’re at a party, and you want to introduce yourself to a new friend.  
-   - **Response**: ___________________________  
+1. **Scenario**: Geoff and Viktor are meeting for the first time. Write a short dialogue.  
+   - **Your Response**: ___________________________  
 
-2. **Situation**: You’re meeting someone older or in a formal setting and want to ask their name politely.  
-   - **Response**: ___________________________  
-
-3. **Situation**: Someone tells you, “Sono di Roma.” How do you respond to show you’re happy to meet them?  
-   - **Response**: ___________________________  
-
-{{% details title="Suggested Answers" open=false %}}
-### Suggested Answers:
-1. **Ciao! Mi chiamo [Your Name].**  
-2. **Come si chiama?**  
-3. **Piacere!**  
-{{% /details %}}
+2. **Scenario**: Geoff meets Signora Rossi at a neighborhood event. Write their formal introduction.  
+   - **Your Response**: ___________________________  
 
 ---
 
-### 5. Creative Dialogue – Put It All Together  
+### 4. Match the Phrase – Greetings in Context  
 
-Imagine meeting a new friend in Italy. Write a short dialogue using at least two phrases from this lesson.  
+Match the Italian phrase to its correct meaning or use case.
 
-**Example**:  
-- **You**: Ciao! Mi chiamo Andrea. Come ti chiami?  
-- **New Friend**: Ciao Andrea! Mi chiamo Sara.  
-- **You**: Piacere, Sara! Sei di qui?  
-- **New Friend**: No, sono di Napoli. E tu?  
-- **You**: Sono di Roma. Il piacere è mio!  
+1. **Ciao, mi chiamo Geoff.**  
+2. **E Lei, come si chiama?**  
+3. **Piacere di conoscerti!**  
+4. **Sono di Padova.**  
+5. **Come ti chiami?**  
 
-{{% details title="Example Dialogue" open=false %}}
-### Example Dialogue:
-- **You**: Ciao! Mi chiamo Andrea. Come ti chiami?  
-- **New Friend**: Ciao Andrea! Mi chiamo Sara.  
-- **You**: Piacere, Sara! Sei di qui?  
-- **New Friend**: No, sono di Napoli. E tu?  
-- **You**: Sono di Roma. Il piacere è mio!  
-{{% /details %}}
+A) Casual greeting and name introduction  
+B) Formal way to ask someone’s name  
+C) Polite response to an introduction (informal)  
+D) I’m from Padova  
+E) Informal way to ask someone’s name  
 
 ---
 
-These exercises will help you get comfortable with introducing yourself in Italian. Keep practicing, and soon you’ll be a pro at making a great first impression! Buona fortuna! 🎉
+### Bonus Challenge – Fun with Viktor  
+
+Geoff discovers that Viktor is also a handyman, web developer, and an all-around multitasker. Write how Geoff might introduce himself and ask Viktor about his roles. Use at least three phrases from this lesson.  
+
+---
+
+### Answers  
+
+{{% details title="Answers" open=false %}}  
+
+#### 1. Fill in the Blanks  
+1. *Mi chiamo Geoff. Come ti chiami? Piacere!*  
+2. *Vigevano. Padova.*  
+
+#### 2. Multiple Choice  
+1. **B)** Come si chiama?  
+2. **A)** Mi chiamo Viktor.  
+3. **A)** Piacere di conoscerla!  
+
+#### 3. Dialogue Practice – Sample Responses  
+1. Geoff: *Ciao, mi chiamo Geoff. E tu?*  
+   Viktor: *Ciao, mi chiamo Viktor. Piacere di conoscerti!*  
+
+2. Geoff: *Buongiorno, mi chiamo Geoff. E Lei, come si chiama?*  
+   Signora Rossi: *Buongiorno, mi chiamo Signora Rossi. Piacere di conoscerla!*  
+
+#### 4. Match the Phrase  
+1. **A)** Casual greeting and name introduction  
+2. **B)** Formal way to ask someone’s name  
+3. **C)** Polite response to an introduction (informal)  
+4. **D)** I’m from Padova  
+5. **E)** Informal way to ask someone’s name  
+
+#### Bonus Challenge – Sample Response  
+Geoff: *Ciao, mi chiamo Geoff. E tu, come ti chiami?*  
+Viktor: *Mi chiamo Viktor. Sono di Vigevano. Faccio un po’ di tutto: manutentore, sviluppatore web e molto altro!*  
+
+{{% /details %}}  
+
+---
+
+✨ **Great job! Keep practicing, and soon introductions will be second nature. Buona fortuna!** 🌟  

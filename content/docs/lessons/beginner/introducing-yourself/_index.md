@@ -1,31 +1,50 @@
 ---
 title: "2. Introducing Yourself"
+description: "Master the art of Italian introductions and learn to make a stellar first impression."
 weight: 2
-description: "Learn how to introduce yourself in Italian with confidence. From sharing your name to saying where you're from, make a great first impression!"
 ---
 
-# Introducing Yourself – Make a Great First Impression! 👋
+# 2. Introducing Yourself – Making Connections in Italian 🇮🇹  
 
-![Introducing Yourself](/images/beginner-level/introducing-yourself/introducing-yourself.webp/)
+![Introducing Yourself](/images/beginner-level/introducing-yourself/introducing-yourself.webp)
 
-Benvenuto! Now that you know the basics of greeting people, it’s time to introduce yourself. Italians love a good conversation, and knowing how to introduce yourself is a fantastic way to connect with others. In this section, you’ll learn the essential phrases to say your name, ask for someone else’s, and even share where you’re from.
-
-### What You'll Learn
-
-This section covers everything you need to make a friendly introduction in Italian. Here’s what’s inside:
-
-- **Lesson 2: Introducing Yourself** – Learn how to say your name, ask someone’s name, and talk about where you’re from. You’ll be able to confidently start conversations in no time!  
-  [Go to Lesson 2.1](./lesson2.1/)
-
-- **Exercise 2** – Practice what you’ve learned with fill-in-the-blank, multiple-choice, and situational exercises designed to reinforce the phrases from Lesson 2.  
-  [Go to Exercise 2.1](./exercise2.1/)
-
-### Why This Matters
-
-Introducing yourself is one of the first steps in any language journey. Imagine meeting new friends, introducing yourself to locals, or simply chatting with an Italian barista – you’ll be prepared to leave a great impression, Italian-style! 🇮🇹
-
-**Tip**: Try these phrases out loud and have fun with them. Italians appreciate enthusiasm, so don’t be shy!
+When it comes to meeting new people, Italians excel at making introductions warm, friendly, and full of charm. In this lesson, we’ll teach Geoff how to confidently introduce himself in Italian (without accidentally claiming he's a pizza chef) and Viktor how to respond like a pro.  
 
 ---
 
-Ready to dive in? Start with [Lesson 2.1](./lesson2.1/) and then head over to [Exercise 2.1](./exercise2.1/) to test your new skills. Buona fortuna! (Good luck!)
+## What You’ll Learn  
+
+In this lesson, you’ll master:  
+- Essential phrases for introducing yourself in Italian.  
+- How to ask for someone’s name politely.  
+- Key vocabulary for sharing where you’re from and what you do.  
+
+---
+
+## Why It’s Important  
+
+Imagine this scenario:  
+- **Geoff**: *Ciao! Mi chiamo Geoff. Sono di Australia. E tu?* *(Hi! My name is Geoff. I’m from Australia. And you?)*  
+- **Viktor**: *Ciao, Geoff! Mi chiamo Viktor. Vivo in Italia da 10 anni.* *(Hi, Geoff! My name is Viktor. I’ve lived in Italy for 10 years.)*  
+- **Geoff**: *Piacere, Viktor!* *(Nice to meet you, Viktor!)*  
+
+Whether you’re meeting new friends, chatting with colleagues, or trying to impress Signora Rossi’s family, mastering introductions sets the tone for every interaction.  
+
+---
+
+## Viktor’s Tips  
+
+Viktor says:  
+> **“Start with a smile and keep it simple. If all else fails, say *Piacere!* (Nice to meet you!) and let the conversation flow.”**  
+
+Pro Tip: Italians love it when you ask about them! Practice saying *E tu?* (And you?) with enthusiasm.  
+
+---
+
+## What’s Next?  
+
+Dive into the lessons and exercises to become a master of introductions:  
+- [Lesson 2.1: How to Say Your Name](./lesson2.1/)  
+- [Lesson 2.2: Talking About Your Hobbies and Interests](./lesson2.2/)  
+
+✨ **Ready to meet someone new? Let’s get started!** 🎉  
