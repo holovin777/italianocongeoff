@@ -10,7 +10,7 @@ Welcome to **Italiano con Geoff**! Here’s a full learning journey that covers 
 4. [**Asking for Directions**](../lessons/beginner/asking-for-directions/) – Learn to ask and understand directions.
 5. [**Shopping Essentials**](../lessons/beginner/shopping-essentials/) – How to ask prices, sizes, and common phrases for shopping.
 6. [**Numbers and Counting**](../lessons/beginner/numbers-and-counting/) – From 1 to 100, plus tips on dates and times.
-7. [**Days of the Week & Time**](../lessons/beginner/days-time/) – Talking about days, months, and telling time.
+7. [**Days of the Week & Time**](../lessons/beginner/days-and-time/) – Talking about days, months, and telling time.
 8. [**Basic Pronunciation**](../lessons/beginner/basic-pronunciation/) – Key tips for pronouncing Italian vowels and consonants.
 9. [**Talking About Family**](../lessons/beginner/talking-about-family/) – Introducing family members and talking about relationships.
 10. [**At the Restaurant**](../lessons/beginner/at-the-restaurant/) – Ordering food, handling the bill, and Italian dining etiquette.
