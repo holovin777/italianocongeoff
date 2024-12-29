@@ -1,99 +1,93 @@
 ---
 title: "Lesson 2.2: Talking About Your Hobbies and Interests"
-weight: 4
-description: "Learn how to share your hobbies, interests, and even your job in Italian!"
+description: "Learn to discuss hobbies, interests, and work in Italian with friends like Viktor and Geoff."
+weight: 3
 ---
 
-# Lesson 2.2: Talking About Your Hobbies and Interests 🎸🎨  
+# Lesson 2.2: Talking About Your Hobbies and Interests – What Do You Love to Do? 🎸🎨  
 
-Welcome back! In this lesson, we’ll dive into talking about hobbies, interests, and even jobs in Italian. Whether you’re into painting, skydiving, or just binge-watching your favorite shows, Italians will be delighted to hear about it (especially if you throw in a smile). Let’s get started!  
-
----
-
-## Mastering **Piacere**: The Magic Word  
-
-The Italian verb **piacere** is your best friend for expressing what you like. But be warned—it’s a little tricky because it works backwards! Instead of saying “I like pizza,” you’re literally saying, “Pizza is pleasing to me.” (Italians take their pizza very seriously.)  
-
-Here’s how to use **piacere**:  
-
-| **Italian**             | **English**                          | **Example**                               |
-|--------------------------|--------------------------------------|-------------------------------------------|
-| **Mi piace [activity]**  | I like [activity]                   | Mi piace leggere. (I like reading.)       |
-| **Mi piacciono [things]**| I like [things] (plural)            | Mi piacciono i film. (I like movies.)     |
-| **Ti piace [activity]?** | Do you like [activity]? (informal)  | Ti piace cucinare? (Do you like cooking?) |
-| **Ti piacciono [things]?**| Do you like [things]? (informal)    | Ti piacciono i libri? (Do you like books?)|
+Talking about hobbies and interests is a great way to connect with people in any language. In this lesson, you’ll learn how to share what you enjoy doing, ask about others’ interests, and even sneak in your job title—because who doesn’t like talking about themselves just a little?  
 
 ---
 
-## Vocabulary for Hobbies  
+## What You’ll Learn  
 
-Here are some common hobbies and interests to help you get started. Pick your favorites, or make up something fun to impress your new Italian friends!  
-
-| **Italian**             | **English**             |
-|--------------------------|-------------------------|
-| Leggere                 | Reading                |
-| Scrivere                | Writing                |
-| Ascoltare musica        | Listening to music     |
-| Viaggiare               | Traveling              |
-| Fare sport              | Playing sports         |
-| Guardare film           | Watching movies        |
-| Cucinare                | Cooking                |
-| Dipingere               | Painting               |
+By the end of this lesson, you’ll be able to:  
+- Talk about your hobbies and interests in Italian.  
+- Ask others what they like to do.  
+- Use key phrases to share your profession or favorite activities.  
 
 ---
 
-## Sharing Your Job  
+## Essential Phrases  
 
-When it’s time to talk about your work, Italians typically use the verb **fare** (to do) or **lavorare** (to work).  
+### Talking About Your Hobbies  
 
-- **Lavoro come [job].** (I work as a [job].)  
-  - Example: Lavoro come insegnante. (I work as a teacher.)  
+- **Mi piace [activity].** *(I like [activity].)*  
+- **Non mi piace [activity].** *(I don’t like [activity].)*  
+- **Amo [activity].** *(I love [activity].)*  
 
-- **Faccio il/la [job].** (I’m a [job].)  
-  - Example: Faccio la cuoca. (I’m a chef.)  
-
----
-
-## Example Conversations  
-
-Let’s see how this all comes together:  
-
-### Casual Chat with a Friend  
-- **You**: Mi piace guardare film e viaggiare. E a te?  
-- **Friend**: Mi piacciono i libri e cucinare.  
-
-### Introducing Your Job  
-- **You**: Lavoro come insegnante. E tu?  
-- **New Friend**: Io lavoro come cuoco.  
+**Examples with Viktor and Geoff**:  
+- **Geoff**: *Mi piace guardare film e cucinare.* *(I like watching movies and cooking.)*  
+- **Viktor**: *Amo viaggiare e ascoltare musica.* *(I love traveling and listening to music.)*  
 
 ---
 
-## Quick Practice  
+### Asking About Interests  
 
-Here are some practice sentences to try:  
+- **Cosa ti piace fare?** *(What do you like to do? [informal])*  
+- **Cosa Le piace fare?** *(What do you like to do? [formal])*  
 
-1. **Mi piace ______.** (Fill in your favorite activity.)  
-2. **Ti piace ______?** (Ask someone if they like an activity.)  
-3. **Lavoro come ______.** (Say your job title.)  
-
----
-
-## Common Mistakes to Avoid  
-
-1. **Using “piacere” Incorrectly**  
-   - Remember, singular activities use **piace**, and plural things use **piacciono.**  
-
-2. **Forgetting Gender for Jobs**  
-   - Some jobs have masculine and feminine forms:  
-     - Il cuoco (male chef), La cuoca (female chef)  
-
-3. **Mixing Formal and Informal Speech**  
-   - Use **ti piace** for friends and **le piace** for formal situations.  
+**Example Dialogue**:  
+- **Geoff**: *Cosa ti piace fare, Viktor?*  
+- **Viktor**: *Mi piace fare escursioni e leggere libri.* *(I like hiking and reading books.)*  
 
 ---
 
-## Takeaway  
+### Talking About Your Profession  
 
-Talking about your hobbies and job in Italian is a great way to connect with people. Practice a few sentences, mix in some personality, and you’ll be impressing Italians in no time.  
+- **Lavoro come [profession].** *(I work as [profession].)*  
+- **Sono [profession].** *(I’m a [profession].)*  
 
-When you’re ready, hop over to [Exercise 2.2](../exercise2.2/) to practice! Buona fortuna! 🎉
+**Examples**:  
+- **Geoff**: *Sono uno studente di italiano.* *(I’m a student of Italian.)*  
+- **Viktor**: *Lavoro come tecnico manutentore.* *(I work as a maintenance technician.)*  
+
+---
+
+## Cultural Notes  
+
+1. Italians love a good conversation. Asking about hobbies and interests is a friendly way to break the ice.  
+2. Don’t hesitate to share something unusual or funny—it’s a great conversation starter!  
+3. When talking about work, Italians may say *faccio* (I do) instead of *lavoro come*. For example: *Faccio l’ingegnere.* *(I’m an engineer.)*  
+
+---
+
+## Practice Time  
+
+Here are some scenarios to help you practice:  
+
+1. **Scenario**: Geoff asks Viktor what he likes to do for fun. How should he ask?  
+   - *Cosa ti piace fare?*  
+
+2. **Scenario**: Viktor loves hiking and wants to share this with Geoff. What should he say?  
+   - *Mi piace fare escursioni.*  
+
+3. **Scenario**: Geoff wants to tell Signora Rossi he’s a student of Italian. What phrase should he use?  
+   - *Sono uno studente di italiano.*  
+
+---
+
+## Quick Tips  
+
+- Use **Mi piace** liberally to talk about what you like.  
+- If you want to sound more passionate, try **Amo** instead of **Mi piace**.  
+- Practice using **Non mi piace** for things you don’t enjoy—it’s just as important!  
+
+---
+
+## What’s Next?  
+
+Test your skills with [Exercise 2.2: Talking About Your Hobbies and Interests](../exercise2.2/) and explore fun ways to talk about your favorite activities.  
+
+✨ **Keep practicing and have fun sharing your interests in Italian! Buona fortuna!** 🌟  

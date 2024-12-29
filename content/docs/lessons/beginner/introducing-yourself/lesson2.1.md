@@ -1,95 +1,74 @@
 ---
-title: "Lesson 2.1: Introducing Yourself"
-weight: 2
-description: "Learn how to introduce yourself and ask someone's name in Italian. Make a great first impression with these simple phrases!"
+title: "Lesson 2.1: How to Say Your Name"
+description: "Learn how to introduce yourself in Italian and ask others for their names."
+weight: 1
 ---
 
-# Lesson 2.1: Introducing Yourself – Making a Great First Impression
+# Lesson 2.1: How to Say Your Name – Introductions Made Easy 👋🇮🇹  
 
-Benvenuto! Now that you know how to greet people in Italian, let’s take the next step: introducing yourself! Italians are known for their warmth and friendliness, and knowing how to introduce yourself is essential for making connections. In this lesson, you’ll learn how to say your name, ask for someone else’s, and share a bit about where you’re from. Ready? Andiamo! (Let’s go!)
-
----
-
-### 1. Saying Your Name
-
-The simplest way to introduce yourself is to say:
-
-- **"Mi chiamo [Your Name]."** – This means, “My name is [Your Name].”
-  
-For example:
-- **"Mi chiamo Marco."** – My name is Marco.
-- **"Mi chiamo Laura."** – My name is Laura.
-
-> **Note**: "Mi chiamo" literally means “I call myself” – so in Italian, you’re telling people what you go by rather than stating your name directly.
-
-### 2. Asking Someone’s Name
-
-To keep the conversation going, you’ll want to ask the other person’s name. Here’s how:
-
-- **"Come ti chiami?"** – This means, “What’s your name?” (informal).
-- **"Come si chiama?"** – This means, “What’s your name?” (formal).
-
-Use **"Come ti chiami?"** with friends, people your age, or kids, and **"Come si chiama?"** in more formal settings, like when speaking to someone older or in a professional setting.
-
-### 3. Saying Where You’re From
-
-Another common part of introductions is sharing where you’re from. Use the phrase:
-
-- **"Sono di [City]."** – I’m from [City].
-  
-For example:
-- **"Sono di Roma."** – I’m from Rome.
-- **"Sono di Milano."** – I’m from Milan.
-
-If you want to mention your country instead, you can say:
-- **"Vengo dall’Italia."** – I come from Italy.
-- **"Vengo dagli Stati Uniti."** – I come from the United States.
-
-> **Fun Fact**: Italians love to ask where you’re from! It’s a great way to spark a friendly conversation.
-
-### 4. Responding to Introductions
-
-When someone introduces themselves, it’s polite to respond with a friendly phrase. Here are a few options:
-
-- **"Piacere!"** – Nice to meet you!
-- **"Molto piacere!"** – Very nice to meet you!
-- **"Il piacere è mio!"** – The pleasure is mine!
-
-These phrases show warmth and are a polite way to keep the conversation going.
+Knowing how to introduce yourself is a must in any language. In this lesson, you’ll learn how to confidently say your name, ask others for theirs, and maybe even learn some fun cultural tidbits along the way. Ready to start? Let’s dive in!
 
 ---
 
-### Quick Recap
+## What You’ll Learn  
 
-Let’s review the main phrases:
-
-| Phrase                 | Translation              |
-|------------------------|--------------------------|
-| Mi chiamo Marco.       | My name is Marco.        |
-| Come ti chiami?        | What’s your name? (informal) |
-| Come si chiama?        | What’s your name? (formal)   |
-| Sono di Roma.          | I’m from Rome.           |
-| Vengo dagli Stati Uniti.| I come from the United States. |
-| Piacere!               | Nice to meet you!        |
-
-### 5. Practice Dialogue
-
-Let’s put it all together with a short dialogue. Imagine you’re meeting someone for the first time:
-
-**Marco**: Ciao! Mi chiamo Marco. Come ti chiami?  
-**Laura**: Ciao Marco! Mi chiamo Laura.  
-**Marco**: Piacere, Laura! Sei di qui?  
-**Laura**: No, sono di Milano. E tu?  
-**Marco**: Sono di Roma. Il piacere è mio!
+By the end of this lesson, you’ll be able to:  
+- Introduce yourself in Italian.  
+- Ask others for their names.  
+- Use both formal and informal modes of introduction.  
 
 ---
 
-### Practice Exercises
+## Essential Phrases  
 
-After you’ve gone through the phrases, test yourself with the [Exercise for Lesson 2.1](../exercise2.1/).
+### Informal Introductions  
 
-**Tip**: Practice these phrases out loud, maybe even in front of a mirror. The more you use them, the more natural they’ll feel!
+- **Ciao! Mi chiamo [your name].** *(Hi! My name is [your name].)*  
+- **E tu? Come ti chiami?** *(And you? What’s your name?)*  
+
+**Example Dialogue**:  
+- **Geoff**: *Ciao! Mi chiamo Geoff. E tu?*  
+- **Viktor**: *Ciao! Mi chiamo Viktor. Piacere!* *(Hi! My name is Viktor. Nice to meet you!)*  
 
 ---
 
-Now you’re ready to introduce yourself in Italian and make a great first impression. With these phrases, you’ll be able to meet new people and start conversations with confidence. Buona fortuna! (Good luck!)
+### Formal Introductions  
+
+- **Buongiorno! Mi chiamo [your name].** *(Good morning! My name is [your name].)*  
+- **E Lei? Come si chiama?** *(And you? What’s your name? [formal])*  
+
+**Example Dialogue**:  
+- **Geoff**: *Buongiorno! Mi chiamo Geoff. E Lei?*  
+- **Signora Rossi**: *Buongiorno, Geoff. Mi chiamo Signora Rossi. Piacere di conoscerla!* *(Good morning, Geoff. My name is Mrs. Rossi. Nice to meet you!)*  
+
+---
+
+## Cultural Notes  
+
+1. Italians often exchange handshakes or kisses on the cheek (depending on the region). Be prepared!  
+2. **Titles Matter**: In formal situations, use titles like *Signora* (Mrs.) or *Signor* (Mr.) when introducing yourself.  
+3. Smiling is universal! A warm smile makes any introduction better.  
+
+---
+
+## Practice Makes Perfect  
+
+Try these phrases with friends or family:  
+- *Ciao! Mi chiamo [your name]. E tu?*  
+- *Buongiorno! Mi chiamo [your name]. E Lei?*  
+
+---
+
+## Quick Tips  
+
+- Keep it simple. Focus on *Mi chiamo* and *Come ti chiami?* at first.  
+- Don’t forget to say *Piacere!* (Nice to meet you!) after the introductions.  
+- Listen carefully to how others pronounce their names—it’s a sign of respect.  
+
+---
+
+## Ready to Practice?  
+
+Head over to [Exercise 2.1: Introducing Yourself Practice](../exercise2.1/) and put your skills to the test!  
+
+✨ **Buona fortuna!** 🌟  
