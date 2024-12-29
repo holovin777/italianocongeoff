@@ -1,98 +1,111 @@
 ---
-title: "Exercise 5.3: Boutique Basics Practice"
+title: "Exercise 5.3: Boutique Shopping Practice"
+description: "Practice your boutique shopping phrases and navigate Italian elegance with confidence."
 weight: 6
-description: "Master your boutique shopping skills and navigate Italian high-end stores like a pro."
 ---
 
-# Exercise 5.3: Boutique Basics Practice 👗👠
+# Exercise 5.3: Boutique Shopping Practice 👗👜  
 
-Welcome to your boutique shopping practice session! This exercise will help you refine your phrases, sharpen your etiquette, and ensure you can shop with style, grace, and maybe even a little humor. Let’s dive in!
-
----
-
-### 1. Fill in the Blanks – Boutique Essentials  
-
-Complete the sentences with the correct Italian phrase.
-
-1. **You**: Scusi, _____ quella giacca? *(Excuse me, can I try on that jacket?)*  
-2. **You**: Avete questo vestito in un’altra _____? *(Do you have this dress in another size?)*  
-3. **Shop Assistant**: Costa cento euro.  
-   **You**: _____ pagare con carta di credito? *(Can I pay with a credit card?)*  
-
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **Posso provarla**  
-2. **taglia**  
-3. **Posso**  
-{{% /details %}}
+It’s time to step into the world of Italian boutiques! Test your ability to navigate shopping scenarios with style and humor. Can Geoff finally find a jacket that suits him without Viktor’s help? Let’s find out!
 
 ---
 
-### 2. Match the Phrase – What Does It Mean?  
+### 1. Fill in the Blanks – Complete the Dialogue  
 
-Match the Italian boutique phrase to its correct meaning in English.
+**Scenario**: Geoff is shopping in a boutique, and Viktor is (again) the assistant.  
 
-1. **C’è in un altro colore?**  
-2. **Quanto costa?**  
-3. **Posso vedere quella borsa?**  
-4. **Mi piace molto, ma avete una taglia più grande?**  
-5. **Ha il resto per cinquanta euro?**
+1. **Geoff**: *Buongiorno! Posso dare un’_____?* *(Good morning! Can I take a look?)*  
+   **Viktor**: *Certamente! Abbiamo giacche in diversi materiali.* *(Of course! We have jackets in different materials.)*  
 
-**Options**:  
-A) Can I see that bag?  
-B) How much does it cost?  
-C) I really like it, but do you have a larger size?  
-D) Do you have change for fifty euros?  
-E) Is it available in another color?  
+2. **Geoff**: *Avete questa giacca in una _____ più grande?* *(Do you have this jacket in a larger size?)*  
+   **Viktor**: *Sì, una taglia più grande è disponibile.* *(Yes, a larger size is available.)*  
 
-{{% details title="Answers" open=false %}}
-### Answers:  
-1. **E) Is it available in another color?**  
-2. **B) How much does it cost?**  
-3. **A) Can I see that bag?**  
-4. **C) I really like it, but do you have a larger size?**  
-5. **D) Do you have change for fifty euros?**  
-{{% /details %}}
+3. **Geoff**: *Quanto _____ questa giacca?* *(How much does this jacket cost?)*  
+   **Viktor**: *Centoventi euro, è di alta qualità.* *(120 euros, it’s high quality.)*  
+
+4. **Geoff**: *Mi piace, la _____.* *(I like it, I’ll take it.)*  
 
 ---
 
-### 3. Situational Practice – What Would You Say?  
+### 2. Match the Phrases – What Does It Mean?  
 
-Imagine you’re in these situations. Write your response in Italian.
+Match the Italian phrase to its English equivalent. Write the letter next to the number.
 
-1. **Situation**: You spot a scarf you like and want to ask if it’s available in a different color.  
-   - **Your Response**: __________________________________________  
+1. **Quanto costa questa giacca?**  
+2. **Avete questa in una taglia più piccola?**  
+3. **Posso provare questo vestito?**  
+4. **Mi piace, lo prendo.**  
 
-2. **Situation**: You’re trying on a pair of shoes, but they feel a little snug. Politely ask for a larger size.  
-   - **Your Response**: __________________________________________  
-
-3. **Situation**: The shop assistant tells you the price of a handbag is €120, and you want to pay with a credit card. Ask if that’s possible.  
-   - **Your Response**: __________________________________________  
-
-{{% details title="Answers" open=false %}}
-### Suggested Answers:  
-1. **C’è in un altro colore?** *(Is it available in another color?)*  
-2. **Avete un numero più grande?** *(Do you have a larger size?)*  
-3. **Posso pagare con carta di credito?** *(Can I pay with a credit card?)*  
-{{% /details %}}
+A) I like it, I’ll take it.  
+B) How much does this jacket cost?  
+C) Can I try on this dress?  
+D) Do you have this in a smaller size?  
 
 ---
 
-### 4. Bonus Challenge – Decoding Compliments  
+### 3. Multiple Choice – Choose the Best Response  
 
-The shop assistant says something to you while you’re trying on an outfit. Can you decode it?
+1. Geoff asks: *Quanto costa questa sciarpa?* *(How much does this scarf cost?)*  
+   Viktor replies:  
+   - **A)** *Ne prendo due.* *(I’ll take two.)*  
+   - **B)** *Venti euro.* *(20 euros.)*  
+   - **C)** *Mi dispiace, non lo so.* *(I’m sorry, I don’t know.)*  
 
-**Assistant’s Words**:  
-- Sta benissimo! Questo vestito è perfetto per lei.  
+2. Viktor says: *C’è uno sconto su queste scarpe.* *(There’s a discount on these shoes.)*  
+   Geoff replies:  
+   - **A)** *Perfetto, le prendo!* *(Perfect, I’ll take them!)*  
+   - **B)** *Quanto costano questi jeans?* *(How much do these jeans cost?)*  
+   - **C)** *Mi dispiace, è troppo caro.* *(I’m sorry, it’s too expensive.)*  
 
-What do they mean in English?  
-
-{{% details title="Answers" open=false %}}
-### Translation:  
-- **You look great! This dress is perfect for you.**  
-(And no, this isn’t just flattery—it’s the Italian way!)  
-{{% /details %}}
+3. Geoff wants to try on a jacket. What should he say?  
+   - **A)** *Posso provare questa giacca?* *(Can I try on this jacket?)*  
+   - **B)** *Quanto costa questa giacca?* *(How much does this jacket cost?)*  
+   - **C)** *Avete questa in un’altra taglia?* *(Do you have this in another size?)*  
 
 ---
 
-✨ **Congratulations!** You’ve completed Exercise 5.3 and are now ready to shop in Italian boutiques like a true style icon. Don’t forget: a confident *Buongiorno!* can open doors (and maybe even wallets). Buon shopping! 🎉
+### 4. Create Your Own Dialogue  
+
+Write a short dialogue using at least two phrases from this lesson.  
+
+**Example Dialogue**:  
+- **Geoff**: *Buongiorno! Posso provare questa giacca?*  
+- **Viktor**: *Sì, certamente. Questa è la sua taglia?*  
+- **Geoff**: *No, avete una taglia più grande?*  
+- **Viktor**: *Sì, ecco qua. Perfetto per lei!*  
+
+Now it’s your turn!  
+
+---
+
+### Answers  
+
+{{% details title="Answers" open=false %}}  
+
+#### 1. Fill in the Blanks  
+1. *occhiata*  
+2. *taglia*  
+3. *costa*  
+4. *prendo*  
+
+#### 2. Match the Phrases  
+1. **B)** How much does this jacket cost?  
+2. **D)** Do you have this in a smaller size?  
+3. **C)** Can I try on this dress?  
+4. **A)** I like it, I’ll take it.  
+
+#### 3. Multiple Choice  
+1. **B)** *Venti euro.*  
+2. **A)** *Perfetto, le prendo!*  
+3. **A)** *Posso provare questa giacca?*  
+
+#### 4. Create Your Own Dialogue – Sample  
+- **Geoff**: *Quanto costa questo cappello?*  
+- **Viktor**: *Quindici euro.*  
+- **Geoff**: *Perfetto, lo prendo!*  
+
+{{% /details %}}  
+
+---
+
+✨ **Fantastic job! You’re ready to shop with flair in Italian boutiques. Bravo!** 🌟  
