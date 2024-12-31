@@ -19,8 +19,8 @@ Complete the dialogue by filling in the blanks with the correct Italian phrases.
 1. **Geoff**: Ciao! **_____** (My name is) Geoff. **_____** (What’s your name?)  
    **Viktor**: Ciao! Mi chiamo Viktor. **_____** (Nice to meet you!), Geoff!  
 
-2. **Viktor**: Sono di **_____** (I’m from) Vigevano. E tu?  
-   **Geoff**: Io sono di **_____** (I’m from) Padova.  
+2. **Viktor**: **_____** (I’m from) Vigevano. E tu?  
+   **Geoff**: Io **_____** (I’m from) Padova.  
 
 ---
 

@@ -27,7 +27,7 @@ By the end of this lesson, you’ll be able to:
 - **E tu? Come ti chiami?** *(And you? What’s your name?)*  
 
 **Example Dialogue**:  
-- **Geoff**: *Ciao! Mi chiamo Geoff. E tu?*  
+- **Geoff**: *Ciao! Mi chiamo Geoff. E tu?* *(Hi! My name is Geoff. And you!)*
 - **Viktor**: *Ciao! Mi chiamo Viktor. Piacere!* *(Hi! My name is Viktor. Nice to meet you!)*  
 
 ---
@@ -38,7 +38,7 @@ By the end of this lesson, you’ll be able to:
 - **E Lei? Come si chiama?** *(And you? What’s your name? [formal])*  
 
 **Example Dialogue**:  
-- **Geoff**: *Buongiorno! Mi chiamo Geoff. E Lei?*  
+- **Geoff**: *Buongiorno! Mi chiamo Geoff. E Lei?* *(Good morning! My name is Geoff. And you?)*
 - **Signora Rossi**: *Buongiorno, Geoff. Mi chiamo Signora Rossi. Piacere di conoscerla!* *(Good morning, Geoff. My name is Mrs. Rossi. Nice to meet you!)*  
 
 ---

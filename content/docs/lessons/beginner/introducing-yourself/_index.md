@@ -8,7 +8,7 @@ weight: 2
 
 ![Introducing Yourself](/images/beginner-level/introducing-yourself/introducing-yourself.webp)
 
-When it comes to meeting new people, Italians excel at making introductions warm, friendly, and full of charm. In this lesson, we’ll teach Geoff how to confidently introduce himself in Italian (without accidentally claiming he's a pizza chef) and Viktor how to respond like a pro.  
+When it comes to meeting new people, Italians excel at making introductions warm, friendly, and full of charm. In these lessons, we’ll teach Geoff how to confidently introduce himself in Italian (without accidentally claiming he's a pizza chef) and Viktor how to respond like a pro.  
 
 ---
 
