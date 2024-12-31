@@ -56,7 +56,7 @@ Imagine yourself in these situations and write what you would say.
 
 ### 4. Match the Phrase – Greetings in Context  
 
-Match the Italian phrase to its correct meaning or use case.
+Match the Italian phrase to its correct meaning or situation.
 
 1. **Ciao, mi chiamo Geoff.**  
 2. **E Lei, come si chiama?**  
@@ -67,7 +67,7 @@ Match the Italian phrase to its correct meaning or use case.
 A) Casual greeting and name introduction  
 B) Formal way to ask someone’s name  
 C) Polite response to an introduction (informal)  
-D) I’m from Padova  
+D) I’m from Padua
 E) Informal way to ask someone’s name  
 
 ---
@@ -102,7 +102,7 @@ Geoff discovers that Viktor is also a handyman, web developer, and an all-around
 1. **A)** Casual greeting and name introduction  
 2. **B)** Formal way to ask someone’s name  
 3. **C)** Polite response to an introduction (informal)  
-4. **D)** I’m from Padova  
+4. **D)** I’m from Padua
 5. **E)** Informal way to ask someone’s name  
 
 #### Bonus Challenge – Sample Response  

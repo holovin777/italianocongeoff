@@ -17,6 +17,7 @@ Complete each sentence with the correct Italian phrase.
 1. **Geoff**: *Cosa ti piace fare, Viktor?*  
    **Viktor**: *Mi piace fare escursioni e leggere libri. E a te, Geoff?*  
    **Geoff**: *Mi piace guardare film e _____.* (cucinare / lavorare / studiare)
+   *(Hint: Geoff loves cooking and reading, but working? Not so much.)*
 
 2. **Viktor**: *Non mi piace _____.* (viaggiare / cucinare / leggere)  
    *(Hint: Viktor loves traveling and reading, but cooking? Not so much.)*
@@ -69,8 +70,8 @@ Choose the best Italian phrase for each situation.
 Imagine a conversation between Geoff and Viktor about their hobbies. Write a short dialogue using at least two phrases from this lesson.  
 
 **Example Dialogue**:  
-- **Geoff**: *Cosa ti piace fare, Viktor?*  
-- **Viktor**: *Mi piace fare escursioni. E a te?*  
+- **Geoff**: *Cosa ti piace fare, Viktor?* *(What do you like to do, Viktor?)*
+- **Viktor**: *Mi piace fare escursioni. E a te?* *(I like hiking. How about you?)*
 - **Geoff**: *Mi piace guardare film e cucinare. Non mi piace lavorare troppo!* *(I don’t like working too much!)*  
 
 Now it’s your turn!  
