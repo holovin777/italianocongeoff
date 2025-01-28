@@ -4,9 +4,9 @@ description: "Learn the fundamentals of Italian pronunciation and sound like a t
 weight: 8
 ---
 
-![Basic Pronunciation](/images/beginner-level/basic-pronunciation/basic-pronunciation.webp)
-
 # 8. Basic Pronunciation – Key Tips for Pronouncing Italian Vowels and Consonants 🗣️🇮🇹  
+
+![Basic Pronunciation](/images/beginner-level/basic-pronunciation/basic-pronunciation.webp)
 
 Welcome to the world of Italian pronunciation, where vowels sing, consonants dance, and double letters take center stage. In this section, we’ll explore the essentials of Italian pronunciation, so you can confidently order your *spaghetti* without accidentally saying *spughetti* (yes, it matters!).
 
