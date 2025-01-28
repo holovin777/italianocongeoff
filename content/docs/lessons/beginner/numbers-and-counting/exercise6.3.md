@@ -53,18 +53,18 @@ E) Thursday
 ### 4. Multiple Choice – Choose the Correct Response  
 
 1. Geoff asks Viktor: *A che ora ci vediamo domani?* *(What time are we meeting tomorrow?)*  
-   Viktor replies:  
-   - **A)** Alle otto di sera. *(At 8 PM.)*  
-   - **B)** A mezzogiorno. *(At noon.)*  
-   - **C)** Alle tre di notte. *(At 3 AM.)*  
+   Viktor replies: At 8 PM.
+   - **A)** Alle otto di sera.
+   - **B)** A mezzogiorno.
+   - **C)** Alle tre di notte.
 
 2. Viktor asks Geoff: *Che giorno è oggi?* *(What day is it today?)*  
-   Geoff responds:  
-   - **A)** È domenica. *(It’s Sunday.)*  
-   - **B)** È venerdì. *(It’s Friday.)*  
-   - **C)** È lunedì. *(It’s Monday.)*  
+   Geoff responds: It’s Friday.
+   - **A)** È domenica.
+   - **B)** È venerdì.
+   - **C)** È lunedì.
 
-3. Geoff overhears someone say: *Il museo apre alle dieci e mezza.* *(The museum opens at 10:30.)* What does this mean?  
+3. Geoff overhears someone say: *Il museo apre alle dieci e mezza.* What does this mean?  
    - **A)** The museum opens at 9:30.  
    - **B)** The museum opens at 10:30.  
    - **C)** The museum opens at 11:30.  

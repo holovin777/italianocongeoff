@@ -15,7 +15,7 @@ Ready to put your knowledge of Italian days to the test? Join Geoff and Viktor a
 Fill in the correct day of the week in Italian based on the clues.  
 
 1. Geoff says: *Oggi è lunedì. Domani è _____.* *(Today is Monday. Tomorrow is _____.)*  
-2. Viktor says: *Il mercato è aperto il _____.* *(The market is open on _____.)*  
+2. Viktor says: *Il mercato è aperto il _____.* *(The market is open on Friday.)*  
 3. Geoff asks: *Qual è il primo giorno della settimana?* *(What is the first day of the week?)*  
    Viktor responds: *È il _____.* *(It’s _____.)*  
 
@@ -53,21 +53,21 @@ E) Monday
 ### 4. Multiple Choice – Choose the Correct Day  
 
 1. Geoff asks Viktor: *Che giorno è oggi?* *(What day is today?)*  
-   Viktor replies:  
+   Viktor replies:  Wednesday.
    - **A)** Domenica  
    - **B)** Mercoledì  
    - **C)** Sabato  
 
 2. Viktor asks Geoff: *Che giorno è domani?* *(What day is tomorrow?)*  
-   Geoff responds:  
+   Geoff responds: Friday.
    - **A)** Lunedì  
    - **B)** Giovedì  
    - **C)** Venerdì  
 
-3. Geoff says: *Il mercato è aperto il venerdì, giusto?* *(The market is open on Friday, right?)* Viktor replies:  
+3. Geoff says: *Il mercato è aperto il giovedi, giusto?* *(The market is open on Friday, right?)* Viktor replies:  
    - **A)** Sì, il sabato. *(Yes, on Saturday.)*  
    - **B)** No, il venerdì. *(No, on Friday.)*  
-   - **C)** No, è chiuso. *(No, it’s closed.)*  
+   - **C)** No, è chiuso Lunedi. *(No, it’s closed Monday.)*  
 
 ---
 
