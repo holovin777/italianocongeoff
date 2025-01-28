@@ -15,13 +15,13 @@ Ready to test your ability to decode Italian directions? These exercises will ch
 **Scenario**: Geoff is lost again (of course), but Viktor is here to help.  
 
 1. **Geoff**: *Scusi, dov’è il museo?* *(Excuse me, where is the museum?)*  
-   **Viktor**: *Sempre _____ e poi gira a destra.* *(Straight _____ and then turn right.)*  
+   **Viktor**: *Sempre _____ e poi gira a destra.* *(Straight ahead and then turn right.)*  
 
 2. **Geoff**: *E la farmacia?* *(And the pharmacy?)*  
-   **Viktor**: *Gira a _____, accanto alla piazza.* *(Turn _____, next to the square.)*  
+   **Viktor**: *Gira a _____, accanto alla piazza.* *(Turn right, next to the square.)*  
 
 3. **Geoff**: *Perfetto, grazie! Quanto tempo ci vuole?* *(Perfect, thank you! How long does it take?)*  
-   **Viktor**: *Circa cinque _____.* *(About five ____.)*  
+   **Viktor**: *Circa cinque _____.* *(About five minutes.)*  
 
 ---
 

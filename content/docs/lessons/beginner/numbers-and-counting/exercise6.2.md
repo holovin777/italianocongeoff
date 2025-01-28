@@ -54,18 +54,18 @@ E) 36
 ### 4. Multiple Choice – Choose the Correct Response  
 
 1. Geoff asks Viktor: *Quante persone ci sono alla festa?* *(How many people are at the party?)*  
-   Viktor replies:  
+   Viktor replies: Thirty
    - **A)** Trenta  
    - **B)** Sessantadue  
    - **C)** Quarantacinque  
 
 2. Viktor asks Geoff: *Quanti libri hai comprato oggi?* *(How many books did you buy today?)*  
-   Geoff responds:  
+   Geoff responds: Twenty-two
    - **A)** Ventidue  
    - **B)** Ottanta  
    - **C)** Cinquantanove  
 
-3. You overhear someone say: *Ho settantaquattro euro nel portafoglio.* *(I have 74 euros in my wallet.)* What does this mean?  
+3. You overhear someone say: *Ho settantaquattro euro nel portafoglio.* What does this mean?  
    - **A)** I have 64 euros in my wallet.  
    - **B)** I have 74 euros in my wallet.  
    - **C)** I have 84 euros in my wallet.  
@@ -109,7 +109,7 @@ Now it’s your turn!
 5. **C)** 84  
 
 #### 4. Multiple Choice  
-1. **C)** Quarantacinque  
+1. **A)** Trentatre
 2. **A)** Ventidue  
 3. **B)** I have 74 euros in my wallet.  
 
