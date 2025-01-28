@@ -32,15 +32,15 @@ Translate the following times from English to Italian:
 
 ### 3. Match the Clock – Multiple Choice  
 
-1. Geoff asks Viktor: *Che ora è?* *(What time is it?)* Viktor looks at his watch and says:  
+1. Geoff asks Viktor: *Che ora è?* *(What time is it?)* Viktor looks at his watch and says: It’s 6:50.
    - **A)** Sono le cinque e mezza. *(It’s 5:30.)*  
    - **B)** Sono le sette meno dieci. *(It’s 6:50.)*  
    - **C)** Sono le nove e un quarto. *(It’s 9:15.)*  
 
 2. Viktor plans a coffee break. He says: *Alle dieci meno cinque ci vediamo al bar.* *(At 9:55, we’ll meet at the café.)* What time is the coffee date?  
-   - **A)** 9:05  
-   - **B)** 9:55  
-   - **C)** 10:05  
+   - **A)** At 9:05, we’ll meet at the café.
+   - **B)** At 9:55, we’ll meet at the café.
+   - **C)** At 10:05, we’ll meet at the café.
 
 ---
 

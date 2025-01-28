@@ -41,20 +41,20 @@ C) Saturday at 10 AM
 
 ### 3. Multiple Choice – Choose the Correct Time  
 
-1. Geoff asks Viktor: *A che ora ci vediamo venerdì?* *(What time are we meeting on Friday?)* Viktor replies:  
-   - **A)** Alle sette di sera *(At 7 PM)*  
-   - **B)** Alle tre di notte *(At 3 AM)*  
-   - **C)** Alle otto di mattina *(At 8 AM)*  
+1. Geoff asks Viktor: *A che ora ci vediamo venerdì?* *(What time are we meeting on Friday?)* Viktor replies: At 7 PM.
+   - **A)** Alle sette di sera
+   - **B)** Alle tre di notte
+   - **C)** Alle otto di mattina
 
-2. Viktor asks Geoff: *Quando arriva il treno?* *(When does the train arrive?)* Geoff checks the schedule and says:  
-   - **A)** Alle nove e mezza *(At 9:30.)*  
-   - **B)** A mezzogiorno *(At noon.)*  
-   - **C)** Alle undici meno un quarto *(At 10:45.)*  
+2. Viktor asks Geoff: *Quando arriva il treno?* *(When does the train arrive?)* Geoff checks the schedule and says: At 10:45.
+   - **A)** Alle nove e mezza
+   - **B)** A mezzogiorno
+   - **C)** Alle undici meno un quarto
 
-3. Geoff asks Viktor: *Quanto dura la lezione di italiano?* *(How long is the Italian lesson?)* Viktor replies:  
-   - **A)** Dura un’ora *(It lasts one hour.)*  
-   - **B)** Dura due ore *(It lasts two hours.)*  
-   - **C)** Dura mezza giornata *(It lasts half a day.)*  
+3. Geoff asks Viktor: *Quanto dura la lezione di italiano?* *(How long is the Italian lesson?)* Viktor replies: It lasts one hour.
+   - **A)** Dura un’ora
+   - **B)** Dura due ore
+   - **C)** Dura mezza giornata
 
 ---
 
