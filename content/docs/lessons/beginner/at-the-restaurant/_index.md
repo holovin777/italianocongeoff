@@ -4,9 +4,9 @@ description: "Learn how to navigate an Italian restaurant, from ordering pasta l
 weight: 10
 ---
 
-![At the Restaurant](/images/beginner-level/at-the-restaurant/at-the-restaurant.webp)
-
 # 10. At the Restaurant – Mastering Italian Dining Like a Pro 🍝🍷  
+
+![At the Restaurant](/images/beginner-level/at-the-restaurant/at-the-restaurant.webp)
 
 Eating in Italy is not just about food—it’s an **art**, a **ritual**, and occasionally a **test of patience when the waiter disappears for 30 minutes**. Whether you're in a cozy trattoria in Rome or a fancy ristorante in Milan, knowing how to order and interact like a local will take your dining experience to the next level.  
 
