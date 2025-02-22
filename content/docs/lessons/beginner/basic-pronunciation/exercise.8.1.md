@@ -32,11 +32,11 @@ Match the Italian word to the vowel that stands out most when pronounced:
 4. **Casa**  
 5. **Cane**  
 
-A) **A**  
-B) **E**  
-C) **I**  
-D) **O**  
-E) **U**  
+A) **A** (house)
+B) **E** (dog)
+C) **I** (friend)
+D) **O** (vine)
+E) **U** (moon)
 
 ---
 
@@ -82,9 +82,9 @@ Now it’s your turn! Write your sentence below:
 #### 2. Match the Word to the Vowel  
 1. **C)** I (*Amico*)  
 2. **E)** U (*Luna*)  
-3. **C)** I (*Vino*)  
+3. **D)** O (*Vino*)  
 4. **A)** A (*Casa*)  
-5. **A)** A (*Cane*)  
+5. **B)** E (*Cane*)  
 
 #### 3. Multiple Choice  
 1. **C)** AH-mo-re  

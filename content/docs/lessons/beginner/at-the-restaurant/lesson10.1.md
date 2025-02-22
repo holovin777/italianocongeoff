@@ -84,7 +84,7 @@ Try these exercises to practice your ordering skills:
 
 1. **Fill in the blank:**  
    - You want to ask for a table for two. You say: *Un ___ per due, per favore.*  
-   - The waiter hands you the menu. You say: *Grazie! Posso ___ il menu?*  
+   - The waiter hands you the menu. You say: *Grazie per il ___.*  
 
 2. **Role-play scenario:**  
    Imagine you’re at a restaurant. How would you order a **pasta**, a **side dish**, and **water**? Write out your dialogue in Italian!  
