@@ -22,21 +22,24 @@ Complete the words with the correct consonants:
 
 ---
 
-### 2. Match the Consonant Sound  
+### 2. Match the Consonant Sound – Hard or Soft?  
 
-Match the Italian word to its correct consonant pronunciation:  
+In Italian, some consonants **change their pronunciation** depending on the vowels that follow them.  
 
-1. **Cane**  
-2. **Gnocchi**  
-3. **Famiglia**  
-4. **Zucchero**  
-5. **Giorno**  
+Match each word to the correct pronunciation type (**hard** or **soft**).  
 
-A) /ʎ/  
-B) /k/  
-C) /ɲ/  
-D) /ts/  
-E) /dʒ/  
+1. **Gatto** *(Cat)*  
+2. **Gelato** *(Ice cream)*  
+3. **Chiesa** *(Church)*  
+4. **Cosa** *(Thing)*  
+5. **Giraffa** *(Giraffe)*  
+6. **Chiave** *(Key)*  
+
+A) Hard "C" sound like *K* (e.g., "Car")  
+B) Soft "C" sound like *Ch* (e.g., "Cheese")  
+C) Hard "G" sound like *G* in "Go"  
+D) Soft "G" sound like *J* in "Jelly"  
+E) "Ch" makes a hard *K* sound  
 
 ---
 
@@ -84,11 +87,12 @@ Here’s an example:
 5. Mare  
 
 #### 2. Match the Consonant Sound  
-1. **B)** /k/ (*Cane*)  
-2. **C)** /ɲ/ (*Gnocchi*)  
-3. **A)** /ʎ/ (*Famiglia*)  
-4. **D)** /ts/ (*Zucchero*)  
-5. **E)** /dʒ/ (*Giorno*)  
+1. **Gatto** – **C) Hard "G"** (like *G* in "Go")  
+2. **Gelato** – **D) Soft "G"** (like *J* in "Jelly")  
+3. **Chiesa** – **E) "Ch" makes a hard *K* sound**  
+4. **Cosa** – **A) Hard "C"** (like *K* in "Car")  
+5. **Giraffa** – **D) Soft "G"** (like *J* in "Jelly")  
+6. **Chiave** – **E) "Ch" makes a hard *K* sound**  
 
 #### 3. Multiple Choice  
 1. **B)** Gatto  

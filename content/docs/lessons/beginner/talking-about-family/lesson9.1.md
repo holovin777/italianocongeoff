@@ -51,8 +51,8 @@ Here’s a list of the most common family members in Italian. Memorize these and
   *(Hi Viktor! Is this your family?)*  
 - **Viktor**: *Sì! Ti presento mia madre, mio padre e mia sorella.*  
   *(Yes! Let me introduce you to my mother, my father, and my sister.)*  
-- **Geoff**: *Piacere di conoscerti, signora e signore!*  
-  *(Nice to meet you, ma’am and sir!)*  
+- **Geoff**: *Piacere di conoscervi!*  
+  *(Nice to meet you!)*  
 - **Viktor**: *E questo è mio zio Carlo.*  
   *(And this is my uncle Carlo.)*  
 - **Geoff**: *Ciao, Zio Carlo! Amo l’Italia!*  
@@ -71,8 +71,8 @@ Here’s a list of the most common family members in Italian. Memorize these and
 
 2. **Fill in the Blanks**:  
    Complete the sentences with the correct family member.  
-   - *Mio ___ è molto simpatico.* *(My ___ is very nice.)*  
-   - *La mia ___ cucina la migliore pasta!* *(My ___ cooks the best pasta!)*  
+   - *Mio ___ è molto simpatico.* *(My mother is very nice.)*  
+   - *La mia ___ cucina la migliore pasta!* *(My grandmother cooks the best pasta!)*  
 
 ---
 
