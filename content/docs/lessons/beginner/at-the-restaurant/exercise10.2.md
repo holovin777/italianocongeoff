@@ -16,11 +16,10 @@ Let’s make sure you can confidently handle *il conto* without spending the nig
 
 Complete the sentences with the correct words: **conto, coperto, incluso, resto, mancia**.
 
-1. **Geoff**: *Scusi! Posso avere il ___, per favore?* *(Excuse me! Can I have the ___, please?)*  
-2. **Waiter**: *Ecco a lei. Il servizio è già ___ nel totale.* *(Here you go. The service is already ___ in the total.)*  
-3. **Geoff**: *Cosa significa “___” sullo scontrino?* *(What does “___” mean on the receipt?)*  
-4. **Viktor**: *È il costo per il pane e il coperto.* *(It’s the charge for bread and table service.)*  
-5. **Geoff**: *Ehm… ho pagato con 50 euro. Il ___ è 10 euro, giusto?* *(Uh… I paid with 50 euros. The ___ is 10 euros, right?)*  
+1. **Geoff**: *Scusi! Posso avere il ___, per favore?* *(Excuse me! Can I have the bill, please?)*  
+2. **Waiter**: *Ecco a lei. Il servizio è già ___ nel totale.* *(Here you go. The service is already included in the total.)*  
+3. **Geoff**: *Cosa significa “___” sullo scontrino?* *(What does “cover charge” mean on the receipt?)*  
+4. **Geoff**: *Ehm… ho pagato con 50 euro. Il ___ è 10 euro, giusto?* *(Uh… I paid with 50 euros. The change is 10 euros, right?)*  
 
 ---
 
@@ -29,7 +28,7 @@ Complete the sentences with the correct words: **conto, coperto, incluso, resto,
 Match each Italian phrase to its English translation. Write the correct letter.  
 
 1. **Il conto, per favore.**  
-2. **Il servizio è incluso.**  
+2. **Il servizio è incluso?**  
 3. **Tenga il resto.**  
 4. **Posso pagare con carta?**  
 5. **Accettate contanti?**  

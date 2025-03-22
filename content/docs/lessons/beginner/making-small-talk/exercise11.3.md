@@ -22,6 +22,7 @@ Choose the correct word or phrase to complete these sentences:
 
 2. **Viktor:** *Vado al mare con degli amici. E tu?*  
    *(I’m going to the beach with some friends. And you?)*  
+   *Geoff want to stai at home*
    - A) Rimango a casa a guardare Netflix.  
    - B) Lavoro tutto il weekend… evviva…  
    - C) Organizzo una festa.  

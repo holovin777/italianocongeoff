@@ -75,7 +75,7 @@ Write a response for each situation:
 1. **Viktor**: *Che tempo fa oggi?* *(What’s the weather like today?)*  
    - **Your response**: _____________________________________  
 
-2. **Rossi**: *Come stai?* *(How are you?)*  
+2. **Rossi**: *Come sta?* *(How are you?)*  
    - **Your response**: _____________________________________  
 
 3. **Geoff**: *Mi piace il calcio! E a te?* *(I like football! And you?)*  
@@ -106,7 +106,7 @@ Write a response for each situation:
 
 #### 4. Situational Practice – Example Answers  
 1. *Oggi fa caldo, ma almeno c’è il sole!* *(It’s hot today, but at least it’s sunny!)*  
-2. *Sto bene, grazie! E tu?* *(I’m good, thanks! And you?)*  
+2. *Sto bene, grazie! E Lei?* *(I’m good, thanks! And you?)*  
 3. *Sì! Tifo per la Juventus!* *(Yes! I support Juventus!)*  
 
 {{% /details %}}  
