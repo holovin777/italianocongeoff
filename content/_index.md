@@ -3,9 +3,9 @@ title: "Welcome to Italiano con Geoff"
 description: "Learn Italian with humor, practical examples, and engaging lessons. Join Geoff on a fun language-learning adventure!"
 ---
 
-![Home](/images/home.webp)
-
 # Welcome to **Italiano con Geoff** 🇮🇹🌟  
+
+![Home](/images/home.webp)
 
 Learning Italian doesn’t have to feel like a chore! Here, you’ll join Geoff—a curious Australian determined to master Italian—on a journey filled with laughter, espresso, and practical learning.  
 
