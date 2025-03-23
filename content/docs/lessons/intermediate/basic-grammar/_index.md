@@ -32,6 +32,6 @@ In this unit, you’ll meet both the angels and troublemakers of Italian grammar
 
 ---
 
-👉 [Start with Lesson 15.1](./lesson15.1)
+👉 [Start with Lesson 15.1](./lesson15.1/)
 
 > Grammar doesn't have to be scary — especially when there's pizza vocabulary involved.
