@@ -29,7 +29,7 @@ Whether you're talking about Geoff’s peaceful balcony or Viktor’s messy note
 
 ## Start Here 👇
 
-👉 [Begin with the first lesson](./lesson13.1) – and learn how to describe people without using wild hand gestures (unless you want to).
+👉 [Begin with the first lesson](./lesson13.1/) – and learn how to describe people without using wild hand gestures (unless you want to).
 
 ---
 

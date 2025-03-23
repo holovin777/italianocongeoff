@@ -109,6 +109,6 @@ D) Gli alberi fioriscono e le allergie iniziano.
 ## **Next Up:**  
 Ready for more? Continue learning with **Lesson 12.3**:  
 
-👉 **[Lesson 12.3: Talking About Extreme Weather – Storms, Heatwaves, and More](./lesson12.3/)**  
+👉 **[Lesson 12.3: Talking About Extreme Weather – Storms, Heatwaves, and More](../lesson12.3/)**  
 
 ☀️❄️🍂🌷 **Buona fortuna!** 🇮🇹🎉  
