@@ -11,11 +11,15 @@ title = 'Italiano con Geoff'
   [[menu.main]]
     name = "Lessons"
     url = "/docs/lessons/"
-    weight = 1
+    weight = 3
   [[menu.main]]
-    name = "Exercises"
-    url = "/docs/exercises/"
+    name = "Resources"
+    url = "/docs/resources/"
     weight = 2
+  [[menu.main]]
+    name = "Structure"
+    url = "/docs/structure/"
+    weight = 1
 
 [markup.goldmark.renderer]
   unsafe = true
