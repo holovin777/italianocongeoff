@@ -111,6 +111,6 @@ D) *Sembra la fine del mondo!* *(It looks like the end of the world!)*
 ## **Next Up:**  
 Ready for more? Continue learning with **Lesson 12.2**:  
 
-👉 **[Lesson 12.2: Talking About the Seasons – Surviving Italian Summers and Winters](./lesson12.2/)**  
+👉 **[Lesson 12.2: Talking About the Seasons – Surviving Italian Summers and Winters](../lesson12.2/)**  
 
 ☀️🌦️❄️ **Buona fortuna e buon apprendimento!** 🇮🇹🎉

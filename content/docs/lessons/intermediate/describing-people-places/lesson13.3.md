@@ -57,4 +57,4 @@ Mix it up:
 
 ---
 
-> Coming up next: [Exercise 13.3](../exercise13.3) – A fun review to make sure you're ready to move on, espresso in hand.
+> Coming up next: [Exercise 13.3](../exercise13.3/) – A fun review to make sure you're ready to move on, espresso in hand.
