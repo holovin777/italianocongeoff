@@ -27,7 +27,7 @@ Whether you’re ordering at a restaurant, chatting with locals, or just arguing
 
 ## Start Here 👇
 
-👉 [Begin with Lesson 14.1](./lesson14.1)
+👉 [Begin with Lesson 14.1](./lesson14.1/)
 
 ---
 
