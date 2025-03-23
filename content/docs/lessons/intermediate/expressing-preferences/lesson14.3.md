@@ -87,4 +87,4 @@ Use these verbs to describe:
 
 ---
 
-> Coming up next: [Exercise 14.3](../exercise14.3) — Let’s see what you *love*, what you *hate*, and where you stand on cabbage soup.
+> Coming up next: [Exercise 14.3](../exercise14.3/) — Let’s see what you *love*, what you *hate*, and where you stand on cabbage soup.
