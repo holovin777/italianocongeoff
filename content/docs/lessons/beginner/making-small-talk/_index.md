@@ -6,7 +6,7 @@ weight: 11
 
 # Making Small Talk – Phrases for Casual Conversation and Breaking the Ice 🗣️☕  
 
-![Making Small Talk](/images/beginner-level/making-small-talk/making-small-talk.webp)
+![Making Small Talk](/images/beginner/making-small-talk/making-small-talk.webp)
 
 You’ve mastered greetings, introduced yourself, and successfully ordered a coffee without accidentally asking for a *horse* (*cavallo* instead of *caffè*—it happens). But what do you say **after** “Ciao, come stai?”  
 
