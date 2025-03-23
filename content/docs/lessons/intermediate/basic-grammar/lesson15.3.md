@@ -76,4 +76,4 @@ Write a mini-dialogue:
 
 ---
 
-> Coming up next: [Exercise 15.3](../exercise15.3) — It’s your turn to mix regular and irregular verbs like a true Italian grammar chef.
+> Coming up next: [Exercise 15.3](../exercise15.3/) — It’s your turn to mix regular and irregular verbs like a true Italian grammar chef.

@@ -66,4 +66,4 @@ Conclusion: Everyone wins if there’s coffee.
 
 ---
 
-> Coming up next: [Exercise 14.2](../exercise14.2) – Time to choose your favorites and see where your true Italian heart lies.
+> Coming up next: [Exercise 14.2](../exercise14.2/) – Time to choose your favorites and see where your true Italian heart lies.
