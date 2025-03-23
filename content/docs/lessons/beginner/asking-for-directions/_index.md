@@ -6,7 +6,7 @@ weight: 4
 
 # 4. Asking for Directions – Navigating Italy Like a Pro 🗺️🇮🇹  
 
-![Asking for Directions](/images/beginner-level/asking-for-directions/asking-for-directions.webp)
+![Asking for Directions](/images/beginner/asking-for-directions/asking-for-directions.webp)
 
 Lost in an Italian maze of cobblestone streets? Fear not! Whether you're searching for the nearest *gelateria*, a hidden piazza, or just trying to make it back to your hotel, this lesson will teach you how to confidently ask for directions (and maybe even understand the answers).
 

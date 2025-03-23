@@ -6,7 +6,7 @@ weight: 12
 
 # Describing Weather – Talking About the Sky Like a True Italian ☀️🌧️❄️  
 
-![Describing Weather](/images/beginner-level/describing-weather/describing-weather.webp)
+![Describing Weather](/images/beginner/describing-weather/describing-weather.webp)
 
 Want to **sound like a real Italian** when making small talk? There’s no better way than **discussing the weather**—a **timeless**, **safe**, and **endlessly dramatic** topic! Whether it's sunny, raining, or snowing, Italians always have something to say about it (usually with hand gestures).  
 

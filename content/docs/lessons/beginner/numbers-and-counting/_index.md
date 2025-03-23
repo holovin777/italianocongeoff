@@ -6,7 +6,7 @@ weight: 6
 
 # 6. Numbers and Counting – From Zero to Hero (and Maybe 100!) 🔢🇮🇹  
 
-![Numbers and Counting](/images/beginner-level/numbers-and-counting/numbers-and-counting.webp)
+![Numbers and Counting](/images/beginner/numbers-and-counting/numbers-and-counting.webp)
 
 Numbers are everywhere—markets, restaurants, and even on the train when Geoff realizes he’s sitting in carriage 12 instead of 2. Mastering Italian numbers is more than just math; it’s the key to navigating daily life with confidence (and avoiding accidental over-purchases).
 

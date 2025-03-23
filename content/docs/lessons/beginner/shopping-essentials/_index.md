@@ -6,7 +6,7 @@ weight: 5
 
 # 5. Shopping Essentials – Navigating Italy’s Markets and Boutiques 🛍️💶  
 
-![Shopping Essentials](/images/beginner-level/shopping-essentials/shopping-essentials.webp)
+![Shopping Essentials](/images/beginner/shopping-essentials/shopping-essentials.webp)
 
 Shopping in Italy isn’t just about buying things—it’s an art form! From vibrant outdoor markets to charming boutiques, this lesson will arm you with the phrases, confidence, and a touch of humor you’ll need to shop like a local (or at least not overpay for those tomatoes).
 

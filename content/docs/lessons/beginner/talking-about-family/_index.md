@@ -4,7 +4,7 @@ description: "Learn how to introduce your Italian family members without acciden
 weight: 9
 ---
 
-![Talking About Family](/images/beginner-level/talking-about-family/talking-about-family.webp)
+![Talking About Family](/images/beginner/talking-about-family/talking-about-family.webp)
 
 # Talking About Family – Meet the Nonna, Zio, and Everyone In Between! 👨‍👩‍👧‍👦🇮🇹  
 
