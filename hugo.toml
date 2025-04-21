@@ -1,6 +1,7 @@
 baseURL = 'https://italianocongeoff.vercel.app/'
 languageCode = 'en-us'
 title = 'Italiano con Geoff'
+theme = "hugo-book"
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
