@@ -71,8 +71,6 @@ Small talk is **the glue of Italian social life**. Whether you’re waiting for 
 
 Start with **Lesson 11.1** and learn the best small talk phrases:  
 
-- [Lesson 11.1: Common Small Talk Phrases – Mastering Casual Conversations](./lesson11.1/)  
-- [Lesson 11.2: Talking About Hobbies and Interests – Finding Common Ground](./lesson11.2/)  
-- [Lesson 11.3: Compliments and Politeness – Winning Hearts with Words](./lesson11.3/)  
+- [Lesson 11.1: Common Small Talk Phrases – Mastering Casual Conversations](./lesson11-1/)  
 
 ✨ **Let’s break the ice—Italian style! Buona conversazione!** 🗣️🇮🇹  

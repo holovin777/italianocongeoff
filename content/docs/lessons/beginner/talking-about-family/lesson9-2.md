@@ -93,6 +93,6 @@ When describing more than one family member, make sure to adjust the adjective a
 
 ## What’s Next?  
 
-Now that you’ve mastered describing your family, let’s see how you do in the wild! Head over to [**Exercise 9.2: Family Descriptions – Tall, Short, and Everything in Between**](../exercise9.2/) and practice using those adjectives like a pro.
+Now that you’ve mastered describing your family, let’s see how you do in the wild! Head over to [**Exercise 9.2: Family Descriptions – Tall, Short, and Everything in Between**](../exercise9-2/) and practice using those adjectives like a pro.
 
 ✨ **Bravissimo! Soon, you’ll be the master of family storytelling in Italian. Buona fortuna!** 🎉  

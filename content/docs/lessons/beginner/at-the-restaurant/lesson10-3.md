@@ -94,6 +94,6 @@ By the end of this lesson, you’ll be able to:
 
 ## Ready to Test Your Etiquette Knowledge?  
 
-Head over to [**Exercise 10.3: Do’s and Don’ts of Italian Dining**](../exercise10.3/) and make sure you don’t accidentally **ask for pineapple on your pizza**!  
+Head over to [**Exercise 10.3: Do’s and Don’ts of Italian Dining**](../exercise10-3/) and make sure you don’t accidentally **ask for pineapple on your pizza**!  
 
 ✨ **Bravo! Now you can eat like a true Italian—without breaking any sacred food rules. Buon appetito!** 🇮🇹🍝  

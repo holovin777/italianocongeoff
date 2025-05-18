@@ -97,6 +97,6 @@ Use these phrases to describe what your family does:
 
 ## What’s Next?  
 
-Now that you know how to talk about your family traditions, it’s time to practice! Head over to [**Exercise 9.3: Family Traditions – From Pasta to Parties**](../exercise9.3/) and see how well you can describe your family’s special moments.
+Now that you know how to talk about your family traditions, it’s time to practice! Head over to [**Exercise 9.3: Family Traditions – From Pasta to Parties**](../exercise9-3/) and see how well you can describe your family’s special moments.
 
 ✨ **Fantastico! Soon you’ll be sharing your family traditions like a true Italian. Buona fortuna!** 🎉  

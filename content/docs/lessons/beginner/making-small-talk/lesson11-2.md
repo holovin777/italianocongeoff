@@ -122,6 +122,6 @@ Once you know someone’s interests, you can find things in common:
 
 Next, practice talking about your hobbies with:
 
-- [Exercise 11.2: Sharing Your Hobbies and Interests](../exercise11.2/)
+- [Exercise 11.2: Sharing Your Hobbies and Interests](../exercise11-2/)
 
 ✨ **Keep chatting and discovering new interests—buona conversazione!** 🇮🇹🎉

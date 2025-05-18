@@ -77,6 +77,6 @@ If you want to chat (or complain) about the weather, here are some useful questi
 
 Now, test your knowledge with **Exercise 12.3**!  
 
-👉 **[Exercise 12.3: Describing Extreme Weather](../exercise12.3/)**  
+👉 **[Exercise 12.3: Describing Extreme Weather](../exercise12-3/)**  
 
 ⛈️🔥❄️ **Buona fortuna e non scioglierti sotto il sole!** 🇮🇹🎉  

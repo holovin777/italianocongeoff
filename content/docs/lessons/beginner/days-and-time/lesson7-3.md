@@ -70,6 +70,6 @@ Try these activities:
 
 ## Ready for More?  
 
-Head over to [Exercise 7.3: Scheduling Practice](../exercise7.3/) to test your skills and start planning your week in Italian!  
+Head over to [Exercise 7.3: Scheduling Practice](../exercise7-3/) to test your skills and start planning your week in Italian!  
 
 ✨ **Bravo! You’re one step closer to mastering Italian scheduling. Buona fortuna!** 🌟  

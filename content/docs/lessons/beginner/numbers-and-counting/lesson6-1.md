@@ -99,6 +99,6 @@ Try counting out loud and using these numbers in practical situations:
 
 ## Ready for More?  
 
-Head over to [Exercise 6.1: Counting Practice](../exercise6.1/) to test your skills!  
+Head over to [Exercise 6.1: Counting Practice](../exercise6-1/) to test your skills!  
 
 ✨ **Bravo! You’re one step closer to mastering Italian numbers. Buona fortuna!** 🌟  

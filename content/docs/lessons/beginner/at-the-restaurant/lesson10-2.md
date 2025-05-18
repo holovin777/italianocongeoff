@@ -89,6 +89,6 @@ Try these exercises to make sure you can handle *il conto* like a true Italian:
 
 ## Ready to Test Your Knowledge?  
 
-Head over to [**Exercise 10.2: Paying the Bill Like a Pro**](../exercise10.2/) and see if you can **avoid bill-related confusion**!  
+Head over to [**Exercise 10.2: Paying the Bill Like a Pro**](../exercise10-2/) and see if you can **avoid bill-related confusion**!  
 
 ✨ **Bravo! Now you’ll never get stuck waiting for the check again. Buon viaggio!** 💶🇮🇹  

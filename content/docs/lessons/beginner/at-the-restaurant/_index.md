@@ -66,8 +66,6 @@ Here are some essential phrases to help you **survive and thrive** in an Italian
 ## What’s Next?  
 
 Ready to impress Italian waiters with your ordering skills? Get started with:  
-- [Lesson 10.1: Ordering Like a Local – From Antipasto to Dolce](./lesson10.1/)  
-- [Lesson 10.2: Handling the Bill – The Art of *Il Conto*](./lesson10.2/)  
-- [Lesson 10.3: Restaurant Scenarios – What Could Possibly Go Wrong?](./lesson10.3/)  
+- [Lesson 10.1: Ordering Like a Local – From Antipasto to Dolce](./lesson10-1/)  
 
 ✨ **Buon appetito!** 🍽️🇮🇹  

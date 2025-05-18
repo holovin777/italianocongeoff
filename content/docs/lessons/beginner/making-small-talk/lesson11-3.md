@@ -115,6 +115,6 @@ Here’s how to say **yes** (or politely say no without hurting feelings):
 ## **Ready for More Weekend Conversations?**  
 
 Next, test your skills with:  
-- [Exercise 11.3: Planning the Perfect Weekend](../exercise11.3/)  
+- [Exercise 11.3: Planning the Perfect Weekend](../exercise11-3/)  
 
 ✨ **Buon fine settimana! Enjoy your weekend!** 🇮🇹🎉  
