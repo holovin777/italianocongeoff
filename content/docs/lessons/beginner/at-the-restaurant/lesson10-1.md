@@ -93,6 +93,6 @@ Try these exercises to practice your ordering skills:
 
 ## Ready to Put Your Ordering Skills to the Test?  
 
-Great job! Now, let’s make sure you’ve mastered these phrases before we move on. Head over to [**Exercise 10.1: Ordering Like a Local – From Antipasto to Dolce**](../exercise10.1/) and test yourself!  
+Great job! Now, let’s make sure you’ve mastered these phrases before we move on. Head over to [**Exercise 10.1: Ordering Like a Local – From Antipasto to Dolce**](../exercise10-1/) and test yourself!  
 
 ✨ **Buon appetito!** 🍽️🇮🇹  

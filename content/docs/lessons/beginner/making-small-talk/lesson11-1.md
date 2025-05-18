@@ -87,6 +87,6 @@ Need an icebreaker? Try one of these:
 ## **Ready for More Small Talk?**  
 
 Up next, test your conversation skills with:  
-- [Exercise 11.1: Mastering Small Talk – Essential Phrases and Scenarios](../exercise11.1/)  
+- [Exercise 11.1: Mastering Small Talk – Essential Phrases and Scenarios](../exercise11-1/)  
 
 ✨ **Keep chatting and keep learning—buona conversazione!** 🇮🇹🎉  

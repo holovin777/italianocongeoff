@@ -45,8 +45,6 @@ Viktor says:
 
 Ready to meet the famiglia? Dive into these lessons and start introducing your *parenti* (relatives) like a pro:  
 
-- [Lesson 9.1: Meet the Family – Names and Relationships](./lesson9.1/)  
-- [Lesson 9.2: Describing Your Family – From Tall Uncles to Friendly Cousins](./lesson9.2/)  
-- [Lesson 9.3: Surviving Italian Family Gatherings – Tips, Tricks, and Pasta Overload](./lesson9.3/)  
+- [Lesson 9.1: Meet the Family – Names and Relationships](./lesson9-1/)  
 
 ✨ **Let’s bring the whole famiglia together—Buona fortuna!** 🎉  

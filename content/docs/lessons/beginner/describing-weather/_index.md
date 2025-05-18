@@ -48,6 +48,6 @@ Geoff, take notes! ☕🌦️
 
 Jump into **Lesson 12.1** to get started:  
 
-- [Lesson 12.1: Basic Weather Phrases – Sun, Rain, and Everything in Between](./lesson12.1/)  
+- [Lesson 12.1: Basic Weather Phrases – Sun, Rain, and Everything in Between](./lesson12-1/)  
 
 🌤️ **Let’s talk about the weather—Italian style!** 🇮🇹☂️  

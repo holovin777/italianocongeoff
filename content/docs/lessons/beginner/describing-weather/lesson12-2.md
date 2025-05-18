@@ -86,6 +86,6 @@ If you want to chat about the seasons, here are some useful questions:
 
 Now, test your knowledge with **Exercise 12.2**!  
 
-👉 **[Exercise 12.2: Talking About the Seasons](../exercise12.2/)**  
+👉 **[Exercise 12.2: Talking About the Seasons](../exercise12-2/)**  
 
 🌦️❄️☀️ **Buona fortuna!** 🇮🇹🎉  

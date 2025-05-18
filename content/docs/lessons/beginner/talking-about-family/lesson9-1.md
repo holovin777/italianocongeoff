@@ -86,6 +86,6 @@ Here’s a list of the most common family members in Italian. Memorize these and
 
 ## What’s Next?  
 
-Now that you’ve met the family, it’s time to put your knowledge to the test! Head over to [**Exercise 9.1: Family Ties – Introducing Your Famiglia**](../exercise9.1/) and see how well you can introduce your Italian family.  
+Now that you’ve met the family, it’s time to put your knowledge to the test! Head over to [**Exercise 9.1: Family Ties – Introducing Your Famiglia**](../exercise9-1/) and see how well you can introduce your Italian family.  
 
 ✨ **Bravissimo! Soon, you’ll be the life of the family gathering. Buona fortuna!** 🎉  

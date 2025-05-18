@@ -98,6 +98,6 @@ Try these exercises:
 
 ## Ready for More?  
 
-Test your skills with [Exercise 7.2: Telling Time Practice](../exercise7.2/).  
+Test your skills with [Exercise 7.2: Telling Time Practice](../exercise7-2/).  
 
 ✨ **Bravo! You’re on your way to mastering the clock in Italian. Buona fortuna!** 🌟  

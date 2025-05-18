@@ -75,6 +75,6 @@ Italians **love** reacting dramatically to the weather. Here’s how you can too
 
 Before you move on, practice your weather skills with **Exercise 12.1**:  
 
-👉 **[Exercise 12.1: Talking About the Weather](../exercise12.1/)**  
+👉 **[Exercise 12.1: Talking About the Weather](../exercise12-1/)**  
 
 ☀️🌦️❄️ **Buon apprendimento!** 🇮🇹🎉  

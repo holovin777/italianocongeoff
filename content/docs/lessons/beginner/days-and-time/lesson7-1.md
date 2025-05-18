@@ -82,6 +82,6 @@ Try these exercises:
 
 ## Ready for More?  
 
-Head over to [Exercise 7.1: Days of the Week Practice](../exercise7.1/) to test your knowledge and sharpen your skills!  
+Head over to [Exercise 7.1: Days of the Week Practice](../exercise7-1/) to test your knowledge and sharpen your skills!  
 
 ✨ **Bravo! You’ve taken the first step to mastering Italian scheduling. Buona fortuna!** 🌟  

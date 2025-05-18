@@ -43,8 +43,6 @@ Viktor says:
 
 Dive into the nitty-gritty of Italian days and time with these lessons:  
 
-- [**Lesson 7.1: Days of the Week – Your Weekly Guide in Italian**](./lesson7.1/)  
-- [**Lesson 7.2: Telling Time – From Sunrise to Aperitivo Hour**](./lesson7.2/)  
-- [**Lesson 7.3: Combining Days and Times – Scheduling Like a Local**](./lesson7.3/)  
+- [**Lesson 7.1: Days of the Week – Your Weekly Guide in Italian**](./lesson7-1/)  
 
 ✨ **Let’s make time for Italian! Buona fortuna!** 🌟
