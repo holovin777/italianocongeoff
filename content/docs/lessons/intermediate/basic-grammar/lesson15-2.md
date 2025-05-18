@@ -114,4 +114,4 @@ Here are four of the most common irregular verbs in the present tense:
 
 ---
 
-> Coming up next: [Exercise 15.2](../exercise15.2/) — Let’s tame these wild verbs one by one.
+> Coming up next: [Exercise 15.2](../exercise15-2/) — Let’s tame these wild verbs one by one.
