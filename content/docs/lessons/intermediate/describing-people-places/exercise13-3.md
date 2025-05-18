@@ -86,7 +86,7 @@ Imagine you're in a sunny Italian piazza. Describe:
 
 1. V  
 2. F  
-3. F (it's invariable)  
+3. V
 4. F (bello = beautiful)  
 5. V
 
