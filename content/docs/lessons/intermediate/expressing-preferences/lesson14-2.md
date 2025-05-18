@@ -58,12 +58,16 @@ In this lesson, you’ll learn to express your **preferences** like a real Itali
 ## Viktor & Geoff Make a Choice 🎭
 
 **Geoff:** Preferisci la pizza o la pasta?  
+**Geoff:** Do you prefer pizza or pasta?
 **Viktor:** Preferisco... *entrambe*!  
+**Viktor:** I prefer... both!
 **Geoff:** Non vale! Io preferisco la pizza.  
+**Geoff:** That’s cheating! I pick pizza.
 **Viktor:** E io preferisco il caffè.
+**Viktor:** And I pick coffee — because it goes well with everything.
 
 Conclusion: Everyone wins if there’s coffee.
 
 ---
 
-> Coming up next: [Exercise 14.2](../exercise14.2/) – Time to choose your favorites and see where your true Italian heart lies.
+> Coming up next: [Exercise 14.2](../exercise14-2/) – Time to choose your favorites and see where your true Italian heart lies.

@@ -53,4 +53,4 @@ Try describing someone you know. (Yes, even your neighbour who waters the plants
 
 ---
 
-🎯 **Ready to practice?** Head over to the [exercise](../exercise13.1) and put those adjectives to work!
+🎯 **Ready to practice?** Head over to the [exercise](../exercise13-1) and put those adjectives to work!

@@ -67,4 +67,4 @@ Try changing **one adjective** in each sentence to see how it changes the meanin
 
 ---
 
-> Coming up next: [Exercise 13.3](../exercise13.3.md) — A final review to test your skills with people, places, and possibly pizza.
+> Coming up next: [Exercise 13.3](../exercise13-3.md) — A final review to test your skills with people, places, and possibly pizza.

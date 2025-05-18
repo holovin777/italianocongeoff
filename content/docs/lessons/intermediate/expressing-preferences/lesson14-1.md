@@ -63,4 +63,4 @@ As you can see, opinions vary. And that’s okay — even among espresso lovers.
 
 ---
 
-> Coming up next: [Exercise 14.1](../exercise14.1/) — Let’s find out what *you* like. (And practice those sneaky verb forms!)
+> Coming up next: [Exercise 14.1](../exercise14-1/) — Let’s find out what *you* like. (And practice those sneaky verb forms!)

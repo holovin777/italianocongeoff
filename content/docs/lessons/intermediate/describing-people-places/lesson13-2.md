@@ -59,4 +59,4 @@ Want to sound authentic? Try adding flair:
 
 ---
 
-> Coming up: [Exercise 13.2](../exercise13.2/) — Time to describe places like a true Italian (hand gestures optional).
+> Coming up: [Exercise 13.2](../exercise13-2/) — Time to describe places like a true Italian (hand gestures optional).

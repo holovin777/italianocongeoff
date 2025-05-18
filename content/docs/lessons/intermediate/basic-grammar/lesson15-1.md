@@ -93,4 +93,4 @@ And don’t worry — these ones follow the rules. Enjoy it while it lasts.
 
 ---
 
-> Coming up next: [Exercise 15.1](../exercise15.1/) — Finally, grammar practice that won’t hurt your brain.
+> Coming up next: [Exercise 15.1](../exercise15-1/) — Finally, grammar practice that won’t hurt your brain.
