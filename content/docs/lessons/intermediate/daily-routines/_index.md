@@ -21,7 +21,7 @@ You'll learn how to:
 
 ---
 
-![describing-people-and-places](/images/intermediate/daily-routines/daily-routines.webp/)
+![describing-people-and-places](/images/intermediate/daily-routines/daily-routines.png/)
 
 ---
 
