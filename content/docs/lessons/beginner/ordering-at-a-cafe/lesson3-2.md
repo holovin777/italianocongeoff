@@ -85,6 +85,6 @@ Here are a few ways to practice:
 
 ## What’s Next?  
 
-Put your new skills into practice with [Exercise 3.2: Café Conversations Practice](../exercise3.2/).  
+Put your new skills into practice with [Exercise 3.2: Café Conversations Practice](../exercise3-2/).  
 
 ✨ **Bravo! Now you’re ready to charm your way through any Italian café. Buona fortuna!** 🌟  

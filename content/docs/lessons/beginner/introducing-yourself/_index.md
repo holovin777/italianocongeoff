@@ -44,7 +44,7 @@ Pro Tip: Italians love it when you ask about them! Practice saying *E tu?* (And 
 ## What’s Next?  
 
 Dive into the lessons and exercises to become a master of introductions:  
-- [Lesson 2.1: How to Say Your Name](./lesson2.1/)  
-- [Lesson 2.2: Talking About Your Hobbies and Interests](./lesson2.2/)  
+- [Lesson 2.1: How to Say Your Name](./lesson2-1/)  
+- [Lesson 2.2: Talking About Your Hobbies and Interests](./lesson2-2/)  
 
 ✨ **Ready to meet someone new? Let’s get started!** 🎉  
