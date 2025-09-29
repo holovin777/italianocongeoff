@@ -72,6 +72,6 @@ Here’s how you can practice:
 
 ## Ready to Test Your Skills?  
 
-Head over to [Exercise 3.1: Ordering at a Café Practice](../exercise3.1/) and put your new phrases to the test!  
+Head over to [Exercise 3.1: Ordering at a Café Practice](../exercise3-1/) and put your new phrases to the test!  
 
 ✨ **Buona fortuna e buon caffè!** ☕  

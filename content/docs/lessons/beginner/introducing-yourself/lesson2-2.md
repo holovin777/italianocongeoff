@@ -88,6 +88,6 @@ Here are some scenarios to help you practice:
 
 ## What’s Next?  
 
-Test your skills with [Exercise 2.2: Talking About Your Hobbies and Interests](../exercise2.2/) and explore fun ways to talk about your favorite activities.  
+Test your skills with [Exercise 2.2: Talking About Your Hobbies and Interests](../exercise2-2/) and explore fun ways to talk about your favorite activities.  
 
 ✨ **Keep practicing and have fun sharing your interests in Italian! Buona fortuna!** 🌟  

@@ -43,6 +43,6 @@ Viktor says:
 ## What’s Next?  
 
 Ready to jump into the caffeinated adventure? Start with **Lesson 3.1** and learn how to confidently navigate any Italian café:  
-- [Lesson 3.1: Ordering at a Café – Key Phrases and Scenarios](./lesson3.1/)  
+- [Lesson 3.1: Ordering at a Café – Key Phrases and Scenarios](./lesson3-1/)  
 
 ✨ **Grab your cup and let’s get started! Buona fortuna e buon caffè!** ☕  

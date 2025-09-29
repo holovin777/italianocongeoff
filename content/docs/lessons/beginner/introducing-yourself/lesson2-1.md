@@ -69,6 +69,6 @@ Try these phrases with friends or family:
 
 ## Ready to Practice?  
 
-Head over to [Exercise 2.1: Introducing Yourself Practice](../exercise2.1/) and put your skills to the test!  
+Head over to [Exercise 2.1: Introducing Yourself Practice](../exercise2-1/) and put your skills to the test!  
 
 ✨ **Buona fortuna!** 🌟  
