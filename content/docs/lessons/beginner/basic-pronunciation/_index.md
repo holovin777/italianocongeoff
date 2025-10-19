@@ -45,10 +45,10 @@ Viktor says:
 
 Each lesson focuses on one aspect of Italian pronunciation, breaking it down into manageable steps:  
 
-- [**Lesson 8.1: Vowels – Your Italian Foundation**](./lesson8.1/)  
-- [**Lesson 8.2: Consonants – Mastering Italian Sounds**](./lesson8.2/)  
-- [**Lesson 8.3: Double Trouble – Navigating Double Consonants**](./lesson8.3/)  
-- [**Lesson 8.4: Rolling Your R – The Ultimate Italian Flair**](./lesson8.4/)  
+- [**Lesson 8.1: Vowels – Your Italian Foundation**](./lesson8-1/)  
+- [**Lesson 8.2: Consonants – Mastering Italian Sounds**](./lesson8-2/)  
+- [**Lesson 8.3: Double Trouble – Navigating Double Consonants**](./lesson8-3/)  
+- [**Lesson 8.4: Rolling Your R – The Ultimate Italian Flair**](./lesson8-4/)  
 
 ---
 

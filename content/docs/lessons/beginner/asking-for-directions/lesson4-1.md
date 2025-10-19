@@ -74,6 +74,6 @@ Try using these phrases in different scenarios:
 
 ## Ready to Test Your Skills?  
 
-Head over to [Exercise 4.1: Asking Directions Practice](../exercise4.1/) and put your new knowledge into action!  
+Head over to [Exercise 4.1: Asking Directions Practice](../exercise4-1/) and put your new knowledge into action!  
 
 ✨ **Buona fortuna e buon viaggio!** 🌟  

@@ -75,6 +75,6 @@ Use these when speaking to strangers, elders, or in professional settings:
 
 ## Ready to Practice?  
 
-Put your new skills to the test with [Exercise 1.2: Practice Farewells](../exercise1.2/), and see how many ways you can master saying goodbye!  
+Put your new skills to the test with [Exercise 1.2: Practice Farewells](../exercise1-2/), and see how many ways you can master saying goodbye!  
 
 ✨ **Arrivederci e buona fortuna!** 🌟  

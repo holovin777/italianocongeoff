@@ -43,7 +43,7 @@ Viktor says:
 ## What’s Next?  
 
 Ready to navigate Italy like a local? Start with **Lesson 4.1** and learn the basics of asking and giving directions:  
-- [Lesson 4.1: Key Phrases for Asking Directions](./lesson4.1/)  
-- [Lesson 4.2: Understanding Italian Responses](./lesson4.2/)  
+- [Lesson 4.1: Key Phrases for Asking Directions](./lesson4-1/)  
+- [Lesson 4.2: Understanding Italian Responses](./lesson4-2/)  
 
 ✨ **Let’s get moving! Buona fortuna e buon viaggio!** 🚶‍♂️  

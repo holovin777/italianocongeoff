@@ -77,6 +77,6 @@ Use these phrases in the following scenarios:
 
 ## Ready to Test Your Skills?  
 
-Head over to [Exercise 5.1: Shopping Essentials Practice](../exercise5.1/) to see how much you’ve learned!  
+Head over to [Exercise 5.1: Shopping Essentials Practice](../exercise5-1/) to see how much you’ve learned!  
 
 ✨ **Bravo! You’re one step closer to becoming a shopping pro in Italy. Buona fortuna!** 🛍️  

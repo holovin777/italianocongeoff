@@ -43,8 +43,8 @@ Viktor says:
 ## What’s Next?  
 
 Ready to shop till you drop? Start with **Lesson 5.1** for the essential phrases:  
-- [Lesson 5.1: Shopping Essentials – Key Phrases and Scenarios](./lesson5.1/)  
-- [Lesson 5.2: Market Magic – Navigating Italian Markets](./lesson5.2/)  
-- [Lesson 5.3: Boutique Basics – Polishing Your Shopping Skills](./lesson5.3/)  
+- [Lesson 5.1: Shopping Essentials – Key Phrases and Scenarios](./lesson5-1/)  
+- [Lesson 5.2: Market Magic – Navigating Italian Markets](./lesson5-2/)  
+- [Lesson 5.3: Boutique Basics – Polishing Your Shopping Skills](./lesson5-3/)  
 
 ✨ **Let’s hit the markets! Buona spesa!** 🛍️  

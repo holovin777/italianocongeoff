@@ -80,6 +80,6 @@ Here are some scenarios to help you practice festive greetings:
 
 ## What’s Next?  
 
-Celebrate your progress by trying [Exercise 1.3: Festive Greetings](../exercise1.3/), then move on to more exciting lessons.  
+Celebrate your progress by trying [Exercise 1.3: Festive Greetings](../exercise1-3/), then move on to more exciting lessons.  
 
 ✨ **Buona fortuna e tanti auguri!** 🌟  

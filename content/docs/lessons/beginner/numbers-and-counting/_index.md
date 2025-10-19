@@ -43,8 +43,8 @@ Viktor says:
 ## What’s Next?  
 
 Ready to start your numerical journey? Begin with **Lesson 6.1**, where you’ll learn the foundation:  
-- [Lesson 6.1: Numbers 0–20 – The Building Blocks of Counting](./lesson6.1/)  
-- [Lesson 6.2: Counting to 100 – Double Digits Made Easy](./lesson6.2/)  
-- [Lesson 6.3: Dates and Times – Numbers in Action](./lesson6.3/)  
+- [Lesson 6.1: Numbers 0–20 – The Building Blocks of Counting](./lesson6-1/)  
+- [Lesson 6.2: Counting to 100 – Double Digits Made Easy](./lesson6-2/)  
+- [Lesson 6.3: Dates and Times – Numbers in Action](./lesson6-3/)  
 
 ✨ **Let’s count together! Uno, due, tre… Buona fortuna!** 🎉  

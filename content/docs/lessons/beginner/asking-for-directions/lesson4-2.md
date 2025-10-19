@@ -69,6 +69,6 @@ Try to interpret these responses:
 
 ## Ready to Test Your Skills?  
 
-Head over to [Exercise 4.2: Understanding Italian Directions Practice](../exercise4.2/) to try out your new knowledge!  
+Head over to [Exercise 4.2: Understanding Italian Directions Practice](../exercise4-2/) to try out your new knowledge!  
 
 ✨ **Buona fortuna e buon viaggio!** 🌟  
