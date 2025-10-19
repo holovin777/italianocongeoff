@@ -88,6 +88,6 @@ Use these phrases in the following scenarios:
 
 ## Ready to Test Your Skills?  
 
-Head over to [Exercise 5.3: Boutique Shopping Practice](../exercise5.3/) to refine your boutique skills!  
+Head over to [Exercise 5.3: Boutique Shopping Practice](../exercise5-3/) to refine your boutique skills!  
 
 ✨ **Bravo! Now you’re ready to shop in style. Buona fortuna!** 👜  

@@ -85,6 +85,6 @@ By the end of this lesson, you’ll be able to:
 
 ## Ready for More?  
 
-Head over to [Exercise 8.2: Consonant Practice](../exercise8.2/) and put your skills to the test!  
+Head over to [Exercise 8.2: Consonant Practice](../exercise8-2/) and put your skills to the test!  
 
 ✨ **Bravissimo! Soon you’ll pronounce Italian words like a true maestro. Buona fortuna!** 🌟  

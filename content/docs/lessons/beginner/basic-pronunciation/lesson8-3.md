@@ -87,6 +87,6 @@ Double consonants make a difference! Italians can hear the subtle elongation, an
 
 ## Ready for More?  
 
-Put your skills to the test with [Exercise 8.3: Double Consonant Practice](../exercise8.3/).  
+Put your skills to the test with [Exercise 8.3: Double Consonant Practice](../exercise8-3/).  
 
 ✨ **Bravo! With a little practice, you’ll master double consonants and sound like a true Italian. Buona fortuna!** 🌟  

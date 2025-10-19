@@ -79,6 +79,6 @@ In this lesson, you’ll master:
 
 ## Next Steps  
 
-Test your knowledge with [Exercise 1.1: Hello and Goodbye – The Essentials](../exercise1.1/), then move on to [Lesson 1.2: How to Say Farewell Without Sounding Rude](../lesson1.2/).  
+Test your knowledge with [Exercise 1.1: Hello and Goodbye – The Essentials](../exercise1-1/), then move on to [Lesson 1.2: How to Say Farewell Without Sounding Rude](../lesson1-2/).  
 
 ✨ **Buona fortuna!** 🌟  

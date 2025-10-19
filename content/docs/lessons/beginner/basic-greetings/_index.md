@@ -35,8 +35,8 @@ Knowing how to greet someone the Italian way is your gateway to blending in like
 
 ## Lessons in This Section  
 
-1. [**Lesson 1.1: Hello and Goodbye – The Essentials**](./lesson1.1/)  
-2. [**Lesson 1.2: How to Say Farewell Without Sounding Rude**](./lesson1.2/)  
+1. [**Lesson 1.1: Hello and Goodbye – The Essentials**](./lesson1-1/)  
+2. [**Lesson 1.2: How to Say Farewell Without Sounding Rude**](./lesson1-2/)  
 
 ---
 

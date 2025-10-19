@@ -87,6 +87,6 @@ Try using these phrases in the following scenarios:
 
 ## Ready to Test Your Skills?  
 
-Head over to [Exercise 5.2: Market Magic Practice](../exercise5.2/) and test your market mastery!  
+Head over to [Exercise 5.2: Market Magic Practice](../exercise5-2/) and test your market mastery!  
 
 ✨ **Bravo! You’re on your way to becoming a market magician. Buona fortuna!** 🛍️  

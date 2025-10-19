@@ -83,6 +83,6 @@ Try these exercises to practice Italian vowels:
 
 ## Ready for More?  
 
-Head over to [Exercise 8.1: Vowel Practice](../exercise8.1/) to test your skills and become a vowel master!  
+Head over to [Exercise 8.1: Vowel Practice](../exercise8-1/) to test your skills and become a vowel master!  
 
 ✨ **Bravo! You’re one step closer to sounding like a true Italian. Buona fortuna!** 🌟  
