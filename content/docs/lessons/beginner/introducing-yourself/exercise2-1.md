@@ -64,10 +64,10 @@ Match the Italian phrase to its correct meaning or situation.
 4. **Sono di Padova.**  
 5. **Come ti chiami?**  
 
-A) Casual greeting and name introduction  
-B) Formal way to ask someone’s name  
-C) Polite response to an introduction (informal)  
-D) I’m from Padua
+A) Formal way to ask someone’s name  
+B) Polite response to an introduction (informal)  
+C) I’m from Padua  
+D) Casual greeting and name introduction  
 E) Informal way to ask someone’s name  
 
 ---

@@ -1,396 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>6. Numbers and Counting on Italiano con Geoff</title><link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/</link><description>Recent content in 6. Numbers and Counting on Italiano con Geoff</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/lessons/beginner/numbers-and-counting/index.xml" rel="self" type="application/rss+xml"/><item><title>Lesson 6.1: Numbers 0–20 – The Foundation of Counting</title><link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-1/</guid><description>&lt;h1 id="lesson-61-numbers-020--the-foundation-of-counting-">Lesson 6.1: Numbers 0–20 – The Foundation of Counting 🔢&lt;/h1>
-&lt;p>Welcome to the world of Italian numbers! In this lesson, you’ll master the basics and set the stage for navigating everything from ordering one espresso (&lt;em>un caffè&lt;/em>) to counting how many gelatos Geoff has eaten (spoiler: it’s more than three).&lt;/p>
-&lt;hr>
-&lt;h2 id="what-youll-learn">What You’ll Learn&lt;/h2>
-&lt;p>By the end of this lesson, you’ll be able to:&lt;/p>
-&lt;ul>
-&lt;li>Count from 0 to 20 in Italian.&lt;/li>
-&lt;li>Recognize Italian numbers in everyday situations.&lt;/li>
-&lt;li>Use numbers to impress your Italian-speaking friends (or Viktor, who loves precision).&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="numbers-020">Numbers 0–20&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Number&lt;/th>
- &lt;th>Italian&lt;/th>
- &lt;th>English&lt;/th>
- &lt;th>Pronunciation&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>0&lt;/td>
- &lt;td>Zero&lt;/td>
- &lt;td>Zero&lt;/td>
- &lt;td>ZEH-roh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>1&lt;/td>
- &lt;td>Uno&lt;/td>
- &lt;td>One&lt;/td>
- &lt;td>OO-noh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2&lt;/td>
- &lt;td>Due&lt;/td>
- &lt;td>Two&lt;/td>
- &lt;td>DOO-eh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>3&lt;/td>
- &lt;td>Tre&lt;/td>
- &lt;td>Three&lt;/td>
- &lt;td>TREH&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>4&lt;/td>
- &lt;td>Quattro&lt;/td>
- &lt;td>Four&lt;/td>
- &lt;td>KWAH-troh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>5&lt;/td>
- &lt;td>Cinque&lt;/td>
- &lt;td>Five&lt;/td>
- &lt;td>CHEEN-kweh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>6&lt;/td>
- &lt;td>Sei&lt;/td>
- &lt;td>Six&lt;/td>
- &lt;td>SEH-ee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>7&lt;/td>
- &lt;td>Sette&lt;/td>
- &lt;td>Seven&lt;/td>
- &lt;td>SEHT-teh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>8&lt;/td>
- &lt;td>Otto&lt;/td>
- &lt;td>Eight&lt;/td>
- &lt;td>OHT-toh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>9&lt;/td>
- &lt;td>Nove&lt;/td>
- &lt;td>Nine&lt;/td>
- &lt;td>NOH-veh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>10&lt;/td>
- &lt;td>Dieci&lt;/td>
- &lt;td>Ten&lt;/td>
- &lt;td>DYAY-chee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>11&lt;/td>
- &lt;td>Undici&lt;/td>
- &lt;td>Eleven&lt;/td>
- &lt;td>OON-dee-chee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>12&lt;/td>
- &lt;td>Dodici&lt;/td>
- &lt;td>Twelve&lt;/td>
- &lt;td>DOH-dee-chee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>13&lt;/td>
- &lt;td>Tredici&lt;/td>
- &lt;td>Thirteen&lt;/td>
- &lt;td>TREH-dee-chee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>14&lt;/td>
- &lt;td>Quattordici&lt;/td>
- &lt;td>Fourteen&lt;/td>
- &lt;td>KWAHT-tohr-dee-chee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>15&lt;/td>
- &lt;td>Quindici&lt;/td>
- &lt;td>Fifteen&lt;/td>
- &lt;td>KWEEN-dee-chee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>16&lt;/td>
- &lt;td>Sedici&lt;/td>
- &lt;td>Sixteen&lt;/td>
- &lt;td>SEH-dee-chee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>17&lt;/td>
- &lt;td>Diciassette&lt;/td>
- &lt;td>Seventeen&lt;/td>
- &lt;td>DEE-chah-SEHT-teh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>18&lt;/td>
- &lt;td>Diciotto&lt;/td>
- &lt;td>Eighteen&lt;/td>
- &lt;td>DEE-CHOHT-toh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>19&lt;/td>
- &lt;td>Diciannove&lt;/td>
- &lt;td>Nineteen&lt;/td>
- &lt;td>DEE-chah-NOH-veh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>20&lt;/td>
- &lt;td>Venti&lt;/td>
- &lt;td>Twenty&lt;/td>
- &lt;td>VEHN-tee&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="how-it-works">How It Works&lt;/h2>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;strong>Key Patterns&lt;/strong>:&lt;/p></description></item><item><title>Exercise 6.1: Numbers 0–20 Practice</title><link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-1/</guid><description>&lt;h1 id="exercise-61-numbers-020-practice-">Exercise 6.1: Numbers 0–20 Practice 🔢&lt;/h1>
-&lt;p>It’s time to practice your Italian numbers! Join Geoff as he tries to master counting with Viktor’s guidance (and occasional distractions). Let’s dive in and see how you do.&lt;/p>
-&lt;hr>
-&lt;h3 id="1-fill-in-the-blanks--complete-the-numbers">1. Fill in the Blanks – Complete the Numbers&lt;/h3>
-&lt;p>Fill in the missing Italian numbers.&lt;/p>
-&lt;ol>
-&lt;li>Uno, Due, Tre, _____, Cinque&lt;/li>
-&lt;li>_____, Otto, Nove, Dieci&lt;/li>
-&lt;li>Dodici, _____, Quattordici, _____, Sedici&lt;/li>
-&lt;li>Diciassette, _____, Diciannove, _____&lt;/li>
-&lt;/ol>
-&lt;hr>
-&lt;h3 id="2-translate-the-numbers">2. Translate the Numbers&lt;/h3>
-&lt;p>Write the Italian numbers for these English ones:&lt;/p></description></item><item><title>Lesson 6.2: Counting to 100 – Double Digits Made Easy</title><link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-2/</guid><description>&lt;h1 id="lesson-62-counting-to-100--double-digits-made-easy-">Lesson 6.2: Counting to 100 – Double Digits Made Easy 🔢&lt;/h1>
-&lt;p>Congratulations! You’ve mastered the numbers from 0 to 20. Now it’s time to level up and tackle numbers 21 to 100. Whether you’re counting euros, steps, or gelatos (again, no judgment), double digits are essential.&lt;/p>
-&lt;hr>
-&lt;h2 id="what-youll-learn">What You’ll Learn&lt;/h2>
-&lt;p>By the end of this lesson, you’ll be able to:&lt;/p>
-&lt;ul>
-&lt;li>Count from 21 to 100 in Italian.&lt;/li>
-&lt;li>Use numbers for prices, quantities, and other practical applications.&lt;/li>
-&lt;li>Sound like a pro while chatting about numbers with Viktor.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="numbers-from-21-to-29">Numbers from 21 to 29&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Tens&lt;/th>
- &lt;th>Italian&lt;/th>
- &lt;th>English&lt;/th>
- &lt;th>Pronunciation&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>21&lt;/td>
- &lt;td>Ventuno&lt;/td>
- &lt;td>Twenty-one&lt;/td>
- &lt;td>VEHN-too-no&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>22&lt;/td>
- &lt;td>Ventidue&lt;/td>
- &lt;td>Twenty-two&lt;/td>
- &lt;td>VEHN-tee-DOO-eh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>23&lt;/td>
- &lt;td>Ventitre&lt;/td>
- &lt;td>Twenty-three&lt;/td>
- &lt;td>VEHN-tee-TREH&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>24&lt;/td>
- &lt;td>Ventiquattro&lt;/td>
- &lt;td>Twenty-four&lt;/td>
- &lt;td>VEHN-tee-KWAH-troh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>25&lt;/td>
- &lt;td>Venticinque&lt;/td>
- &lt;td>Twenty-five&lt;/td>
- &lt;td>VEHN-tee-CHEEN-kweh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>26&lt;/td>
- &lt;td>Ventisei&lt;/td>
- &lt;td>Twenty-six&lt;/td>
- &lt;td>VEHN-tee-SEH-ee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>27&lt;/td>
- &lt;td>Ventisette&lt;/td>
- &lt;td>Twenty-seven&lt;/td>
- &lt;td>VEHN-tee-SEHT-teh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>28&lt;/td>
- &lt;td>Ventotto&lt;/td>
- &lt;td>Twenty-eight&lt;/td>
- &lt;td>VEHN-TOHT-toh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>29&lt;/td>
- &lt;td>Ventinove&lt;/td>
- &lt;td>Twenty-nine&lt;/td>
- &lt;td>VEHN-tee-NOH-veh&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="tens-and-multiples">Tens and Multiples&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Tens&lt;/th>
- &lt;th>Italian&lt;/th>
- &lt;th>English&lt;/th>
- &lt;th>Pronunciation&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>30&lt;/td>
- &lt;td>Trenta&lt;/td>
- &lt;td>Thirty&lt;/td>
- &lt;td>TREHN-tah&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>40&lt;/td>
- &lt;td>Quaranta&lt;/td>
- &lt;td>Forty&lt;/td>
- &lt;td>KWAHR-ahn-tah&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>50&lt;/td>
- &lt;td>Cinquanta&lt;/td>
- &lt;td>Fifty&lt;/td>
- &lt;td>CHEEN-kwahn-tah&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>60&lt;/td>
- &lt;td>Sessanta&lt;/td>
- &lt;td>Sixty&lt;/td>
- &lt;td>SEHS-sahn-tah&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>70&lt;/td>
- &lt;td>Settanta&lt;/td>
- &lt;td>Seventy&lt;/td>
- &lt;td>SEHT-tahn-tah&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>80&lt;/td>
- &lt;td>Ottanta&lt;/td>
- &lt;td>Eighty&lt;/td>
- &lt;td>OHT-tahn-tah&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>90&lt;/td>
- &lt;td>Novanta&lt;/td>
- &lt;td>Ninety&lt;/td>
- &lt;td>NOH-vahn-tah&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>100&lt;/td>
- &lt;td>Cento&lt;/td>
- &lt;td>One Hundred&lt;/td>
- &lt;td>CHEN-toh&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="how-it-works">How It Works&lt;/h2>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;strong>Combining Numbers&lt;/strong>: Italian numbers 21–99 are formed by combining the tens with the units.&lt;/p></description></item><item><title>Exercise 6.2: Double Digits Practice</title><link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-2/</guid><description>&lt;h1 id="exercise-62-double-digits-practice-">Exercise 6.2: Double Digits Practice 🔢&lt;/h1>
-&lt;p>It’s time to put your Italian counting skills to the test! In this exercise, Geoff is trying to navigate double digits with Viktor’s help (and occasional laughter). Let’s see how well you can handle these numbers.&lt;/p>
-&lt;hr>
-&lt;h3 id="1-fill-in-the-blanks--complete-the-numbers">1. Fill in the Blanks – Complete the Numbers&lt;/h3>
-&lt;p>Complete the following number sequences in Italian.&lt;/p>
-&lt;ol>
-&lt;li>Ventuno, Ventidue, Ventitre, _____, Venticinque&lt;/li>
-&lt;li>_____, Quarantadue, Quarantatre, Quarantaquattro, _____&lt;/li>
-&lt;li>Cinquanta, _____, Cinquantadue, _____, Cinquantaquattro&lt;/li>
-&lt;li>_____, Ottantacinque, _____, Ottantasette, Ottantotto&lt;/li>
-&lt;/ol>
-&lt;hr>
-&lt;h3 id="2-translate-the-numbers">2. Translate the Numbers&lt;/h3>
-&lt;p>Write the Italian words for these English numbers:&lt;/p></description></item><item><title>Lesson 6.3: Dates and Times – Making Numbers Practical</title><link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-3/</guid><description>&lt;h1 id="lesson-63-dates-and-times--making-numbers-practical-">Lesson 6.3: Dates and Times – Making Numbers Practical 🗓️⏰&lt;/h1>
-&lt;p>Now that you’re comfortable with numbers up to 100, let’s make them useful! This lesson will teach you how to use numbers for telling time, understanding dates, and sounding like a true Italian local.&lt;/p>
-&lt;hr>
-&lt;h2 id="what-youll-learn">What You’ll Learn&lt;/h2>
-&lt;p>By the end of this lesson, you’ll be able to:&lt;/p>
-&lt;ul>
-&lt;li>Talk about dates and days of the week.&lt;/li>
-&lt;li>Tell the time in Italian (and actually understand it!).&lt;/li>
-&lt;li>Impress Viktor when he schedules your next coffee meetup.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="dates--the-basics">Dates – The Basics&lt;/h2>
-&lt;h3 id="days-of-the-week">Days of the Week&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Italian&lt;/th>
- &lt;th>English&lt;/th>
- &lt;th>Pronunciation&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Lunedì&lt;/td>
- &lt;td>Monday&lt;/td>
- &lt;td>LOO-neh-dee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Martedì&lt;/td>
- &lt;td>Tuesday&lt;/td>
- &lt;td>MAR-teh-dee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Mercoledì&lt;/td>
- &lt;td>Wednesday&lt;/td>
- &lt;td>MEHR-koh-leh-dee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Giovedì&lt;/td>
- &lt;td>Thursday&lt;/td>
- &lt;td>JOH-veh-dee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Venerdì&lt;/td>
- &lt;td>Friday&lt;/td>
- &lt;td>VEH-nehr-dee&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Sabato&lt;/td>
- &lt;td>Saturday&lt;/td>
- &lt;td>SAH-bah-toh&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Domenica&lt;/td>
- &lt;td>Sunday&lt;/td>
- &lt;td>Doh-MEH-nee-kah&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;p>&lt;strong>Note&lt;/strong>: In Italian, the week starts with &lt;strong>Monday&lt;/strong>, not Sunday.&lt;/p></description></item><item><title>Exercise 6.3: Dates and Times Practice</title><link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-3/</guid><description>&lt;h1 id="exercise-63-dates-and-times-practice-">Exercise 6.3: Dates and Times Practice 🗓️⏰&lt;/h1>
-&lt;p>Let’s put your knowledge of Italian dates and times to the test! In this exercise, you’ll join Geoff and Viktor as they navigate the chaos of planning trips, coffee dates, and museum visits. Let’s see how well you can handle the clock and calendar!&lt;/p>
-&lt;hr>
-&lt;h3 id="1-fill-in-the-blanks--complete-the-date">1. Fill in the Blanks – Complete the Date&lt;/h3>
-&lt;p>Write the correct Italian date based on the prompts.&lt;/p>
-&lt;ol>
-&lt;li>Today is December 25, 2024. Write the date in Italian: &lt;strong>Il _____ dicembre 2024&lt;/strong>.&lt;/li>
-&lt;li>Tomorrow is March 1, 2024. Write the date in Italian: &lt;strong>Il _____ marzo 2024&lt;/strong>.&lt;/li>
-&lt;li>Yesterday was August 15, 2024. Write the date in Italian: &lt;strong>Il _____ agosto 2024&lt;/strong>.&lt;/li>
-&lt;/ol>
-&lt;hr>
-&lt;h3 id="2-translate-the-time">2. Translate the Time&lt;/h3>
-&lt;p>Translate the following times into Italian.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6. Numbers and Counting on Italiano con Geoff</title>
+    <link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/</link>
+    <description>Recent content in 6. Numbers and Counting on Italiano con Geoff</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/lessons/beginner/numbers-and-counting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lesson 6.1: Numbers 0–20 – The Foundation of Counting</title>
+      <link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-1/</guid>
+      <description>&lt;h1 id=&#34;lesson-61-numbers-020--the-foundation-of-counting-&#34;&gt;&#xA;  Lesson 6.1: Numbers 0–20 – The Foundation of Counting 🔢&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lesson-61-numbers-020--the-foundation-of-counting-&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the world of Italian numbers! In this lesson, you’ll master the basics and set the stage for navigating everything from ordering one espresso (&lt;em&gt;un caffè&lt;/em&gt;) to counting how many gelatos Geoff has eaten (spoiler: it’s more than three).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-youll-learn&#34;&gt;&#xA;  What You’ll Learn&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-youll-learn&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this lesson, you’ll be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Count from 0 to 20 in Italian.&lt;/li&gt;&#xA;&lt;li&gt;Recognize Italian numbers in everyday situations.&lt;/li&gt;&#xA;&lt;li&gt;Use numbers to impress your Italian-speaking friends (or Viktor, who loves precision).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;numbers-020&#34;&gt;&#xA;  Numbers 0–20&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#numbers-020&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Number&lt;/th&gt;&#xA;          &lt;th&gt;Italian&lt;/th&gt;&#xA;          &lt;th&gt;English&lt;/th&gt;&#xA;          &lt;th&gt;Pronunciation&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;0&lt;/td&gt;&#xA;          &lt;td&gt;Zero&lt;/td&gt;&#xA;          &lt;td&gt;Zero&lt;/td&gt;&#xA;          &lt;td&gt;ZEH-roh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;          &lt;td&gt;Uno&lt;/td&gt;&#xA;          &lt;td&gt;One&lt;/td&gt;&#xA;          &lt;td&gt;OO-noh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;          &lt;td&gt;Due&lt;/td&gt;&#xA;          &lt;td&gt;Two&lt;/td&gt;&#xA;          &lt;td&gt;DOO-eh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;3&lt;/td&gt;&#xA;          &lt;td&gt;Tre&lt;/td&gt;&#xA;          &lt;td&gt;Three&lt;/td&gt;&#xA;          &lt;td&gt;TREH&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;          &lt;td&gt;Quattro&lt;/td&gt;&#xA;          &lt;td&gt;Four&lt;/td&gt;&#xA;          &lt;td&gt;KWAH-troh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;Cinque&lt;/td&gt;&#xA;          &lt;td&gt;Five&lt;/td&gt;&#xA;          &lt;td&gt;CHEEN-kweh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;          &lt;td&gt;Sei&lt;/td&gt;&#xA;          &lt;td&gt;Six&lt;/td&gt;&#xA;          &lt;td&gt;SEH-ee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;          &lt;td&gt;Sette&lt;/td&gt;&#xA;          &lt;td&gt;Seven&lt;/td&gt;&#xA;          &lt;td&gt;SEHT-teh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;          &lt;td&gt;Otto&lt;/td&gt;&#xA;          &lt;td&gt;Eight&lt;/td&gt;&#xA;          &lt;td&gt;OHT-toh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;Nove&lt;/td&gt;&#xA;          &lt;td&gt;Nine&lt;/td&gt;&#xA;          &lt;td&gt;NOH-veh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;Dieci&lt;/td&gt;&#xA;          &lt;td&gt;Ten&lt;/td&gt;&#xA;          &lt;td&gt;DYAY-chee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11&lt;/td&gt;&#xA;          &lt;td&gt;Undici&lt;/td&gt;&#xA;          &lt;td&gt;Eleven&lt;/td&gt;&#xA;          &lt;td&gt;OON-dee-chee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;          &lt;td&gt;Dodici&lt;/td&gt;&#xA;          &lt;td&gt;Twelve&lt;/td&gt;&#xA;          &lt;td&gt;DOH-dee-chee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;13&lt;/td&gt;&#xA;          &lt;td&gt;Tredici&lt;/td&gt;&#xA;          &lt;td&gt;Thirteen&lt;/td&gt;&#xA;          &lt;td&gt;TREH-dee-chee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;Quattordici&lt;/td&gt;&#xA;          &lt;td&gt;Fourteen&lt;/td&gt;&#xA;          &lt;td&gt;KWAHT-tohr-dee-chee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;15&lt;/td&gt;&#xA;          &lt;td&gt;Quindici&lt;/td&gt;&#xA;          &lt;td&gt;Fifteen&lt;/td&gt;&#xA;          &lt;td&gt;KWEEN-dee-chee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;16&lt;/td&gt;&#xA;          &lt;td&gt;Sedici&lt;/td&gt;&#xA;          &lt;td&gt;Sixteen&lt;/td&gt;&#xA;          &lt;td&gt;SEH-dee-chee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;17&lt;/td&gt;&#xA;          &lt;td&gt;Diciassette&lt;/td&gt;&#xA;          &lt;td&gt;Seventeen&lt;/td&gt;&#xA;          &lt;td&gt;DEE-chah-SEHT-teh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;18&lt;/td&gt;&#xA;          &lt;td&gt;Diciotto&lt;/td&gt;&#xA;          &lt;td&gt;Eighteen&lt;/td&gt;&#xA;          &lt;td&gt;DEE-CHOHT-toh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;19&lt;/td&gt;&#xA;          &lt;td&gt;Diciannove&lt;/td&gt;&#xA;          &lt;td&gt;Nineteen&lt;/td&gt;&#xA;          &lt;td&gt;DEE-chah-NOH-veh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;20&lt;/td&gt;&#xA;          &lt;td&gt;Venti&lt;/td&gt;&#xA;          &lt;td&gt;Twenty&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-tee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-it-works&#34;&gt;&#xA;  How It Works&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#how-it-works&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Patterns&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exercise 6.1: Numbers 0–20 Practice</title>
+      <link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-1/</guid>
+      <description>&lt;h1 id=&#34;exercise-61-numbers-020-practice-&#34;&gt;&#xA;  Exercise 6.1: Numbers 0–20 Practice 🔢&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exercise-61-numbers-020-practice-&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;It’s time to practice your Italian numbers! Join Geoff as he tries to master counting with Viktor’s guidance (and occasional distractions). Let’s dive in and see how you do.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-fill-in-the-blanks--complete-the-numbers&#34;&gt;&#xA;  1. Fill in the Blanks – Complete the Numbers&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-fill-in-the-blanks--complete-the-numbers&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Fill in the missing Italian numbers.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Uno, Due, Tre, _____, Cinque&lt;/li&gt;&#xA;&lt;li&gt;_____, Otto, Nove, Dieci&lt;/li&gt;&#xA;&lt;li&gt;Dodici, _____, Quattordici, _____, Sedici&lt;/li&gt;&#xA;&lt;li&gt;Diciassette, _____, Diciannove, _____&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2-translate-the-numbers&#34;&gt;&#xA;  2. Translate the Numbers&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2-translate-the-numbers&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Write the Italian numbers for these English ones:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lesson 6.2: Counting to 100 – Double Digits Made Easy</title>
+      <link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-2/</guid>
+      <description>&lt;h1 id=&#34;lesson-62-counting-to-100--double-digits-made-easy-&#34;&gt;&#xA;  Lesson 6.2: Counting to 100 – Double Digits Made Easy 🔢&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lesson-62-counting-to-100--double-digits-made-easy-&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Congratulations! You’ve mastered the numbers from 0 to 20. Now it’s time to level up and tackle numbers 21 to 100. Whether you’re counting euros, steps, or gelatos (again, no judgment), double digits are essential.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-youll-learn&#34;&gt;&#xA;  What You’ll Learn&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-youll-learn&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this lesson, you’ll be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Count from 21 to 100 in Italian.&lt;/li&gt;&#xA;&lt;li&gt;Use numbers for prices, quantities, and other practical applications.&lt;/li&gt;&#xA;&lt;li&gt;Sound like a pro while chatting about numbers with Viktor.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;numbers-from-21-to-29&#34;&gt;&#xA;  Numbers from 21 to 29&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#numbers-from-21-to-29&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Tens&lt;/th&gt;&#xA;          &lt;th&gt;Italian&lt;/th&gt;&#xA;          &lt;th&gt;English&lt;/th&gt;&#xA;          &lt;th&gt;Pronunciation&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;21&lt;/td&gt;&#xA;          &lt;td&gt;Ventuno&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-one&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-too-no&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;22&lt;/td&gt;&#xA;          &lt;td&gt;Ventidue&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-two&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-tee-DOO-eh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;23&lt;/td&gt;&#xA;          &lt;td&gt;Ventitre&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-three&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-tee-TREH&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;24&lt;/td&gt;&#xA;          &lt;td&gt;Ventiquattro&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-four&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-tee-KWAH-troh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;25&lt;/td&gt;&#xA;          &lt;td&gt;Venticinque&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-five&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-tee-CHEEN-kweh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;26&lt;/td&gt;&#xA;          &lt;td&gt;Ventisei&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-six&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-tee-SEH-ee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;27&lt;/td&gt;&#xA;          &lt;td&gt;Ventisette&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-seven&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-tee-SEHT-teh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;28&lt;/td&gt;&#xA;          &lt;td&gt;Ventotto&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-eight&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-TOHT-toh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;29&lt;/td&gt;&#xA;          &lt;td&gt;Ventinove&lt;/td&gt;&#xA;          &lt;td&gt;Twenty-nine&lt;/td&gt;&#xA;          &lt;td&gt;VEHN-tee-NOH-veh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tens-and-multiples&#34;&gt;&#xA;  Tens and Multiples&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tens-and-multiples&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Tens&lt;/th&gt;&#xA;          &lt;th&gt;Italian&lt;/th&gt;&#xA;          &lt;th&gt;English&lt;/th&gt;&#xA;          &lt;th&gt;Pronunciation&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;30&lt;/td&gt;&#xA;          &lt;td&gt;Trenta&lt;/td&gt;&#xA;          &lt;td&gt;Thirty&lt;/td&gt;&#xA;          &lt;td&gt;TREHN-tah&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;40&lt;/td&gt;&#xA;          &lt;td&gt;Quaranta&lt;/td&gt;&#xA;          &lt;td&gt;Forty&lt;/td&gt;&#xA;          &lt;td&gt;KWAHR-ahn-tah&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;50&lt;/td&gt;&#xA;          &lt;td&gt;Cinquanta&lt;/td&gt;&#xA;          &lt;td&gt;Fifty&lt;/td&gt;&#xA;          &lt;td&gt;CHEEN-kwahn-tah&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;60&lt;/td&gt;&#xA;          &lt;td&gt;Sessanta&lt;/td&gt;&#xA;          &lt;td&gt;Sixty&lt;/td&gt;&#xA;          &lt;td&gt;SEHS-sahn-tah&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;70&lt;/td&gt;&#xA;          &lt;td&gt;Settanta&lt;/td&gt;&#xA;          &lt;td&gt;Seventy&lt;/td&gt;&#xA;          &lt;td&gt;SEHT-tahn-tah&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;80&lt;/td&gt;&#xA;          &lt;td&gt;Ottanta&lt;/td&gt;&#xA;          &lt;td&gt;Eighty&lt;/td&gt;&#xA;          &lt;td&gt;OHT-tahn-tah&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;90&lt;/td&gt;&#xA;          &lt;td&gt;Novanta&lt;/td&gt;&#xA;          &lt;td&gt;Ninety&lt;/td&gt;&#xA;          &lt;td&gt;NOH-vahn-tah&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;100&lt;/td&gt;&#xA;          &lt;td&gt;Cento&lt;/td&gt;&#xA;          &lt;td&gt;One Hundred&lt;/td&gt;&#xA;          &lt;td&gt;CHEN-toh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-it-works&#34;&gt;&#xA;  How It Works&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#how-it-works&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Combining Numbers&lt;/strong&gt;: Italian numbers 21–99 are formed by combining the tens with the units.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exercise 6.2: Double Digits Practice</title>
+      <link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-2/</guid>
+      <description>&lt;h1 id=&#34;exercise-62-double-digits-practice-&#34;&gt;&#xA;  Exercise 6.2: Double Digits Practice 🔢&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exercise-62-double-digits-practice-&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;It’s time to put your Italian counting skills to the test! In this exercise, Geoff is trying to navigate double digits with Viktor’s help (and occasional laughter). Let’s see how well you can handle these numbers.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-fill-in-the-blanks--complete-the-numbers&#34;&gt;&#xA;  1. Fill in the Blanks – Complete the Numbers&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-fill-in-the-blanks--complete-the-numbers&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Complete the following number sequences in Italian.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Ventuno, Ventidue, Ventitre, _____, Venticinque&lt;/li&gt;&#xA;&lt;li&gt;_____, Quarantadue, Quarantatre, Quarantaquattro, _____&lt;/li&gt;&#xA;&lt;li&gt;Cinquanta, _____, Cinquantadue, _____, Cinquantaquattro&lt;/li&gt;&#xA;&lt;li&gt;_____, Ottantacinque, _____, Ottantasette, Ottantotto&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2-translate-the-numbers&#34;&gt;&#xA;  2. Translate the Numbers&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2-translate-the-numbers&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Write the Italian words for these English numbers:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lesson 6.3: Dates and Times – Making Numbers Practical</title>
+      <link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/lesson6-3/</guid>
+      <description>&lt;h1 id=&#34;lesson-63-dates-and-times--making-numbers-practical-&#34;&gt;&#xA;  Lesson 6.3: Dates and Times – Making Numbers Practical 🗓️⏰&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lesson-63-dates-and-times--making-numbers-practical-&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Now that you’re comfortable with numbers up to 100, let’s make them useful! This lesson will teach you how to use numbers for telling time, understanding dates, and sounding like a true Italian local.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-youll-learn&#34;&gt;&#xA;  What You’ll Learn&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-youll-learn&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this lesson, you’ll be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Talk about dates and days of the week.&lt;/li&gt;&#xA;&lt;li&gt;Tell the time in Italian (and actually understand it!).&lt;/li&gt;&#xA;&lt;li&gt;Impress Viktor when he schedules your next coffee meetup.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;dates--the-basics&#34;&gt;&#xA;  Dates – The Basics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dates--the-basics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;days-of-the-week&#34;&gt;&#xA;  Days of the Week&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#days-of-the-week&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Italian&lt;/th&gt;&#xA;          &lt;th&gt;English&lt;/th&gt;&#xA;          &lt;th&gt;Pronunciation&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Lunedì&lt;/td&gt;&#xA;          &lt;td&gt;Monday&lt;/td&gt;&#xA;          &lt;td&gt;LOO-neh-dee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Martedì&lt;/td&gt;&#xA;          &lt;td&gt;Tuesday&lt;/td&gt;&#xA;          &lt;td&gt;MAR-teh-dee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mercoledì&lt;/td&gt;&#xA;          &lt;td&gt;Wednesday&lt;/td&gt;&#xA;          &lt;td&gt;MEHR-koh-leh-dee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Giovedì&lt;/td&gt;&#xA;          &lt;td&gt;Thursday&lt;/td&gt;&#xA;          &lt;td&gt;JOH-veh-dee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Venerdì&lt;/td&gt;&#xA;          &lt;td&gt;Friday&lt;/td&gt;&#xA;          &lt;td&gt;VEH-nehr-dee&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sabato&lt;/td&gt;&#xA;          &lt;td&gt;Saturday&lt;/td&gt;&#xA;          &lt;td&gt;SAH-bah-toh&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Domenica&lt;/td&gt;&#xA;          &lt;td&gt;Sunday&lt;/td&gt;&#xA;          &lt;td&gt;Doh-MEH-nee-kah&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: In Italian, the week starts with &lt;strong&gt;Monday&lt;/strong&gt;, not Sunday.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exercise 6.3: Dates and Times Practice</title>
+      <link>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/lessons/beginner/numbers-and-counting/exercise6-3/</guid>
+      <description>&lt;h1 id=&#34;exercise-63-dates-and-times-practice-&#34;&gt;&#xA;  Exercise 6.3: Dates and Times Practice 🗓️⏰&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#exercise-63-dates-and-times-practice-&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Let’s put your knowledge of Italian dates and times to the test! In this exercise, you’ll join Geoff and Viktor as they navigate the chaos of planning trips, coffee dates, and museum visits. Let’s see how well you can handle the clock and calendar!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-fill-in-the-blanks--complete-the-date&#34;&gt;&#xA;  1. Fill in the Blanks – Complete the Date&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-fill-in-the-blanks--complete-the-date&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Write the correct Italian date based on the prompts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

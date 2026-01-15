@@ -50,7 +50,7 @@ By the end of this lesson, you’ll be able to:
 ## How It Works  
 
 1. **Key Patterns**:  
-   - Numbers 11–16 are regular additions: *dieci + uno → undici*.  
+   - Numbers 11–16 are regular additions: *uno + dieci → undici*.  
    - Numbers 17–19 contract: *dici + sette → diciassette*.  
 
 2. **Cultural Note**: Italians love numbers! Whether it’s counting pasta portions or discussing soccer scores, numbers are everywhere.  
