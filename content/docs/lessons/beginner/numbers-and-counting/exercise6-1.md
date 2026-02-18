@@ -54,18 +54,18 @@ E) 5
 ### 4. Multiple Choice – Choose the Correct Response  
 
 1. Geoff asks Viktor: *Quanti caffè hai bevuto oggi?* *(How many coffees have you had today?)*  
-   Viktor replies:  
+   Viktor replies *4*:  
    - **A)** Uno  
    - **B)** Quattro  
    - **C)** Venti  
 
 2. Viktor says: *Quanti anni hai, Geoff?* *(How old are you, Geoff?)*  
-   Geoff responds:  
+   Geoff responds *18*:  
    - **A)** Tredici  
    - **B)** Diciotto  
    - **C)** Ventuno  
 
-3. You hear someone say: *Ci sono diciotto persone alla festa.* *(There are 18 people at the party.)* What does this mean?  
+3. You hear someone say: *Ci sono diciotto persone alla festa.*  What does this mean?  
    - **A)** There are 8 people at the party.  
    - **B)** There are 18 people at the party.  
    - **C)** There are 28 people at the party.  
@@ -110,7 +110,7 @@ Now it’s your turn!
 
 #### 4. Multiple Choice  
 1. **B)** Quattro  
-2. **C)** Ventuno  
+2. **C)** Diciotto  
 3. **B)** There are 18 people at the party.  
 
 #### 5. Create Your Own Dialogue – Sample  

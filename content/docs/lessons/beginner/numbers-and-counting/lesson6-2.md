@@ -91,13 +91,13 @@ Here are some practical ways to use numbers beyond 20:
 Use the numbers you’ve learned in these scenarios:  
 
 1. You’re buying 32 oranges. Tell the vendor how many you want.  
-   - *Ne voglio trentadue.*  
+   - *Ne voglio trentadue arance.*  
 
-2. Ask the price of 50 euros for a pair of shoes.  
+2. Ask the price for a pair of shoes.  
    - *Quanto costano queste scarpe?*  
 
 3. Respond when someone asks how old your cousin is (he’s 28).  
-   - *Ha ventotto anni.*  
+   - *Mio cugino ha ventotto anni.*  
 
 ---
 

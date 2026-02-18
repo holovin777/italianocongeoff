@@ -64,10 +64,10 @@ E) Monday
    - **B)** Giovedì  
    - **C)** Venerdì  
 
-3. Geoff says: *Il mercato è aperto il giovedi, giusto?* *(The market is open on Friday, right?)* Viktor replies:  
-   - **A)** Sì, il sabato. *(Yes, on Saturday.)*  
-   - **B)** No, il venerdì. *(No, on Friday.)*  
-   - **C)** No, è chiuso Lunedi. *(No, it’s closed Monday.)*  
+3. Geoff says: *Il mercato è aperto il giovedi, giusto?* *(The market is open on Friday, right?)* Viktor replies:  *No, on Friday.*
+   - **A)** Sì, il sabato.  
+   - **B)** No, il venerdì.  
+   - **C)** No, è chiuso Lunedi.  
 
 ---
 
