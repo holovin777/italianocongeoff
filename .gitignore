@@ -1,0 +1,8 @@
+# Hugo build output
+/public/
+
+# Hugo cache (opzionale ma consigliato)
+resources/
+
+# lock file (opzionale)
+.hugo_build.lock
