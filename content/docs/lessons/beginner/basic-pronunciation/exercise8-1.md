@@ -16,7 +16,7 @@ Fill in the missing vowels to complete the Italian words:
 
 1. C_s_ (*house*)  
 2. L_n_ (*moon*)  
-3. F_l_m (*movie*)  
+3. F_lm (*movie*)  
 4. V_n_ (*wine*)  
 5. C_n_ (*dog*)  
 
@@ -32,11 +32,11 @@ Match the Italian word to the vowel that stands out most when pronounced:
 4. **Casa**  
 5. **Cane**  
 
-A) **A** (house)
-B) **E** (dog)
-C) **I** (friend)
-D) **O** (vine)
-E) **U** (moon)
+A) House  
+B) Dog  
+C) Friend  
+D) Vine  
+E) Moon  
 
 ---
 
