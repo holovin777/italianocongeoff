@@ -49,15 +49,48 @@ Here’s the good news: **You don’t need to tip like in the U.S.** Here’s wh
 
 ## Example Dialogue  
 
-**Scenario**: Geoff and Viktor have finished their meal. Geoff doesn’t know he has to ask for the bill, so he just sits there… waiting.  
+**Scenario**: Geoff and Viktor have finished their meal at a restaurant in Italy. Geoff is waiting for the bill… but nothing happens.
 
-- **Geoff**: (whispering) *Viktor… where’s the bill?*  
-- **Viktor**: *Geoff… in Italy, you have to ask for it!*  
-- **Geoff**: *Oh! Uh…* (nervously signals the waiter) *Il conto, per favore?* *(The bill, please?)*  
-- **Waiter**: *Subito!* *(Right away!)*  
-(Geoff breathes a sigh of relief, but then sees an extra charge on the bill.)  
-- **Geoff**: *Ehm… cos’è “coperto” sulla ricevuta?* *(Uh… what’s "coperto" on the receipt?)*  
-- **Viktor**: *It’s the cover charge. Welcome to Italy, my friend.*  
+---
+
+- **Geoff**: *(whispering)*  
+  *Viktor… dov’è il conto?*  
+  *(Viktor… where’s the bill?)*  
+
+- **Viktor**:  
+  *Geoff… in Italia devi chiedere il conto!*  
+  *(Geoff… in Italy you have to ask for the bill!)*  
+
+- **Geoff**:  
+  *Ah! Davvero? Ok…*  
+  *(Oh! Really? Okay…)*  
+
+  *(Geoff nervously calls the waiter.)*  
+
+  *Mi scusi… il conto, per favore.*  
+  *(Excuse me… the bill, please.)*  
+
+- **Waiter**:  
+  *Subito, signore!*  
+  *(Right away, sir!)*  
+
+*(A few moments later, the waiter brings the bill. Geoff looks at it carefully.)*
+
+- **Geoff**:  
+  *Ehm… cos’è “coperto”?*  
+  *(Uh… what is “coperto”?)*  
+
+- **Viktor**:  
+  *È il costo del servizio al tavolo. Si paga per il pane, il posto a sedere… è normale in Italia.*  
+  *(It’s the cover charge. You pay for bread and the table service… it’s normal in Italy.)*  
+
+- **Geoff**:  
+  *Ah… interessante! In Australia non facciamo così.*  
+  *(Ah… interesting! We don’t do that in Australia.)*  
+
+- **Viktor**:  
+  *Benvenuto in Italia, amico mio.*  
+  *(Welcome to Italy, my friend.)*  
 
 ---
 
