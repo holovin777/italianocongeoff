@@ -78,8 +78,8 @@ When describing more than one family member, make sure to adjust the adjective a
 
 2. **Fill in the Blanks**:  
    Complete the sentences with the correct adjectives.  
-   - *Mio fratello è molto ___.* *(My brother is very ___.)*  
-   - *Le mie sorelle sono ___.* *(My sisters are ___. )*  
+   - *Mio fratello è molto ___.* *(My brother is very smart.)*  
+   - *Le mie sorelle sono ___.* *(My sisters are nice. )*  
 
 ---
 

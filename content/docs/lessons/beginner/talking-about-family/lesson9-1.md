@@ -71,7 +71,7 @@ Here’s a list of the most common family members in Italian. Memorize these and
 
 2. **Fill in the Blanks**:  
    Complete the sentences with the correct family member.  
-   - *Mio ___ è molto simpatico.* *(My mother is very nice.)*  
+   - *Mia ___ è molto simpatica.* *(My mother is very nice.)*  
    - *La mia ___ cucina la migliore pasta!* *(My grandmother cooks the best pasta!)*  
 
 ---

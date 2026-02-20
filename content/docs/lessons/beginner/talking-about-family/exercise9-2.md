@@ -14,11 +14,11 @@ It’s time to put your descriptive skills to the test! In this exercise, you’
 
 Complete each sentence with the correct adjective from the list: **alto, simpatica, vecchio, intelligente, divertente**.
 
-1. Mio zio è molto ___, ma fa ridere tutti! *(My uncle is very ___, but he makes everyone laugh!)*  
-2. Mia nonna è ___ e fa la pasta migliore del mondo. *(My grandma is ___ and makes the best pasta in the world.)*  
-3. Mia sorella è ___ e studia all’università. *(My sister is ___ and studies at the university.)*  
-4. Mio fratello è ___, sembra una giraffa! *(My brother is ___, he looks like a giraffe!)*  
-5. Mio nonno è ___, ma ha ancora energia da vendere! *(My grandpa is ___, but he still has lots of energy!)*  
+1. Mio zio è molto ___, ma fa ridere tutti! *(My uncle is very funny, but he makes everyone laugh!)*  
+2. Mia nonna è ___ e fa la pasta migliore del mondo. *(My grandma is friendly and makes the best pasta in the world.)*  
+3. Mia sorella è ___ e studia all’università. *(My sister is smart and studies at the university.)*  
+4. Mio fratello è ___, sembra una giraffa! *(My brother is tall, he looks like a giraffe!)*  
+5. Mio nonno è ___, ma ha ancora energia da vendere! *(My grandpa is old, but he still has lots of energy!)*  
 
 ---
 

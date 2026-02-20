@@ -14,13 +14,13 @@ Ordering at an Italian restaurant should be easy… unless you’re Geoff. He on
 
 Complete the sentences with the correct words: **conto, menu, acqua, antipasto, secondo**.
 
-1. **Geoff**: Buongiorno! Posso vedere il ___, per favore? *(Good morning! Can I see the ___, please?)*  
+1. **Geoff**: Buongiorno! Posso vedere il ___, per favore? *(Good morning! Can I see the menu, please?)*  
 2. **Waiter**: Certo! Cosa desidera? *(Of course! What would you like?)*  
-   **Geoff**: Vorrei un ___ misto, grazie. *(I’d like a mixed ___, thanks.)*  
+   **Geoff**: Vorrei un ___ misto, grazie. *(I’d like a mixed starter, thanks.)*  
 3. **Waiter**: Da bere? *(To drink?)*  
-   **Geoff**: Solo un po’ di ___ naturale, grazie. *(Just some still ___, thanks.)*  
-4. **Waiter**: Vuole anche un primo o un ___? *(Would you also like a first course or a ___?)*  
-5. **Geoff**: No, grazie! Ma posso avere il ___, per favore? *(No, thanks! But can I have the ___, please?)*  
+   **Geoff**: Solo un po’ di ___ naturale, grazie. *(Just some still water, thanks.)*  
+4. **Waiter**: Vuole anche un primo o un ___? *(Would you also like a first course or a main course?)*  
+5. **Geoff**: No, grazie! Ma posso avere il ___, per favore? *(No, thanks! But can I have the bill, please?)*  
 
 ---
 

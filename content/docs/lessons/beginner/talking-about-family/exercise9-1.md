@@ -14,11 +14,11 @@ It’s time to put your family vocabulary to the test! Whether you’re introduc
 
 Complete the sentences with the correct Italian family word.
 
-1. Geoff dice: *Questo è mio ___, si chiama Carlo.* *(This is my ___, his name is Carlo.)*  
-2. Viktor: *Questa è mia ___, fa la migliore pasta!* *(This is my ___, she makes the best pasta!)*  
-3. Geoff dice: *Ho una ___ che vive a Padova.* *(I have a ___ who lives in Padua.)*  
-4. Viktor: *Mio ___ è molto simpatico e ama il calcio.* *(My ___ is very nice and loves soccer.)*  
-5. Geoff dice: *I miei ___ vivono in Australia.* *(My ___ live in Australia.)*  
+1. Geoff dice: *Questo è mio ___, si chiama Carlo.* *(This is my uncle, his name is Carlo.)*  
+2. Viktor: *Questa è mia ___, fa la migliore pasta!* *(This is my grandmother, she makes the best pasta!)*  
+3. Geoff dice: *Ho una ___ che vive a Padova.* *(I have a cousin who lives in Padua.)*  
+4. Viktor: *Mio ___ è molto simpatico e ama il calcio.* *(My brother is very nice and loves soccer.)*  
+5. Geoff dice: *I miei ___ vivono in Australia.* *(My parents live in Australia.)*  
 
 ---
 
