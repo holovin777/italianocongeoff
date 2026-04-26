@@ -107,4 +107,4 @@ Example:
 
 ---
 
-> Coming up next: [Exercise 16.1](../exercise16-1) — Time to confess what you actually do when no one’s watching.
+> Coming up next: [Exercise 16.1](../exercise16-1/) — Time to confess what you actually do when no one’s watching.

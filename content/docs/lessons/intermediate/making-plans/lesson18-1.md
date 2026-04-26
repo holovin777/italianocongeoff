@@ -84,4 +84,4 @@ Example:
 
 ---
 
-👉 **Coming up next:** [Exercise 18.1](../exercise18-1) — Time to test your planning skills… or your excuses!
+👉 **Coming up next:** [Exercise 18.1](../exercise18-1/) — Time to test your planning skills… or your excuses!

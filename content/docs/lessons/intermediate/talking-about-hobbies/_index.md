@@ -33,6 +33,6 @@ Whether you're into dancing, coding, gardening, or arguing with tomatoes (Geoff 
 
 ---
 
-👉 [Start with Lesson 16.1](./lesson16-1)
+👉 [Start with Lesson 16.1](./lesson16-1/)
 
 > Warning: After this unit, you may accidentally join an Italian book club.

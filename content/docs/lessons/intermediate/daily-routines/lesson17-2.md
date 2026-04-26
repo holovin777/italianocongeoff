@@ -77,4 +77,4 @@ Try writing out your typical day. Keep it simple and funny!
 
 ---
 
-👉 **Coming up next:** [Exercise 17.2](../exercise17-2) — Let’s see if you can survive an Italian workday!
+👉 **Coming up next:** [Exercise 17.2](../exercise17-2/) — Let’s see if you can survive an Italian workday!

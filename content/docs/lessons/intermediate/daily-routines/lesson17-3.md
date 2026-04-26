@@ -70,4 +70,4 @@ Example:
 
 ---
 
-👉 **Coming up next:** [Exercise 17.3](../exercise17-3) — Let’s practice winding down in style. 🌙
+👉 **Coming up next:** [Exercise 17.3](../exercise17-3/) — Let’s practice winding down in style. 🌙

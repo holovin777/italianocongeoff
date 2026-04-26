@@ -111,6 +111,6 @@ Use the numbers you’ve learned in these scenarios:
 
 ## Ready for More?  
 
-Head over to [Exercise 6.2: Double Digits Practice](../exercise6.2/) and solidify your knowledge!  
+Head over to [Exercise 6.2: Double Digits Practice](../exercise6-2/) and solidify your knowledge!  
 
 ✨ **Bravo! You’re halfway to mastering Italian numbers. Buona fortuna!** 🌟  
