@@ -13,7 +13,7 @@ Now let’s see what you remember when everything is mixed together!
 
 ## 1. Fill in the Blanks
 
-Choose the correct adjective (and form!) for each sentence.
+Choose the correct adjective and use the right form.
 
 1. Il mio vicino è __________ e __________. *(kind, tall)*  
 2. La biblioteca è molto __________. *(quiet)*  
@@ -41,6 +41,7 @@ Fill in the blanks with appropriate adjectives:
 
 **Viktor:** Com’è il tuo professore?  
 **Geoff:** È __________ e molto __________.  
+
 **Viktor:** E la scuola?  
 **Geoff:** È abbastanza __________, ma anche __________!
 
@@ -50,13 +51,17 @@ Fill in the blanks with appropriate adjectives:
 
 Match the Italian adjective with its English meaning.
 
-| Italiano         | English             |
-|------------------|---------------------|
-| caotico          | warm                |
-| accogliente      | chaotic             |
-| brutto           | historic            |
-| antico           | ugly                |
-| rumoroso         | welcoming           |
+1. **caotico**  
+2. **accogliente**  
+3. **brutto**  
+4. **antico**  
+5. **rumoroso**  
+
+A) welcoming  
+B) ugly  
+C) noisy  
+D) chaotic  
+E) historic / ancient  
 
 ---
 
@@ -64,9 +69,9 @@ Match the Italian adjective with its English meaning.
 
 Imagine you're in a sunny Italian piazza. Describe:
 
-- The place (use at least 3 adjectives)  
-- The people (use at least 2 adjectives)  
-- One opinion (e.g. *Mi piace perché...*)
+- The place — use at least 3 adjectives  
+- The people — use at least 2 adjectives  
+- One opinion, for example: *Mi piace perché...*
 
 ---
 
@@ -74,38 +79,41 @@ Imagine you're in a sunny Italian piazza. Describe:
 
 ### 1. Fill in the Blanks
 
-1. gentile, alto  
-2. tranquilla  
-3. divertenti  
-4. accogliente  
-5. affollata, rumorosa
+1. **gentile, alto**  
+2. **tranquilla**  
+3. **divertenti**  
+4. **accogliente**  
+5. **affollata, rumorosa**
 
 ---
 
 ### 2. True or False
 
-1. V  
-2. F  
-3. V
-4. F (bello = beautiful)  
-5. V
+1. **V**  
+2. **F** — Correct form: *Il ristorante è rumoroso.*  
+3. **V** — *gentile* becomes *gentili* in the plural.  
+4. **F** — *bello* means beautiful.  
+5. **V**
 
 ---
 
-### 3. Mini-Dialogue (example)
+### 3. Mini-Dialogue — Example Answer
 
-**Geoff:** È simpatico e molto intelligente.  
-**Geoff:** È abbastanza grande, ma anche moderna!
+**Viktor:** Com’è il tuo professore?  
+**Geoff:** È **simpatico** e molto **intelligente**.  
+
+**Viktor:** E la scuola?  
+**Geoff:** È abbastanza **grande**, ma anche **moderna**!
 
 ---
 
 ### 4. Mix & Match – Solution
 
-| caotico → chaotic  
-| accogliente → welcoming  
-| brutto → ugly  
-| antico → historic  
-| rumoroso → noisy |
+1. **caotico → D) chaotic**  
+2. **accogliente → A) welcoming**  
+3. **brutto → B) ugly**  
+4. **antico → E) historic / ancient**  
+5. **rumoroso → C) noisy**
 
 ---
 
