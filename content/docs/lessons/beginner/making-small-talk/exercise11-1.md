@@ -20,14 +20,14 @@ Choose the correct word to complete these small talk phrases:
    - C) Dove  
 
 2. **Ti piace il ___?** *(Do you like football?)*  
-   - A) Pasta  
-   - B) Calcio  
+   - A) pasta  
+   - B) calcio  
    - C) Colosseo  
 
-3. **Come è andata la ___?** *(How was work?)*  
-   - A) Pizza  
-   - B) Giornata  
-   - C) Settimana  
+3. **Com’è andato il ___?** *(How was work?)*  
+   - A) lavoro  
+   - B) pizza  
+   - C) settimana  
 
 ---
 
@@ -43,7 +43,7 @@ Connect each **question** with its most **natural response**.
 
 A) *Sto bene, grazie!*  
 B) *Sì! Adoro Vasco Rossi!*  
-C) *Fa caldo da morire!*  
+C) *Sì, oggi si sta benissimo!*  
 D) *Certo! Tifo per il Milan!*  
 E) *Mi piace leggere e cucinare!*  
 
@@ -57,7 +57,7 @@ E) *Mi piace leggere e cucinare!*
    - C) *Ti piace il mio telefono?* *(Do you like my phone?)*  
 
 2. You want to ask someone how their day was. What do you say?  
-   - A) *Come è andata la giornata?*  
+   - A) *Com’è andata la giornata?*  
    - B) *Che ore sono?*  
    - C) *Posso prendere in prestito 10 euro?*  
 
@@ -75,7 +75,7 @@ Write a response for each situation:
 1. **Viktor**: *Che tempo fa oggi?* *(What’s the weather like today?)*  
    - **Your response**: _____________________________________  
 
-2. **Rossi**: *Come sta?* *(How are you?)*  
+2. **Signor Rossi**: *Come sta?* *(How are you?)*  
    - **Your response**: _____________________________________  
 
 3. **Geoff**: *Mi piace il calcio! E a te?* *(I like football! And you?)*  
@@ -89,11 +89,11 @@ Write a response for each situation:
 
 #### 1. Fill in the Blanks  
 1. **A) Che**  
-2. **B) Calcio**  
-3. **B) Giornata**  
+2. **B) calcio**  
+3. **A) lavoro**  
 
 #### 2. Match the Question to the Best Response  
-1. **C) Fa caldo da morire!**  
+1. **C) Sì, oggi si sta benissimo!**  
 2. **A) Sto bene, grazie!**  
 3. **D) Certo! Tifo per il Milan!**  
 4. **E) Mi piace leggere e cucinare!**  
@@ -101,13 +101,18 @@ Write a response for each situation:
 
 #### 3. Multiple Choice  
 1. **B) Che bel tempo oggi!** *(Nice weather today!)*  
-2. **A) Come è andata la giornata?* *(How was your day?)*  
-3. **A) Davvero? Anche a me!* *(Really? Me too!)*  
+2. **A) Com’è andata la giornata?** *(How was your day?)*  
+3. **A) Davvero? Anche a me!** *(Really? Me too!)*  
 
 #### 4. Situational Practice – Example Answers  
-1. *Oggi fa caldo, ma almeno c’è il sole!* *(It’s hot today, but at least it’s sunny!)*  
-2. *Sto bene, grazie! E Lei?* *(I’m good, thanks! And you?)*  
-3. *Sì! Tifo per la Juventus!* *(Yes! I support Juventus!)*  
+1. *Oggi fa caldo, ma almeno c’è il sole!*  
+   *(It’s hot today, but at least it’s sunny!)*  
+
+2. *Sto bene, grazie! E Lei?*  
+   *(I’m good, thanks! And you?)*  
+
+3. *Sì! Tifo per la Juventus!*  
+   *(Yes! I support Juventus!)*  
 
 {{% /details %}}  
 

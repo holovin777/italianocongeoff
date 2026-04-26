@@ -14,7 +14,7 @@ Discussing hobbies is a great way to connect with people—unless your only hobb
 
 Choose the correct word to complete these sentences:
 
-1. **Mi piace ___ la musica rock.** *(I like listening to rock music.)*  
+1. **Mi piace ___ musica rock.** *(I like listening to rock music.)*  
    - A) ascoltare  
    - B) mangiare  
    - C) ballare  
@@ -24,10 +24,10 @@ Choose the correct word to complete these sentences:
    - B) leggere  
    - C) dormire  
 
-3. **Adoro il calcio! Tifo per ___ squadra italiana.** *(I love football! I support an Italian team.)*  
-   - A) una  
-   - B) la  
-   - C) una grande  
+3. **Adoro il calcio! Tifo per una ___ italiana.** *(I love football! I support an Italian team.)*  
+   - A) squadra  
+   - B) pizza  
+   - C) musica  
 
 ---
 
@@ -42,8 +42,8 @@ Connect each hobby to its correct Italian phrase:
 5. **Playing football**  
 
 A) *Mi piace leggere libri.*  
-B) *Adoro viaggiare in nuovi posti.*  
-C) *Mi piace ascoltare la musica.*  
+B) *Mi piace viaggiare e visitare posti nuovi.*  
+C) *Mi piace ascoltare musica.*  
 D) *Mi piace cucinare piatti italiani.*  
 E) *Gioco a calcio con i miei amici.*  
 
@@ -75,7 +75,7 @@ Write a response for each situation:
 1. **Viktor**: *Cosa fai nel tempo libero?* *(What do you do in your free time?)*  
    - **Your response**: _____________________________________  
 
-2. **Rossi**: *Ti piace viaggiare?* *(Do you like traveling?)*  
+2. **Marco**: *Ti piace viaggiare?* *(Do you like traveling?)*  
    - **Your response**: _____________________________________  
 
 3. **Geoff**: *Qual è il tuo sport preferito?* *(What’s your favorite sport?)*  
@@ -90,24 +90,29 @@ Write a response for each situation:
 #### 1. Fill in the Blanks  
 1. **A) ascoltare**  
 2. **B) leggere**  
-3. **A) una**  
+3. **A) squadra**  
 
 #### 2. Match the Hobby to the Italian Sentence  
 1. **D) Mi piace cucinare piatti italiani.**  
 2. **A) Mi piace leggere libri.**  
-3. **B) Adoro viaggiare in nuovi posti.**  
-4. **C) Mi piace ascoltare la musica.**  
+3. **B) Mi piace viaggiare e visitare posti nuovi.**  
+4. **C) Mi piace ascoltare musica.**  
 5. **E) Gioco a calcio con i miei amici.**  
 
 #### 3. Multiple Choice  
 1. **B) Anche a me piace il calcio!** *(I also like football!)*  
 2. **A) Davvero? Anche a me!** *(Really? Me too!)*  
-3. **A) Cosa ti piace fare nel tempo libero?* *(What do you like to do in your free time?)*  
+3. **A) Cosa ti piace fare nel tempo libero?** *(What do you like to do in your free time?)*  
 
 #### 4. Situational Practice – Example Answers  
-1. *Mi piace ascoltare musica e leggere.* *(I like listening to music and reading.)*  
-2. *Sì! Amo visitare nuovi posti.* *(Yes! I love visiting new places.)*  
-3. *Mi piace giocare a tennis!* *(I like playing tennis!)*  
+1. *Mi piace ascoltare musica e leggere.*  
+   *(I like listening to music and reading.)*  
+
+2. *Sì! Amo visitare posti nuovi.*  
+   *(Yes! I love visiting new places.)*  
+
+3. *Mi piace giocare a tennis!*  
+   *(I like playing tennis!)*  
 
 {{% /details %}}  
 
