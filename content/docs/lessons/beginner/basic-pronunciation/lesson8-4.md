@@ -89,6 +89,6 @@ Rolling your R’s isn’t just about sounding authentic—it’s about showing 
 
 ## Ready for More?  
 
-Roll into the next section with [Exercise 8.4: Rolling Your R Practice](../exercise8.4/).  
+Roll into the next section with [Exercise 8.4: Rolling Your R Practice](../exercise8-4/).  
 
 ✨ **Bravissimo! Soon your R’s will roll effortlessly, and Italians will be asking which region you’re from. Buona fortuna!** 🌟  

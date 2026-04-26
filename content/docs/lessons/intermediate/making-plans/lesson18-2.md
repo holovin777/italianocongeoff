@@ -91,4 +91,4 @@ Or:
 
 ---
 
-👉 **Coming up next:** [Exercise 18.2](../exercise18-2) — Let’s put your time and place vocabulary to the test!
+👉 **Coming up next:** [Exercise 18.2](../exercise18-2/) — Let’s put your time and place vocabulary to the test!

@@ -112,6 +112,6 @@ Key vocabulary:
 
 ## Ready for More?  
 
-Head over to [Exercise 6.3: Dates and Times Practice](../exercise6.3/) to put your skills to the test!  
+Head over to [Exercise 6.3: Dates and Times Practice](../exercise6-3/) to put your skills to the test!  
 
 ✨ **Bravo! You’re mastering Italian dates and times. Buona fortuna!** 🌟  

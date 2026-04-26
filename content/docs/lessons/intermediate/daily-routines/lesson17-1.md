@@ -79,4 +79,4 @@ Example:
 
 ---
 
-👉 **Coming up next:** [Exercise 17.1](../exercise17-1) – Test your reflexes! Or at least your reflexive verbs.
+👉 **Coming up next:** [Exercise 17.1](../exercise17-1/) – Test your reflexes! Or at least your reflexive verbs.

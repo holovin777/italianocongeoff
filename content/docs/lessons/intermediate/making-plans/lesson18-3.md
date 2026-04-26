@@ -81,5 +81,5 @@ Example:
 
 ---
 
-👉 **Coming up next:** [Exercise 18.3](../exercise18-3) — Time to practice making Italian-style suggestions (plus a few Geoff-style excuses)!
+👉 **Coming up next:** [Exercise 18.3](../exercise18-3/) — Time to practice making Italian-style suggestions (plus a few Geoff-style excuses)!
 

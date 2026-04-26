@@ -41,4 +41,4 @@ From arranging coffee dates to planning big (or small) adventures, you’ll lear
 
 ---
 
-👉 **Start here:** [Lesson 18.1](./lesson18-1) – Where Geoff makes big promises… and Viktor keeps the calendar.
+👉 **Start here:** [Lesson 18.1](./lesson18-1/) – Where Geoff makes big promises… and Viktor keeps the calendar.

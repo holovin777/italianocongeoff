@@ -25,4 +25,4 @@ You'll learn how to:
 
 ---
 
-💬 **Coming up next:** [Lesson 17.1](./lesson17-1) — It all begins with waking up… unless you're Geoff. Then it begins with hitting snooze.
+💬 **Coming up next:** [Lesson 17.1](./lesson17-1/) — It all begins with waking up… unless you're Geoff. Then it begins with hitting snooze.

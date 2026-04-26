@@ -91,4 +91,4 @@ Select the most appropriate Italian phrase for each situation.
 
 ---
 
-✨ **Great job! Now that you’ve nailed the basics, move on to [Lesson 1.2: How to Say Farewell Without Sounding Rude](../lesson1.2/).** 🌟  
+✨ **Great job! Now that you’ve nailed the basics, move on to [Lesson 1.2: How to Say Farewell Without Sounding Rude](../lesson1-2/).** 🌟  
