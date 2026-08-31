@@ -559,4 +559,4 @@ And when Geoff asks whether half a liter of espresso is reasonable:
 
 Now it’s your turn to choose the right expression, complete sentences, and give your own opinions.
 
-[Go to Exercise 19.1 →](./exercise19-1/)
+[Go to Exercise 19.1 →](../exercise19-1/)
