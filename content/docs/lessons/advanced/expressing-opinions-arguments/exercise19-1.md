@@ -537,4 +537,4 @@ Politely.
 
 Preferably without losing a friendship over pizza. 🍕😄
 
-[Continue to Lesson 19.2 →](./lesson19-2/)
+[Continue to Lesson 19.2 →](../lesson19-2/)
